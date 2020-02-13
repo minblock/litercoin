@@ -47,7 +47,7 @@ static const int MAX_URI_LENGTH = 255;
 #define SPINNER_FRAMES 36
 
 #define QAPP_ORG_NAME "Lightcoin"
-#define QAPP_ORG_DOMAIN "lightcoin.org"
+#define QAPP_ORG_DOMAIN -light.pgn.one"
 #define QAPP_APP_NAME_DEFAULT "Lightcoin-Qt"
 #define QAPP_APP_NAME_TESTNET "Lightcoin-Qt-testnet"
 #define QAPP_APP_NAME_REGTEST "Lightcoin-Qt-regtest"

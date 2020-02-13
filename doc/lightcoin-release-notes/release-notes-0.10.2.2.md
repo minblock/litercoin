@@ -1,13 +1,13 @@
 Lightcoin Core version 0.10.2.2 is now available from:
 
-  <https://download.lightcoin.org/lightcoin-0.10.2.2/>
+  <https://download-light.pgn.one/lightcoin-0.10.2.2/>
 
 This is a new major version release, bringing bug fixes and translation 
 updates. It is recommended to upgrade to this version.
 
 Please report bugs using the issue tracker at github:
 
-  <https://github.com/lightcoin-project/lightcoin/issues>
+  <https://github.com/minblock/lightcoin/issues>
 
 Upgrading and downgrading
 =========================

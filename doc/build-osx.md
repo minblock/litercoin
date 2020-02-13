@@ -43,7 +43,7 @@ Build Lightcoin Core
 
 1. Clone the Lightcoin Core source code:
 
-        git clone https://github.com/lightcoin-project/lightcoin
+        git clone https://github.com/minblock/lightcoin
         cd lightcoin
 
 2.  Build Lightcoin Core:
