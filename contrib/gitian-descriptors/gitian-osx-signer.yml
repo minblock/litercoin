@@ -7,7 +7,7 @@ architectures:
 packages:
 - "faketime"
 remotes:
-- "url": "https://github.com/lightcoin-project/lightcoin-detached-sigs.git"
+- "url": "https://github.com/minblock/lightcoin-detached-sigs.git"
   "dir": "signature"
 files:
 - "lightcoin-osx-unsigned.tar.gz"
