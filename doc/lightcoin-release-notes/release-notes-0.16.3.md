@@ -1,13 +1,13 @@
 Lightcoin Core version 0.16.3 is now available from:
 
-  <https://download-light.pgn.one/lightcoin-0.16.3/>
+  <https://download.lightcoin.org/lightcoin-0.16.3/>
 
 This is a new minor version release, with various bugfixes
 as well as updated translations.
 
 Please report bugs using the issue tracker at GitHub:
 
-  <https://github.com/minblock/lightcoin/issues>
+  <https://github.com/lightcoin-project/lightcoin/issues>
 
 To receive security and update notifications, please subscribe to:
 

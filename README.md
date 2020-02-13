@@ -1,9 +1,9 @@
 Lightcoin Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/minblock/lightcoin.svg?branch=master)](https://travis-ci.org/minblock/lightcoin)
+[![Build Status](https://travis-ci.org/lightcoin-project/lightcoin.svg?branch=master)](https://travis-ci.org/lightcoin-project/lightcoin)
 
-https:/-light.pgn.one
+https://lightcoin.org
 
 What is Lightcoin?
 ----------------
@@ -15,7 +15,7 @@ out collectively by the network. Lightcoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Lightcoin Core software, see [https:/-light.pgn.one](https:/-light.pgn.one).
+the Lightcoin Core software, see [https://lightcoin.org](https://lightcoin.org).
 
 License
 -------
@@ -27,7 +27,7 @@ Development Process
 -------------------
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/minblock/lightcoin/tags) are created
+completely stable. [Tags](https://github.com/lightcoin-project/lightcoin/tags) are created
 regularly to indicate new official, stable release versions of Lightcoin Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md)
