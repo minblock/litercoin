@@ -217,7 +217,7 @@ EOF
     fi
 
     # Test whether tcmalloc is available
-    $CXX $CXXFLAGS -x c++ - -o $CXXOUTPUT -litmalloc 2>/dev/null  <<EOF
+    $CXX $CXXFLAGS -x c++ - -o $CXXOUTPUT -ltcmalloc 2>/dev/null  <<EOF
       int main() {}
 EOF
     if [ "$?" = 0 ]; then
