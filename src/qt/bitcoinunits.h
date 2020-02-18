@@ -59,7 +59,7 @@ public:
         BTC,
         mBTC,
         uBTC,
-        SAT
+        KITE
     };
 
     enum SeparatorStyle
