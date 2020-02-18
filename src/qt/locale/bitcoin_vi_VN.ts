@@ -62,12 +62,12 @@
         <translation>Địa chỉ nhận</translation>
     </message>
     <message>
-        <source>These are your Lightcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Đây là các địa chỉ Lightcoin để gửi bạn gửi tiền. Trước khi gửi bạn nên kiểm tra lại số tiền bạn muốn gửi và địa chỉ lightcoin của người nhận.</translation>
+        <source>These are your Lightercoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Đây là các địa chỉ Lightercoin để gửi bạn gửi tiền. Trước khi gửi bạn nên kiểm tra lại số tiền bạn muốn gửi và địa chỉ litecoin của người nhận.</translation>
     </message>
     <message>
-        <source>These are your Lightcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Đây là các địa chỉ Lightcoin để bạn nhận tiền. Với mỗi giao dịch, bạn nên dùng một địa chỉ Lightcoin mới để nhận tiền.</translation>
+        <source>These are your Lightercoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Đây là các địa chỉ Lightercoin để bạn nhận tiền. Với mỗi giao dịch, bạn nên dùng một địa chỉ Lightercoin mới để nhận tiền.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -319,8 +319,8 @@ Ví của bạn chưa được mã hóa.</translation>
         <translation>Đánh chỉ số (indexing) lại các khối (blocks) trên ổ đĩa ...</translation>
     </message>
     <message>
-        <source>Send coins to a Lightcoin address</source>
-        <translation>Gửi coins đến tài khoản Lightcoin</translation>
+        <source>Send coins to a Lightercoin address</source>
+        <translation>Gửi coins đến tài khoản Lightercoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -343,8 +343,8 @@ Ví của bạn chưa được mã hóa.</translation>
         <translation>&amp;Tin nhắn xác thực</translation>
     </message>
     <message>
-        <source>Lightcoin</source>
-        <translation>Lightcoin</translation>
+        <source>Lightercoin</source>
+        <translation>Lightercoin</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -367,12 +367,12 @@ Ví của bạn chưa được mã hóa.</translation>
         <translation>Mã hoá các khoá bí mật trong Ví của bạn.</translation>
     </message>
     <message>
-        <source>Sign messages with your Lightcoin addresses to prove you own them</source>
-        <translation>Dùng địa chỉ Lightcoin của bạn ký các tin nhắn để xác minh những nội dung tin nhắn đó là của bạn.</translation>
+        <source>Sign messages with your Lightercoin addresses to prove you own them</source>
+        <translation>Dùng địa chỉ Lightercoin của bạn ký các tin nhắn để xác minh những nội dung tin nhắn đó là của bạn.</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Lightcoin addresses</source>
-        <translation>Kiểm tra các tin nhắn để chắc chắn rằng chúng được ký bằng các địa chỉ Lightcoin xác định.</translation>
+        <source>Verify messages to ensure they were signed with specified Lightercoin addresses</source>
+        <translation>Kiểm tra các tin nhắn để chắc chắn rằng chúng được ký bằng các địa chỉ Lightercoin xác định.</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -391,8 +391,8 @@ Ví của bạn chưa được mã hóa.</translation>
         <translation>Thanh công cụ (toolbar)</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and lightcoin: URIs)</source>
-        <translation>Yêu cầu thanh toán(tạo mã QR và địa chỉ Lightcoin: URLs)</translation>
+        <source>Request payments (generates QR codes and litecoin: URIs)</source>
+        <translation>Yêu cầu thanh toán(tạo mã QR và địa chỉ Lightercoin: URLs)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -403,16 +403,16 @@ Ví của bạn chưa được mã hóa.</translation>
         <translation>Hiện thỉ danh sách các địa chỉ và nhãn đã dùng để nhận.</translation>
     </message>
     <message>
-        <source>Open a lightcoin: URI or payment request</source>
-        <translation>Mở lightcoin:URL hoặc yêu cầu thanh toán</translation>
+        <source>Open a litecoin: URI or payment request</source>
+        <translation>Mở litecoin:URL hoặc yêu cầu thanh toán</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>7Tùy chọn dòng lệnh</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Lightcoin network</source>
-        <translation><numerusform>%n liên kết hoạt động với mạng lưới Lightcoin</numerusform></translation>
+        <source>%n active connection(s) to Lightercoin network</source>
+        <translation><numerusform>%n liên kết hoạt động với mạng lưới Lightercoin</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -455,8 +455,8 @@ Ví của bạn chưa được mã hóa.</translation>
         <translation>Đã cập nhật</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible Lightcoin command-line options</source>
-        <translation>Hiển thị tin nhắn trợ giúp %1 để có được danh sách với các tùy chọn dòng lệnh Lightcoin.</translation>
+        <source>Show the %1 help message to get a list with possible Lightercoin command-line options</source>
+        <translation>Hiển thị tin nhắn trợ giúp %1 để có được danh sách với các tùy chọn dòng lệnh Lightercoin.</translation>
     </message>
     <message>
         <source>Connecting to peers...</source>
@@ -620,8 +620,8 @@ Ví của bạn chưa được mã hóa.</translation>
         <translation>Sử dụng vị trí dữ liệu mặc định</translation>
     </message>
     <message>
-        <source>Lightcoin</source>
-        <translation>Lightcoin</translation>
+        <source>Lightercoin</source>
+        <translation>Lightercoin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -669,8 +669,8 @@ Ví của bạn chưa được mã hóa.</translation>
         <translation>Ví</translation>
     </message>
     <message>
-        <source>Connect to the Lightcoin network through a SOCKS5 proxy.</source>
-        <translation>Kết nối đến máy chủ Lightcoin thông qua SOCKS5 proxy.</translation>
+        <source>Connect to the Lightercoin network through a SOCKS5 proxy.</source>
+        <translation>Kết nối đến máy chủ Lightercoin thông qua SOCKS5 proxy.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1182,8 +1182,8 @@ Ví của bạn chưa được mã hóa.</translation>
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Lightcoin Core</source>
-        <translation>Lightcoin Core</translation>
+        <source>Lightercoin Core</source>
+        <translation>Lightercoin Core</translation>
     </message>
     <message>
         <source>Information</source>

@@ -1,6 +1,6 @@
 ### TestGen ###
 
-Utilities to generate test vectors for the data-driven Lightcoin tests.
+Utilities to generate test vectors for the data-driven Lightercoin tests.
 
 Usage: 
 

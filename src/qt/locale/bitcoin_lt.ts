@@ -66,12 +66,12 @@
         <translation>Gavimo adresai</translation>
     </message>
     <message>
-        <source>These are your Lightcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Tai yra jūsų Lightcoin adresai išeinantiems mokėjimams. Visada pasitikrinkite sumą ir gavėjo adresą prieš siunčiant lėšas. </translation>
+        <source>These are your Lightercoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Tai yra jūsų Lightercoin adresai išeinantiems mokėjimams. Visada pasitikrinkite sumą ir gavėjo adresą prieš siunčiant lėšas. </translation>
     </message>
     <message>
-        <source>These are your Lightcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Tai yra Jūsų Lightcoin adresai įeinantiems mokėjimams. Kiekvienam mokėjimui rekomenduojama naudoti naują adresą. </translation>
+        <source>These are your Lightercoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Tai yra Jūsų Lightercoin adresai įeinantiems mokėjimams. Kiekvienam mokėjimui rekomenduojama naudoti naują adresą. </translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,8 +176,8 @@
         <translation>Patvirtinkite piniginės užšifravimą</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LIGHTCOINS&lt;/b&gt;!</source>
-        <translation>Dėmesio: jei užšifruosite savo piniginę ir pamesite slaptafrazę, jūs&lt;b&gt;PRARASITE VISUS SAVO LIGHTCOINUS&lt;/b&gt;! </translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FIRES&lt;/b&gt;!</source>
+        <translation>Dėmesio: jei užšifruosite savo piniginę ir pamesite slaptafrazę, jūs&lt;b&gt;PRARASITE VISUS SAVO FIREUS&lt;/b&gt;! </translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -188,8 +188,8 @@
         <translation>Piniginė užšifruota</translation>
     </message>
     <message>
-        <source>Your wallet is now encrypted. Remember that encrypting your wallet cannot fully protect your lightcoins from being stolen by malware infecting your computer.</source>
-        <translation>Jūsų piniginė yra užšifruota. Prisiminkite kad pinigės užšifravimas neapsaugos jūsų lightcoins nuo kenkėjiškų programų užkrėtusių jūsų kompiuterį.</translation>
+        <source>Your wallet is now encrypted. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
+        <translation>Jūsų piniginė yra užšifruota. Prisiminkite kad pinigės užšifravimas neapsaugos jūsų litecoins nuo kenkėjiškų programų užkrėtusių jūsų kompiuterį.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -342,8 +342,8 @@
         <translation>Tarpinis serveris yra &lt;b&gt;įgalintas&lt;/b&gt;: %1</translation>
     </message>
     <message>
-        <source>Send coins to a Lightcoin address</source>
-        <translation>Siųsti monetas Lightcoin adresui</translation>
+        <source>Send coins to a Lightercoin address</source>
+        <translation>Siųsti monetas Lightercoin adresui</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -366,8 +366,8 @@
         <translation>&amp;Tikrinti žinutę...</translation>
     </message>
     <message>
-        <source>Lightcoin</source>
-        <translation>Lightcoin</translation>
+        <source>Lightercoin</source>
+        <translation>Lightercoin</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -390,12 +390,12 @@
         <translation>Užšifruoti privačius raktus, kurie priklauso jūsų piniginei</translation>
     </message>
     <message>
-        <source>Sign messages with your Lightcoin addresses to prove you own them</source>
-        <translation>Pasirašydami žinutes su savo Lightcoin adresais įrodysite jog esate jų savininkas </translation>
+        <source>Sign messages with your Lightercoin addresses to prove you own them</source>
+        <translation>Pasirašydami žinutes su savo Lightercoin adresais įrodysite jog esate jų savininkas </translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Lightcoin addresses</source>
-        <translation>Patikrinkite žinutę, jog įsitikintumėte, kad ją pasirašė nurodytas Lightcoin adresas</translation>
+        <source>Verify messages to ensure they were signed with specified Lightercoin addresses</source>
+        <translation>Patikrinkite žinutę, jog įsitikintumėte, kad ją pasirašė nurodytas Lightercoin adresas</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -414,8 +414,8 @@
         <translation>Kortelių įrankinė</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and lightcoin: URIs)</source>
-        <translation>Reikalauti mokėjimų (sukuria QR kodus ir lightcoin: URI)</translation>
+        <source>Request payments (generates QR codes and litecoin: URIs)</source>
+        <translation>Reikalauti mokėjimų (sukuria QR kodus ir litecoin: URI)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -426,16 +426,16 @@
         <translation>Rodyti sąrašą panaudotų gavimo adresų ir žymių</translation>
     </message>
     <message>
-        <source>Open a lightcoin: URI or payment request</source>
-        <translation>Atidaryti lightcoin: URI ar apmokėjimo reikalavimą</translation>
+        <source>Open a litecoin: URI or payment request</source>
+        <translation>Atidaryti litecoin: URI ar apmokėjimo reikalavimą</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>Komandinės eilutės parametrai</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Lightcoin network</source>
-        <translation><numerusform>%n Lightcoin tinklo aktyvus ryšys</numerusform><numerusform>%n Lightcoin tinklo aktyvūs ryšiai</numerusform><numerusform>%n Lightcoin tinklo aktyvūs ryšiai</numerusform><numerusform>%n Lightcoin tinklo aktyvūs ryšiai</numerusform></translation>
+        <source>%n active connection(s) to Lightercoin network</source>
+        <translation><numerusform>%n Lightercoin tinklo aktyvus ryšys</numerusform><numerusform>%n Lightercoin tinklo aktyvūs ryšiai</numerusform><numerusform>%n Lightercoin tinklo aktyvūs ryšiai</numerusform><numerusform>%n Lightercoin tinklo aktyvūs ryšiai</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -502,8 +502,8 @@
         <translation>Uždaryti Piniginę</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible Lightcoin command-line options</source>
-        <translation>Rodyti %1 pagalbos žinutę su Lightcoin pasirinkimo komandomis</translation>
+        <source>Show the %1 help message to get a list with possible Lightercoin command-line options</source>
+        <translation>Rodyti %1 pagalbos žinutę su Lightercoin pasirinkimo komandomis</translation>
     </message>
     <message>
         <source>default wallet</source>
@@ -614,8 +614,8 @@
         <translation>Piniginė &lt;b&gt;užšifruota&lt;/b&gt; ir šiuo metu &lt;b&gt;užrakinta&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Lightcoin can no longer continue safely and will quit.</source>
-        <translation>Kritinė klaida. Lightcoin nebegali tęsti saugiai ir bus išjungtas.</translation>
+        <source>A fatal error occurred. Lightercoin can no longer continue safely and will quit.</source>
+        <translation>Kritinė klaida. Lightercoin nebegali tęsti saugiai ir bus išjungtas.</translation>
     </message>
 </context>
 <context>
@@ -804,8 +804,8 @@
         <translation>Keisti siuntimo adresą</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Lightcoin address.</source>
-        <translation>Įvestas adresas „%1“ nėra galiojantis Lightcoin adresas.</translation>
+        <source>The entered address "%1" is not a valid Lightercoin address.</source>
+        <translation>Įvestas adresas „%1“ nėra galiojantis Lightercoin adresas.</translation>
     </message>
     <message>
         <source>Address "%1" already exists as a receiving address with label "%2" and so cannot be added as a sending address.</source>
@@ -901,8 +901,8 @@
         <translation>Naudoti kitą duomenų katalogą:</translation>
     </message>
     <message>
-        <source>Lightcoin</source>
-        <translation>Lightcoin</translation>
+        <source>Lightercoin</source>
+        <translation>Lightercoin</translation>
     </message>
     <message>
         <source>At least %1 GB of data will be stored in this directory, and it will grow over time.</source>
@@ -913,8 +913,8 @@
         <translation>Šiame kataloge bus saugoma maždaug apie %1 GB duomenų.</translation>
     </message>
     <message>
-        <source>%1 will download and store a copy of the Lightcoin block chain.</source>
-        <translation>%1 bus atsisiųsta ir išsaugota Lightcoin blokų grandinės kopiją.</translation>
+        <source>%1 will download and store a copy of the Lightercoin block chain.</source>
+        <translation>%1 bus atsisiųsta ir išsaugota Lightercoin blokų grandinės kopiją.</translation>
     </message>
     <message>
         <source>The wallet will also be stored in this directory.</source>
@@ -944,12 +944,12 @@
         <translation>Forma</translation>
     </message>
     <message>
-        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the lightcoin network, as detailed below.</source>
-        <translation>Naujausi sandoriai gali būti dar nematomi, todėl jūsų piniginės likutis gali būti neteisingas. Ši informacija bus teisinga, kai jūsų piniginė bus baigta sinchronizuoti su lightcoin tinklu, kaip nurodyta žemiau.</translation>
+        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the litecoin network, as detailed below.</source>
+        <translation>Naujausi sandoriai gali būti dar nematomi, todėl jūsų piniginės likutis gali būti neteisingas. Ši informacija bus teisinga, kai jūsų piniginė bus baigta sinchronizuoti su litecoin tinklu, kaip nurodyta žemiau.</translation>
     </message>
     <message>
-        <source>Attempting to spend lightcoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
-        <translation>Tinklas nepriims bandymų išleisti lightcoinus, kurie yra vis dar nematomi.</translation>
+        <source>Attempting to spend litecoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
+        <translation>Tinklas nepriims bandymų išleisti litecoinus, kurie yra vis dar nematomi.</translation>
     </message>
     <message>
         <source>Number of blocks left</source>
@@ -1126,8 +1126,8 @@
         <translation>&amp;Išleiskite nepatvirtintus pakeitimus</translation>
     </message>
     <message>
-        <source>Automatically open the Lightcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatiškai atidaryti Lightcoin kliento prievadą maršrutizatoriuje. Tai veikia tik tada, kai jūsų maršrutizatorius palaiko UPnP ir ji įjungta.</translation>
+        <source>Automatically open the Lightercoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatiškai atidaryti Lightercoin kliento prievadą maršrutizatoriuje. Tai veikia tik tada, kai jūsų maršrutizatorius palaiko UPnP ir ji įjungta.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1142,8 +1142,8 @@
         <translation>Leisti gaunamu&amp;s ryšius</translation>
     </message>
     <message>
-        <source>Connect to the Lightcoin network through a SOCKS5 proxy.</source>
-        <translation>Prisijunkite prie „Lightcoin“ tinklo per SOCKS5 proxy.</translation>
+        <source>Connect to the Lightercoin network through a SOCKS5 proxy.</source>
+        <translation>Prisijunkite prie „Lightercoin“ tinklo per SOCKS5 proxy.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1178,8 +1178,8 @@
         <translation>Tor</translation>
     </message>
     <message>
-        <source>Connect to the Lightcoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
-        <translation>Prisijunkite prie „Lightcoin“ tinklo per atskirą „SOCKS5“ proxy „Tor“ paslėptas paslaugas.</translation>
+        <source>Connect to the Lightercoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <translation>Prisijunkite prie „Lightercoin“ tinklo per atskirą „SOCKS5“ proxy „Tor“ paslėptas paslaugas.</translation>
     </message>
     <message>
         <source>&amp;Window</source>
@@ -1289,8 +1289,8 @@
         <translation>Forma</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Lightcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Rodoma informacija gali būti pasenusi. Piniginė automatiškai sinchronizuojasi su „Lightcoin“ tinklu po ryšio užmezgimo, tačiau šis procesas dar nebaigtas.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Lightercoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Rodoma informacija gali būti pasenusi. Piniginė automatiškai sinchronizuojasi su „Lightercoin“ tinklu po ryšio užmezgimo, tačiau šis procesas dar nebaigtas.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1364,16 +1364,16 @@
         <translation>Mokėjimo užklausos klaida</translation>
     </message>
     <message>
-        <source>Cannot start lightcoin: click-to-pay handler</source>
-        <translation>Negalima paleisti lightcoin: paspauskite sumokėti tvarkytojui</translation>
+        <source>Cannot start litecoin: click-to-pay handler</source>
+        <translation>Negalima paleisti litecoin: paspauskite sumokėti tvarkytojui</translation>
     </message>
     <message>
         <source>URI handling</source>
         <translation>URI tvarkymas</translation>
     </message>
     <message>
-        <source>'lightcoin://' is not a valid URI. Use 'lightcoin:' instead.</source>
-        <translation>„lightcoin: //“ nėra galiojantis URI. Vietoj to naudokite „lightcoin:“.</translation>
+        <source>'litecoin://' is not a valid URI. Use 'litecoin:' instead.</source>
+        <translation>„litecoin: //“ nėra galiojantis URI. Vietoj to naudokite „litecoin:“.</translation>
     </message>
     <message>
         <source>You are using a BIP70 URL which will be unsupported in the future.</source>
@@ -1392,8 +1392,8 @@
         <translation>Neteisingas mokėjimo adresas %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Lightcoin address or malformed URI parameters.</source>
-        <translation>URI negalima perskaityti! Tai gali sukelti negaliojantys „Lightcoin“ adresas arba netinkami URI parametrai.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid Lightercoin address or malformed URI parameters.</source>
+        <translation>URI negalima perskaityti! Tai gali sukelti negaliojantys „Lightercoin“ adresas arba netinkami URI parametrai.</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1494,8 +1494,8 @@
         <translation>Suma</translation>
     </message>
     <message>
-        <source>Enter a Lightcoin address (e.g. %1)</source>
-        <translation>Įveskite Lightcoin adresą (pvz., %1)</translation>
+        <source>Enter a Lightercoin address (e.g. %1)</source>
+        <translation>Įveskite Lightercoin adresą (pvz., %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1946,8 +1946,8 @@
         <translation>Žinutė:</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Lightcoin network.</source>
-        <translation>Neprivalomas pranešimas, pridedamas prie mokėjimo prašymo, kuris bus rodomas atidarius užklausą. Pastaba: pranešimas nebus išsiųstas su mokėjimu per „Lightcoin“ tinklą.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Lightercoin network.</source>
+        <translation>Neprivalomas pranešimas, pridedamas prie mokėjimo prašymo, kuris bus rodomas atidarius užklausą. Pastaba: pranešimas nebus išsiųstas su mokėjimu per „Lightercoin“ tinklą.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -2227,8 +2227,8 @@ Pastaba: Kadangi mokestis apskaičiuojamas pagal baitą, mokestis už „100 sat
         <translation>Dulkės:</translation>
     </message>
     <message>
-        <source>When there is less transaction volume than space in the blocks, miners as well as relaying nodes may enforce a minimum fee. Paying only this minimum fee is just fine, but be aware that this can result in a never confirming transaction once there is more demand for lightcoin transactions than the network can process.</source>
-        <translation>Kai sandorių apimtis yra mažesnė nei erdvės blokuose, kasėjai ir perduodantys mazgai gali užtikrinti minimalų mokestį. Mokėti tik šį minimalų mokestį yra galima, tačiau atkreipkite dėmesį, kad dėl to gali atsirasti niekada nepatvirtinamas sandoris, kai bus daugiau paklausos lightcoin operacijoms, nei tinklas gali apdoroti.</translation>
+        <source>When there is less transaction volume than space in the blocks, miners as well as relaying nodes may enforce a minimum fee. Paying only this minimum fee is just fine, but be aware that this can result in a never confirming transaction once there is more demand for litecoin transactions than the network can process.</source>
+        <translation>Kai sandorių apimtis yra mažesnė nei erdvės blokuose, kasėjai ir perduodantys mazgai gali užtikrinti minimalų mokestį. Mokėti tik šį minimalų mokestį yra galima, tačiau atkreipkite dėmesį, kad dėl to gali atsirasti niekada nepatvirtinamas sandoris, kai bus daugiau paklausos litecoin operacijoms, nei tinklas gali apdoroti.</translation>
     </message>
     <message>
         <source>A too low fee might result in a never confirming transaction (read the tooltip)</source>
@@ -2371,8 +2371,8 @@ Pastaba: Kadangi mokestis apskaičiuojamas pagal baitą, mokestis už „100 sat
         <translation><numerusform>Apskaičiuota, kad bus pradėtas patvirtinimas per %n bloką.</numerusform><numerusform>Apskaičiuota, kad bus pradėtas patvirtinimas per %n blokus.</numerusform><numerusform>Apskaičiuota, kad bus pradėtas patvirtinimas per %n blokus.</numerusform><numerusform>Apskaičiuota, kad bus pradėtas patvirtinimas per %n blokus.</numerusform></translation>
     </message>
     <message>
-        <source>Warning: Invalid Lightcoin address</source>
-        <translation>Įspėjimas: neteisingas Lightcoin adresas</translation>
+        <source>Warning: Invalid Lightercoin address</source>
+        <translation>Įspėjimas: neteisingas Lightercoin adresas</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
@@ -2414,8 +2414,8 @@ Pastaba: Kadangi mokestis apskaičiuojamas pagal baitą, mokestis už „100 sat
         <translation>Tai įprastas mokėjimas.</translation>
     </message>
     <message>
-        <source>The Lightcoin address to send the payment to</source>
-        <translation>Lightcoin adresas, į kurį siunčiamas mokėjimas</translation>
+        <source>The Lightercoin address to send the payment to</source>
+        <translation>Lightercoin adresas, į kurį siunčiamas mokėjimas</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2434,8 +2434,8 @@ Pastaba: Kadangi mokestis apskaičiuojamas pagal baitą, mokestis už „100 sat
         <translation>Pašalinti šį įrašą</translation>
     </message>
     <message>
-        <source>The fee will be deducted from the amount being sent. The recipient will receive less lightcoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
-        <translation>Mokestis bus atimamas iš siunčiamos sumos. Gavėjas gaus mažiau lightcoinų nei įvesite sumos lauke. Jei pasirenkami keli gavėjai, mokestis padalijamas lygiai.</translation>
+        <source>The fee will be deducted from the amount being sent. The recipient will receive less litecoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
+        <translation>Mokestis bus atimamas iš siunčiamos sumos. Gavėjas gaus mažiau litecoinų nei įvesite sumos lauke. Jei pasirenkami keli gavėjai, mokestis padalijamas lygiai.</translation>
     </message>
     <message>
         <source>S&amp;ubtract fee from amount</source>
@@ -2462,8 +2462,8 @@ Pastaba: Kadangi mokestis apskaičiuojamas pagal baitą, mokestis už „100 sat
         <translation>Įveskite šio adreso etiketę, kad ją pridėtumėte prie naudojamų adresų sąrašo</translation>
     </message>
     <message>
-        <source>A message that was attached to the lightcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Lightcoin network.</source>
-        <translation>Pranešimas, kuris buvo pridėtas prie lightcoin: URI, kuris bus saugomas kartu su sandoriu jūsų nuoroda. Pastaba: šis pranešimas nebus išsiųstas per „Lightcoin“ tinklą.</translation>
+        <source>A message that was attached to the litecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Lightercoin network.</source>
+        <translation>Pranešimas, kuris buvo pridėtas prie litecoin: URI, kuris bus saugomas kartu su sandoriu jūsų nuoroda. Pastaba: šis pranešimas nebus išsiųstas per „Lightercoin“ tinklą.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -2507,8 +2507,8 @@ Pastaba: Kadangi mokestis apskaičiuojamas pagal baitą, mokestis už „100 sat
         <translation>&amp;Pasirašyti žinutę</translation>
     </message>
     <message>
-        <source>The Lightcoin address to sign the message with</source>
-        <translation>Lightcoin adresas, kuriuo bus pasirašytas pranešimas su</translation>
+        <source>The Lightercoin address to sign the message with</source>
+        <translation>Lightercoin adresas, kuriuo bus pasirašytas pranešimas su</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2539,7 +2539,7 @@ Pastaba: Kadangi mokestis apskaičiuojamas pagal baitą, mokestis už „100 sat
         <translation>Nukopijuokite dabartinį parašą į sistemos iškarpinę</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Lightcoin address</source>
+        <source>Sign the message to prove you own this Lightercoin address</source>
         <translation>Registruotis žinute įrodymuii, kad turite šį adresą</translation>
     </message>
     <message>
@@ -2559,12 +2559,12 @@ Pastaba: Kadangi mokestis apskaičiuojamas pagal baitą, mokestis už „100 sat
         <translation>&amp;Patikrinti žinutę</translation>
     </message>
     <message>
-        <source>The Lightcoin address the message was signed with</source>
-        <translation>Lightcoin adresas, kuriuo buvo pasirašytas pranešimas</translation>
+        <source>The Lightercoin address the message was signed with</source>
+        <translation>Lightercoin adresas, kuriuo buvo pasirašytas pranešimas</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Lightcoin address</source>
-        <translation>Patikrinkite žinutę, jog įsitikintumėte, kad ją pasirašė nurodytas Lightcoin adresas</translation>
+        <source>Verify the message to ensure it was signed with the specified Lightercoin address</source>
+        <translation>Patikrinkite žinutę, jog įsitikintumėte, kad ją pasirašė nurodytas Lightercoin adresas</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -3167,8 +3167,8 @@ Pastaba: Kadangi mokestis apskaičiuojamas pagal baitą, mokestis už „100 sat
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Lightcoin Core</source>
-        <translation>Lightcoin branduolys</translation>
+        <source>Lightercoin Core</source>
+        <translation>Lightercoin branduolys</translation>
     </message>
     <message>
         <source>The %s developers</source>

@@ -70,7 +70,7 @@
         <translation>Құпия сөзді өзгерту</translation>
     </message>
     <message>
-        <source>Lightcoin</source>
+        <source>Lightercoin</source>
         <translation>Биткоин</translation>
     </message>
     <message>
@@ -165,7 +165,7 @@
 <context>
     <name>Intro</name>
     <message>
-        <source>Lightcoin</source>
+        <source>Lightercoin</source>
         <translation>Биткоин</translation>
     </message>
     <message>

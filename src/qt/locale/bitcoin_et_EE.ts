@@ -130,8 +130,8 @@
         <translation>Kõvakettal olevate plokkide reindekseerimine...</translation>
     </message>
     <message>
-        <source>Lightcoin</source>
-        <translation>Lightcoin</translation>
+        <source>Lightercoin</source>
+        <translation>Lightercoin</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -261,8 +261,8 @@
         <translation>Tere tulemast</translation>
     </message>
     <message>
-        <source>Lightcoin</source>
-        <translation>Lightcoin</translation>
+        <source>Lightercoin</source>
+        <translation>Lightercoin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -755,8 +755,8 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Lightcoin Core</source>
-        <translation>Lightcoin Core</translation>
+        <source>Lightercoin Core</source>
+        <translation>Lightercoin Core</translation>
     </message>
     <message>
         <source>Information</source>

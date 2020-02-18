@@ -186,8 +186,8 @@
         <translation>Změnit heslo k šifrování peněženky</translation>
     </message>
     <message>
-        <source>Lightcoin</source>
-        <translation>Lightcoin</translation>
+        <source>Lightercoin</source>
+        <translation>Lightercoin</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -305,8 +305,8 @@
 <context>
     <name>Intro</name>
     <message>
-        <source>Lightcoin</source>
-        <translation>Lightcoin</translation>
+        <source>Lightercoin</source>
+        <translation>Lightercoin</translation>
     </message>
     </context>
 <context>

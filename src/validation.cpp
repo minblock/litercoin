@@ -48,7 +48,7 @@
 #include <boost/thread.hpp>
 
 #if defined(NDEBUG)
-# error "Lightcoin cannot be compiled without assertions."
+# error "Lightercoin cannot be compiled without assertions."
 #endif
 
 #define MICRO 0.000001
@@ -257,7 +257,7 @@ std::atomic_bool g_is_mempool_loaded{false};
 /** Constant stuff for coinbase transactions we create: */
 CScript COINBASE_FLAGS;
 
-const std::string strMessageMagic = "Lightcoin Signed Message:\n";
+const std::string strMessageMagic = "Lightercoin Signed Message:\n";
 
 // Internal stuff
 namespace {
@@ -1158,7 +1158,6 @@ CAmount GetBlockSubsidy(int nHeight, const Consensus::Params& consensusParams)
     if (halvings >= 64)
         return 0;
 
-    if (nHeight == 1) return COIN * 10000000;
     CAmount nSubsidy = 50 * COIN;
     // Subsidy is cut in half every 210,000 blocks which will occur approximately every 4 years.
     nSubsidy >>= halvings;
@@ -1678,7 +1677,7 @@ static bool WriteUndoDataForBlock(const CBlockUndo& blockundo, CValidationState&
 static CCheckQueue<CScriptCheck> scriptcheckqueue(128);
 
 void ThreadScriptCheck() {
-    RenameThread("lightcoin-scriptch");
+    RenameThread("litecoin-scriptch");
     scriptcheckqueue.Thread();
 }
 

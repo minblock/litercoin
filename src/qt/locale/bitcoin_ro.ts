@@ -62,12 +62,12 @@
         <translation>Adresele de primire</translation>
     </message>
     <message>
-        <source>These are your Lightcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Acestea sunt adresele tale Lightcoin pentru trimiterea plății. Verifică mereu suma și adresa de primire înainte de trimiterea monedelor.</translation>
+        <source>These are your Lightercoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Acestea sunt adresele tale Lightercoin pentru trimiterea plății. Verifică mereu suma și adresa de primire înainte de trimiterea monedelor.</translation>
     </message>
     <message>
-        <source>These are your Lightcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Acestea sunt adresele tale Lightcoin pentru primirea plăților. Este recomandată folosirea de noi adrese de primire pentru fiecare tranzacție.</translation>
+        <source>These are your Lightercoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Acestea sunt adresele tale Lightercoin pentru primirea plăților. Este recomandată folosirea de noi adrese de primire pentru fiecare tranzacție.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -164,8 +164,8 @@
         <translation>Confirmă criptarea portofelului</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LIGHTCOINS&lt;/b&gt;!</source>
-        <translation>Atenție: Dacă îți criptezi portofelul și uiți parola, îți vei &lt;b&gt; PIERDE TOȚI LIGHTCOINS&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FIRES&lt;/b&gt;!</source>
+        <translation>Atenție: Dacă îți criptezi portofelul și uiți parola, îți vei &lt;b&gt; PIERDE TOȚI FIRES&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -298,8 +298,8 @@
         <translation>Click pentru a permite, din nou, activitate rețelei.</translation>
     </message>
     <message>
-        <source>Send coins to a Lightcoin address</source>
-        <translation>Trimite monedele către o adresă Lightcoin</translation>
+        <source>Send coins to a Lightercoin address</source>
+        <translation>Trimite monedele către o adresă Lightercoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -322,8 +322,8 @@
         <translation>&amp;Verifică mesajul...</translation>
     </message>
     <message>
-        <source>Lightcoin</source>
-        <translation>Lightcoin</translation>
+        <source>Lightercoin</source>
+        <translation>Lightercoin</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -346,12 +346,12 @@
         <translation>Criptează cheile private care aparțin portofelului tău.</translation>
     </message>
     <message>
-        <source>Sign messages with your Lightcoin addresses to prove you own them</source>
-        <translation>Semnează mesajele cu adresa ta de Lightcoin pentru a face dovada că îți aparțin.</translation>
+        <source>Sign messages with your Lightercoin addresses to prove you own them</source>
+        <translation>Semnează mesajele cu adresa ta de Lightercoin pentru a face dovada că îți aparțin.</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Lightcoin addresses</source>
-        <translation>Verifică mesajele cu scopul de a asigura faptul că au fost semnate cu adresa de Lightcoin specificată.</translation>
+        <source>Verify messages to ensure they were signed with specified Lightercoin addresses</source>
+        <translation>Verifică mesajele cu scopul de a asigura faptul că au fost semnate cu adresa de Lightercoin specificată.</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -366,8 +366,8 @@
         <translation>&amp;Ajutor</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and lightcoin: URIs)</source>
-        <translation>Cerere plată (generează coduri QR și lightcoin: URIs)</translation>
+        <source>Request payments (generates QR codes and litecoin: URIs)</source>
+        <translation>Cerere plată (generează coduri QR și litecoin: URIs)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -378,8 +378,8 @@
         <translation>Afișează lista adreselor de primire utilizate și etichetele.</translation>
     </message>
     <message>
-        <source>Open a lightcoin: URI or payment request</source>
-        <translation>Deschide un lightcoin: URI sau cerere de plată</translation>
+        <source>Open a litecoin: URI or payment request</source>
+        <translation>Deschide un litecoin: URI sau cerere de plată</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -613,8 +613,8 @@
         <translation>Alege un folder/director personalizat</translation>
     </message>
     <message>
-        <source>Lightcoin</source>
-        <translation>Lightcoin</translation>
+        <source>Lightercoin</source>
+        <translation>Lightercoin</translation>
     </message>
     <message>
         <source>At least %1 GB of data will be stored in this directory, and it will grow over time.</source>
@@ -644,8 +644,8 @@
         <translation>formular</translation>
     </message>
     <message>
-        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the lightcoin network, as detailed below.</source>
-        <translation>Posibil ca tranzacțiile recente să nu fie vizibile, încă, astfel bilanțul portofelului tău poate fi incorect. Aceste informații vor fi corecte o dată ce portofelul tău a încheiat sincronizarea cu rețeaua lightcoin, conform descrierii de mai jos.</translation>
+        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the litecoin network, as detailed below.</source>
+        <translation>Posibil ca tranzacțiile recente să nu fie vizibile, încă, astfel bilanțul portofelului tău poate fi incorect. Aceste informații vor fi corecte o dată ce portofelul tău a încheiat sincronizarea cu rețeaua litecoin, conform descrierii de mai jos.</translation>
     </message>
     <message>
         <source>Unknown...</source>
@@ -1271,8 +1271,8 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Lightcoin Core</source>
-        <translation>Lightcoin Core</translation>
+        <source>Lightercoin Core</source>
+        <translation>Lightercoin Core</translation>
     </message>
     <message>
         <source>Upgrading UTXO database</source>

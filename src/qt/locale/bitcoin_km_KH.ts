@@ -151,8 +151,8 @@
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <source>Send coins to a Lightcoin address</source>
-        <translation>ផ្ញើកាក់ទៅកាន់ អាសយដ្ឋាន Lightcoin មួយ</translation>
+        <source>Send coins to a Lightercoin address</source>
+        <translation>ផ្ញើកាក់ទៅកាន់ អាសយដ្ឋាន Lightercoin មួយ</translation>
     </message>
     </context>
 <context>

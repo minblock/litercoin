@@ -66,12 +66,12 @@
         <translation>Adreces de recepció</translation>
     </message>
     <message>
-        <source>These are your Lightcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Aquestes són les vostres adreces de Lightcoin per enviar els pagaments. Sempre reviseu l'import i l'adreça del destinatari abans de transferir monedes.</translation>
+        <source>These are your Lightercoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Aquestes són les vostres adreces de Lightercoin per enviar els pagaments. Sempre reviseu l'import i l'adreça del destinatari abans de transferir monedes.</translation>
     </message>
     <message>
-        <source>These are your Lightcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Aquestes són les vostres adreces Lightcoin per rebre pagaments. Es recomana utilitzar una adreça nova de recepció per a cada transacció.</translation>
+        <source>These are your Lightercoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Aquestes són les vostres adreces Lightercoin per rebre pagaments. Es recomana utilitzar una adreça nova de recepció per a cada transacció.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,8 +176,8 @@
         <translation>Confirma l'encriptació del moneder</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LIGHTCOINS&lt;/b&gt;!</source>
-        <translation>Avís: si encripteu el vostre moneder i perdeu la contrasenya, &lt;b&gt;PERDREU TOTS ELS VOSTRES LIGHTCOINS&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FIRES&lt;/b&gt;!</source>
+        <translation>Avís: si encripteu el vostre moneder i perdeu la contrasenya, &lt;b&gt;PERDREU TOTS ELS VOSTRES FIRES&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -338,8 +338,8 @@
         <translation>El servidor proxy està &lt;b&gt;activat&lt;/b&gt;: %1</translation>
     </message>
     <message>
-        <source>Send coins to a Lightcoin address</source>
-        <translation>Envia monedes a una adreça Lightcoin</translation>
+        <source>Send coins to a Lightercoin address</source>
+        <translation>Envia monedes a una adreça Lightercoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -362,8 +362,8 @@
         <translation>&amp;Verifica el missatge...</translation>
     </message>
     <message>
-        <source>Lightcoin</source>
-        <translation>Lightcoin</translation>
+        <source>Lightercoin</source>
+        <translation>Lightercoin</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -386,12 +386,12 @@
         <translation>Encripta les claus privades pertanyents al moneder</translation>
     </message>
     <message>
-        <source>Sign messages with your Lightcoin addresses to prove you own them</source>
-        <translation>Signa el missatges amb la seva adreça de Lightcoin per provar que les poseeixes</translation>
+        <source>Sign messages with your Lightercoin addresses to prove you own them</source>
+        <translation>Signa el missatges amb la seva adreça de Lightercoin per provar que les poseeixes</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Lightcoin addresses</source>
-        <translation>Verifiqueu els missatges per assegurar-vos que han estat signats amb una adreça Lightcoin específica.</translation>
+        <source>Verify messages to ensure they were signed with specified Lightercoin addresses</source>
+        <translation>Verifiqueu els missatges per assegurar-vos que han estat signats amb una adreça Lightercoin específica.</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -410,8 +410,8 @@
         <translation>Barra d'eines de les pestanyes</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and lightcoin: URIs)</source>
-        <translation>Sol·licita pagaments (genera codis QR i lightcoin: URI)</translation>
+        <source>Request payments (generates QR codes and litecoin: URIs)</source>
+        <translation>Sol·licita pagaments (genera codis QR i litecoin: URI)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -422,8 +422,8 @@
         <translation>Mostra la llista d'adreces de recepció i etiquetes utilitzades</translation>
     </message>
     <message>
-        <source>Open a lightcoin: URI or payment request</source>
-        <translation>Obre una lightcoin: sol·licitud d'URI o pagament</translation>
+        <source>Open a litecoin: URI or payment request</source>
+        <translation>Obre una litecoin: sol·licitud d'URI o pagament</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -466,8 +466,8 @@
         <translation>Al dia</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible Lightcoin command-line options</source>
-        <translation>Mostra el missatge d'ajuda del %1 per obtenir una llista amb les possibles opcions de línia d'ordres de Lightcoin</translation>
+        <source>Show the %1 help message to get a list with possible Lightercoin command-line options</source>
+        <translation>Mostra el missatge d'ajuda del %1 per obtenir una llista amb les possibles opcions de línia d'ordres de Lightercoin</translation>
     </message>
     <message>
         <source>default wallet</source>
@@ -554,8 +554,8 @@
         <translation>El moneder està &lt;b&gt;encriptat&lt;/b&gt; i actualment &lt;b&gt;bloquejat&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Lightcoin can no longer continue safely and will quit.</source>
-        <translation>S'ha produït un error fatal. Lightcoin no pot continuar amb seguretat i finalitzarà.</translation>
+        <source>A fatal error occurred. Lightercoin can no longer continue safely and will quit.</source>
+        <translation>S'ha produït un error fatal. Lightercoin no pot continuar amb seguretat i finalitzarà.</translation>
     </message>
 </context>
 <context>
@@ -744,8 +744,8 @@
         <translation>Edita l'adreça d'enviament</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Lightcoin address.</source>
-        <translation>L'adreça introduïda «%1» no és una adreça de Lightcoin vàlida.</translation>
+        <source>The entered address "%1" is not a valid Lightercoin address.</source>
+        <translation>L'adreça introduïda «%1» no és una adreça de Lightercoin vàlida.</translation>
     </message>
     <message>
         <source>Address "%1" already exists as a receiving address with label "%2" and so cannot be added as a sending address.</source>
@@ -841,8 +841,8 @@
         <translation>Utilitza un directori de dades personalitzat:</translation>
     </message>
     <message>
-        <source>Lightcoin</source>
-        <translation>Lightcoin</translation>
+        <source>Lightercoin</source>
+        <translation>Lightercoin</translation>
     </message>
     <message>
         <source>At least %1 GB of data will be stored in this directory, and it will grow over time.</source>
@@ -853,8 +853,8 @@
         <translation>Aproximadament %1 GB de dades s'emmagatzemaran en aquest directori.</translation>
     </message>
     <message>
-        <source>%1 will download and store a copy of the Lightcoin block chain.</source>
-        <translation>%1 descarregarà i emmagatzemarà una còpia de la cadena de blocs Lightcoin.</translation>
+        <source>%1 will download and store a copy of the Lightercoin block chain.</source>
+        <translation>%1 descarregarà i emmagatzemarà una còpia de la cadena de blocs Lightercoin.</translation>
     </message>
     <message>
         <source>The wallet will also be stored in this directory.</source>
@@ -876,12 +876,12 @@
         <translation>Formulari</translation>
     </message>
     <message>
-        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the lightcoin network, as detailed below.</source>
-        <translation>És possible que les transaccions recents encara no siguin visibles i, per tant, el saldo del vostre moneder podria ser incorrecte. Aquesta informació serà correcta una vegada que el vostre moneder hagi finalitzat la sincronització amb la xarxa lightcoin, tal com es detalla més avall.</translation>
+        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the litecoin network, as detailed below.</source>
+        <translation>És possible que les transaccions recents encara no siguin visibles i, per tant, el saldo del vostre moneder podria ser incorrecte. Aquesta informació serà correcta una vegada que el vostre moneder hagi finalitzat la sincronització amb la xarxa litecoin, tal com es detalla més avall.</translation>
     </message>
     <message>
-        <source>Attempting to spend lightcoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
-        <translation>Els intents de gastar lightcoins que es veuen afectats per les transaccions que encara no s'hagin mostrat no seran acceptats per la xarxa.</translation>
+        <source>Attempting to spend litecoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
+        <translation>Els intents de gastar litecoins que es veuen afectats per les transaccions que encara no s'hagin mostrat no seran acceptats per la xarxa.</translation>
     </message>
     <message>
         <source>Number of blocks left</source>
@@ -1054,8 +1054,8 @@
         <translation>&amp;Gasta el canvi sense confirmar</translation>
     </message>
     <message>
-        <source>Automatically open the Lightcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Obre el port del client de Lightcoin al router de forma automàtica. Això només funciona quan el router implementa UPnP i l'opció està activada.</translation>
+        <source>Automatically open the Lightercoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Obre el port del client de Lightercoin al router de forma automàtica. Això només funciona quan el router implementa UPnP i l'opció està activada.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1070,8 +1070,8 @@
         <translation>Permet connexions entrants</translation>
     </message>
     <message>
-        <source>Connect to the Lightcoin network through a SOCKS5 proxy.</source>
-        <translation>Connecta a la xarxa Lightcoin a través d'un proxy SOCKS5.</translation>
+        <source>Connect to the Lightercoin network through a SOCKS5 proxy.</source>
+        <translation>Connecta a la xarxa Lightercoin a través d'un proxy SOCKS5.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1106,8 +1106,8 @@
         <translation>Tor</translation>
     </message>
     <message>
-        <source>Connect to the Lightcoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
-        <translation>Conectar a la red de Lightcoin a través de un proxy SOCKS5 per als serveis ocults de Tor</translation>
+        <source>Connect to the Lightercoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <translation>Conectar a la red de Lightercoin a través de un proxy SOCKS5 per als serveis ocults de Tor</translation>
     </message>
     <message>
         <source>&amp;Window</source>
@@ -1213,8 +1213,8 @@
         <translation>Formulari</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Lightcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>La informació mostrada pot no estar al día. El teu moneder es sincronitza automàticament amb la xarxa Lightcoin un cop s'ha establert connexió, però aquest proces no s'ha completat encara.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Lightercoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>La informació mostrada pot no estar al día. El teu moneder es sincronitza automàticament amb la xarxa Lightercoin un cop s'ha establert connexió, però aquest proces no s'ha completat encara.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1288,16 +1288,16 @@
         <translation>Error de la sol·licitud de pagament</translation>
     </message>
     <message>
-        <source>Cannot start lightcoin: click-to-pay handler</source>
-        <translation>No es pot iniciar lightcoin: controlador click-to-pay</translation>
+        <source>Cannot start litecoin: click-to-pay handler</source>
+        <translation>No es pot iniciar litecoin: controlador click-to-pay</translation>
     </message>
     <message>
         <source>URI handling</source>
         <translation>Gestió d'URI</translation>
     </message>
     <message>
-        <source>'lightcoin://' is not a valid URI. Use 'lightcoin:' instead.</source>
-        <translation>'lightcoin://' no és una URI vàlida. Usi 'lightcoin:' en lloc seu.</translation>
+        <source>'litecoin://' is not a valid URI. Use 'litecoin:' instead.</source>
+        <translation>'litecoin://' no és una URI vàlida. Usi 'litecoin:' en lloc seu.</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
@@ -1308,8 +1308,8 @@
         <translation>Adreça de pagament no vàlida %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Lightcoin address or malformed URI parameters.</source>
-        <translation>L'URI no pot ser analitzat! Això pot ser a causa d'una adreça de Lightcoin no vàlida o per paràmetres URI amb mal format.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid Lightercoin address or malformed URI parameters.</source>
+        <translation>L'URI no pot ser analitzat! Això pot ser a causa d'una adreça de Lightercoin no vàlida o per paràmetres URI amb mal format.</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1410,8 +1410,8 @@
         <translation>Import</translation>
     </message>
     <message>
-        <source>Enter a Lightcoin address (e.g. %1)</source>
-        <translation>Introduïu una adreça de Lightcoin (p. ex. %1)</translation>
+        <source>Enter a Lightercoin address (e.g. %1)</source>
+        <translation>Introduïu una adreça de Lightercoin (p. ex. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1830,8 +1830,8 @@
         <translation>&amp;Missatge:</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Lightcoin network.</source>
-        <translation>Un missatge opcional que s'adjuntarà a la sol·licitud de pagament, que es mostrarà quan s'obri la sol·licitud. Nota: El missatge no s'enviarà amb el pagament per la xarxa Lightcoin.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Lightercoin network.</source>
+        <translation>Un missatge opcional que s'adjuntarà a la sol·licitud de pagament, que es mostrarà quan s'obri la sol·licitud. Nota: El missatge no s'enviarà amb el pagament per la xarxa Lightercoin.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -2231,8 +2231,8 @@ Nota: Com que la comissió es calcula en funció dels bytes, una comissió de "1
         <translation>La sol·licitud de pagament ha vençut.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Lightcoin address</source>
-        <translation>Avís: adreça Lightcoin no vàlida</translation>
+        <source>Warning: Invalid Lightercoin address</source>
+        <translation>Avís: adreça Lightercoin no vàlida</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
@@ -2274,8 +2274,8 @@ Nota: Com que la comissió es calcula en funció dels bytes, una comissió de "1
         <translation>Això és un pagament normal.</translation>
     </message>
     <message>
-        <source>The Lightcoin address to send the payment to</source>
-        <translation>L'adreça Lightcoin on enviar el pagament</translation>
+        <source>The Lightercoin address to send the payment to</source>
+        <translation>L'adreça Lightercoin on enviar el pagament</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2294,8 +2294,8 @@ Nota: Com que la comissió es calcula en funció dels bytes, una comissió de "1
         <translation>Elimina aquesta entrada</translation>
     </message>
     <message>
-        <source>The fee will be deducted from the amount being sent. The recipient will receive less lightcoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
-        <translation>La comissió es deduirà de l'import que s'enviarà. El destinatari rebrà menys lightcoins que les que introduïu al camp d'import. Si se seleccionen múltiples destinataris, la comissió es dividirà per igual.</translation>
+        <source>The fee will be deducted from the amount being sent. The recipient will receive less litecoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
+        <translation>La comissió es deduirà de l'import que s'enviarà. El destinatari rebrà menys litecoins que les que introduïu al camp d'import. Si se seleccionen múltiples destinataris, la comissió es dividirà per igual.</translation>
     </message>
     <message>
         <source>S&amp;ubtract fee from amount</source>
@@ -2318,8 +2318,8 @@ Nota: Com que la comissió es calcula en funció dels bytes, una comissió de "1
         <translation>Introduïu una etiqueta per a aquesta adreça per afegir-la a la llista d'adreces utilitzades</translation>
     </message>
     <message>
-        <source>A message that was attached to the lightcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Lightcoin network.</source>
-        <translation>Un missatge que s'ha adjuntat al lightcoin: URI que s'emmagatzemarà amb la transacció per a la vostra referència. Nota: el missatge no s'enviarà a través de la xarxa Lightcoin.</translation>
+        <source>A message that was attached to the litecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Lightercoin network.</source>
+        <translation>Un missatge que s'ha adjuntat al litecoin: URI que s'emmagatzemarà amb la transacció per a la vostra referència. Nota: el missatge no s'enviarà a través de la xarxa Lightercoin.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -2363,12 +2363,12 @@ Nota: Com que la comissió es calcula en funció dels bytes, una comissió de "1
         <translation>&amp;Signa el missatge</translation>
     </message>
     <message>
-        <source>You can sign messages/agreements with your addresses to prove you can receive lightcoins sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation>Podeu signar missatges/acords amb les vostres adreces per provar que rebeu les lightcoins que s'hi envien. Aneu amb compte no signar res que sigui vague o aleatori, perquè en alguns atacs de suplantació es pot provar que hi signeu la vostra identitat. Només signeu aquelles declaracions completament detallades en què hi esteu d'acord. </translation>
+        <source>You can sign messages/agreements with your addresses to prove you can receive litecoins sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
+        <translation>Podeu signar missatges/acords amb les vostres adreces per provar que rebeu les litecoins que s'hi envien. Aneu amb compte no signar res que sigui vague o aleatori, perquè en alguns atacs de suplantació es pot provar que hi signeu la vostra identitat. Només signeu aquelles declaracions completament detallades en què hi esteu d'acord. </translation>
     </message>
     <message>
-        <source>The Lightcoin address to sign the message with</source>
-        <translation>L'adreça Lightcoin amb què signar el missatge</translation>
+        <source>The Lightercoin address to sign the message with</source>
+        <translation>L'adreça Lightercoin amb què signar el missatge</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2399,8 +2399,8 @@ Nota: Com que la comissió es calcula en funció dels bytes, una comissió de "1
         <translation>Copia la signatura actual al porta-retalls del sistema</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Lightcoin address</source>
-        <translation>Signa el missatge per provar que ets propietari d'aquesta adreça Lightcoin</translation>
+        <source>Sign the message to prove you own this Lightercoin address</source>
+        <translation>Signa el missatge per provar que ets propietari d'aquesta adreça Lightercoin</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2423,12 +2423,12 @@ Nota: Com que la comissió es calcula en funció dels bytes, una comissió de "1
         <translation>Introduïu l'adreça del receptor, el missatge (assegureu-vos de copiar els salts de línia, espais, tabuladors, etc. exactament) i signatura de sota per verificar el missatge. Tingueu cura de no llegir més en la signatura del que està al missatge signat, per evitar ser enganyat per un atac d'home-en-el-mig. Tingueu en compte que això només demostra que la part que signa rep amb l'adreça, i no es pot provar l'enviament de qualsevol transacció!</translation>
     </message>
     <message>
-        <source>The Lightcoin address the message was signed with</source>
-        <translation>L'adreça Lightcoin amb què va ser signat el missatge</translation>
+        <source>The Lightercoin address the message was signed with</source>
+        <translation>L'adreça Lightercoin amb què va ser signat el missatge</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Lightcoin address</source>
-        <translation>Verificar el missatge per assegurar-se que ha estat signat amb una adreça Lightcoin específica</translation>
+        <source>Verify the message to ensure it was signed with the specified Lightercoin address</source>
+        <translation>Verificar el missatge per assegurar-se que ha estat signat amb una adreça Lightercoin específica</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -3059,8 +3059,8 @@ Nota: Com que la comissió es calcula en funció dels bytes, una comissió de "1
         <translation>No s'ha pogut iniciar el servidor HTTP. Vegeu debug.log per a més detalls.</translation>
     </message>
     <message>
-        <source>Lightcoin Core</source>
-        <translation>Lightcoin Core</translation>
+        <source>Lightercoin Core</source>
+        <translation>Lightercoin Core</translation>
     </message>
     <message>
         <source>The %s developers</source>

@@ -62,12 +62,12 @@
         <translation>Fogadó címek</translation>
     </message>
     <message>
-        <source>These are your Lightcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Ezek az Ön kifizetéseinek küldésekor használandó Lightcoin-címek. Fizetés indítása előtt mindig ellenőrizze az összeget és a fogadó címet!</translation>
+        <source>These are your Lightercoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Ezek az Ön kifizetéseinek küldésekor használandó Lightercoin-címek. Fizetés indítása előtt mindig ellenőrizze az összeget és a fogadó címet!</translation>
     </message>
     <message>
-        <source>These are your Lightcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Ezek az Ön fizetéseinek fogadásakor használandó Lightcoin-címek. Célszerű minden tranzakcióhoz új fogadó címet használni.</translation>
+        <source>These are your Lightercoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Ezek az Ön fizetéseinek fogadásakor használandó Lightercoin-címek. Célszerű minden tranzakcióhoz új fogadó címet használni.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -172,8 +172,8 @@
         <translation>Tárca titkosításának jóváhagyása</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LIGHTCOINS&lt;/b&gt;!</source>
-        <translation>Figyelem: Ha titkosítja a pénztárcáját, és elveszíti a jelszóhalmazt, akkor &lt;b&gt;NEM TUD TÖBBET HOZZÁFÉRNI A LIGHTCOINJAIHOZ&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FIRES&lt;/b&gt;!</source>
+        <translation>Figyelem: Ha titkosítja a pénztárcáját, és elveszíti a jelszóhalmazt, akkor &lt;b&gt;NEM TUD TÖBBET HOZZÁFÉRNI A FIREJAIHOZ&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -326,8 +326,8 @@
         <translation>A blokkok újraindexelése folyik a merevlemezen...</translation>
     </message>
     <message>
-        <source>Send coins to a Lightcoin address</source>
-        <translation>Érmék küldése egy Lightcoin címre</translation>
+        <source>Send coins to a Lightercoin address</source>
+        <translation>Érmék küldése egy Lightercoin címre</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -350,8 +350,8 @@
         <translation>Üzenet &amp;ellenőrzése</translation>
     </message>
     <message>
-        <source>Lightcoin</source>
-        <translation>Lightcoin</translation>
+        <source>Lightercoin</source>
+        <translation>Lightercoin</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -374,12 +374,12 @@
         <translation>Tárcájához tartozó privát kulcsok titkosítása</translation>
     </message>
     <message>
-        <source>Sign messages with your Lightcoin addresses to prove you own them</source>
-        <translation>Írja alá az üzeneteit a Lightcoin címével, hogy bizonyítsa Öntől származnak</translation>
+        <source>Sign messages with your Lightercoin addresses to prove you own them</source>
+        <translation>Írja alá az üzeneteit a Lightercoin címével, hogy bizonyítsa Öntől származnak</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Lightcoin addresses</source>
-        <translation>Ellenőrizze az üzeneteket, hogy a megadott Lightcoin címekkel lettek-e aláírva</translation>
+        <source>Verify messages to ensure they were signed with specified Lightercoin addresses</source>
+        <translation>Ellenőrizze az üzeneteket, hogy a megadott Lightercoin címekkel lettek-e aláírva</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -398,8 +398,8 @@
         <translation>Ablak fülek eszköztára</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and lightcoin: URIs)</source>
-        <translation>Kérjen fizetéseket (QR kódokat generál és lightcoin: URLeket)</translation>
+        <source>Request payments (generates QR codes and litecoin: URIs)</source>
+        <translation>Kérjen fizetéseket (QR kódokat generál és litecoin: URLeket)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -410,16 +410,16 @@
         <translation>Mutassa a használt fogadó címek és cimkék listáját</translation>
     </message>
     <message>
-        <source>Open a lightcoin: URI or payment request</source>
-        <translation>Nyisson meg egy lightcoin: URI-t vagy fizetési kérelmet</translation>
+        <source>Open a litecoin: URI or payment request</source>
+        <translation>Nyisson meg egy litecoin: URI-t vagy fizetési kérelmet</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>&amp;Parancssor beállításai</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Lightcoin network</source>
-        <translation><numerusform>%n aktív kapcsolat a Lightcoin-hálózaton</numerusform><numerusform>%n aktív kapcsolat a Lightcoin-hálózaton</numerusform></translation>
+        <source>%n active connection(s) to Lightercoin network</source>
+        <translation><numerusform>%n aktív kapcsolat a Lightercoin-hálózaton</numerusform><numerusform>%n aktív kapcsolat a Lightercoin-hálózaton</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -462,8 +462,8 @@
         <translation>Naprakész</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible Lightcoin command-line options</source>
-        <translation>Mutassa a %1 súgó üzenetet a lehetséges Lightcoin parancssori beállítások listájáért</translation>
+        <source>Show the %1 help message to get a list with possible Lightercoin command-line options</source>
+        <translation>Mutassa a %1 súgó üzenetet a lehetséges Lightercoin parancssori beállítások listájáért</translation>
     </message>
     <message>
         <source>&amp;Window</source>
@@ -536,8 +536,8 @@
         <translation>Tárca &lt;b&gt;titkosítva&lt;/b&gt; és jelenleg &lt;b&gt;zárolva&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Lightcoin can no longer continue safely and will quit.</source>
-        <translation>Fatális hiba történt. A Lightcoin program nem tud tovább biztonságosan működni és be fog záródni.</translation>
+        <source>A fatal error occurred. Lightercoin can no longer continue safely and will quit.</source>
+        <translation>Fatális hiba történt. A Lightercoin program nem tud tovább biztonságosan működni és be fog záródni.</translation>
     </message>
 </context>
 <context>
@@ -726,8 +726,8 @@
         <translation>Küldési cím szerkesztése</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Lightcoin address.</source>
-        <translation>A megadott cím"%1" nem egy érvényes Lightcoin cím.</translation>
+        <source>The entered address "%1" is not a valid Lightercoin address.</source>
+        <translation>A megadott cím"%1" nem egy érvényes Lightercoin cím.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -815,8 +815,8 @@
         <translation>Egyéni adatmappa használata:</translation>
     </message>
     <message>
-        <source>Lightcoin</source>
-        <translation>Lightcoin</translation>
+        <source>Lightercoin</source>
+        <translation>Lightercoin</translation>
     </message>
     <message>
         <source>At least %1 GB of data will be stored in this directory, and it will grow over time.</source>
@@ -827,8 +827,8 @@
         <translation>Hozzávetőlegesen %1 GB adatot fogunk ebben a könyvtárban tárolni.</translation>
     </message>
     <message>
-        <source>%1 will download and store a copy of the Lightcoin block chain.</source>
-        <translation>%1 le fog töltődni és a Lightcoin blokk lánc egy másolatát fogja tárolni.</translation>
+        <source>%1 will download and store a copy of the Lightercoin block chain.</source>
+        <translation>%1 le fog töltődni és a Lightercoin blokk lánc egy másolatát fogja tárolni.</translation>
     </message>
     <message>
         <source>The wallet will also be stored in this directory.</source>
@@ -854,12 +854,12 @@
         <translation>Űrlap</translation>
     </message>
     <message>
-        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the lightcoin network, as detailed below.</source>
-        <translation>A legutóbbi tranzakciók még lehet, hogy nem látszanak, ezért előfordulhat, hogy a pénztárca egyenlege nem a valós állapotot mutatja. Ha a pénztárca befejezte a szinkronizációt a lightcoin hálózattal, utána már az aktuális egyenleget fogja mutatni, amint alant részletesen látszik.</translation>
+        <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the litecoin network, as detailed below.</source>
+        <translation>A legutóbbi tranzakciók még lehet, hogy nem látszanak, ezért előfordulhat, hogy a pénztárca egyenlege nem a valós állapotot mutatja. Ha a pénztárca befejezte a szinkronizációt a litecoin hálózattal, utána már az aktuális egyenleget fogja mutatni, amint alant részletesen látszik.</translation>
     </message>
     <message>
-        <source>Attempting to spend lightcoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
-        <translation>A hálózat nem fogadja el azoknak a lightcoinoknak az elköltését, amelyek érintettek a még nem látszódó tranzakciókban.</translation>
+        <source>Attempting to spend litecoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
+        <translation>A hálózat nem fogadja el azoknak a litecoinoknak az elköltését, amelyek érintettek a még nem látszódó tranzakciókban.</translation>
     </message>
     <message>
         <source>Number of blocks left</source>
@@ -1012,8 +1012,8 @@
         <translation>&amp;Költése a a jóváhagyatlan visszajárónak</translation>
     </message>
     <message>
-        <source>Automatically open the Lightcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatikusan nyissa meg a Lightcoin kliens által használt portot a routeren. Ez csak akkor működik, ha a router támogatja a UPnP-t, és engedélyezett ez a beállítás.</translation>
+        <source>Automatically open the Lightercoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatikusan nyissa meg a Lightercoin kliens által használt portot a routeren. Ez csak akkor működik, ha a router támogatja a UPnP-t, és engedélyezett ez a beállítás.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1028,8 +1028,8 @@
         <translation>&amp;Bejövő kapcsolatok engedélyezése</translation>
     </message>
     <message>
-        <source>Connect to the Lightcoin network through a SOCKS5 proxy.</source>
-        <translation>Csatlakozás a Lightcoin hálózathoz SOCKS5 proxy használatával.</translation>
+        <source>Connect to the Lightercoin network through a SOCKS5 proxy.</source>
+        <translation>Csatlakozás a Lightercoin hálózathoz SOCKS5 proxy használatával.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1064,8 +1064,8 @@
         <translation>Tor</translation>
     </message>
     <message>
-        <source>Connect to the Lightcoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
-        <translation>Csatlakozás a Lightcoin hálózathoz külön SOCKS5 proxy használatával a Tor rejtett szolgáltatásainak eléréséhez.</translation>
+        <source>Connect to the Lightercoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <translation>Csatlakozás a Lightercoin hálózathoz külön SOCKS5 proxy használatával a Tor rejtett szolgáltatásainak eléréséhez.</translation>
     </message>
     <message>
         <source>&amp;Window</source>
@@ -1171,7 +1171,7 @@
         <translation>Űrlap</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Lightcoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Lightercoin network after a connection is established, but this process has not completed yet.</source>
         <translation>Lehet, hogy a megjelenített információ elavult. A tárcája automatikusan szinkronizál a hálózattal kapcsolódás után, de a folyamat még nem ért véget.</translation>
     </message>
     <message>
@@ -1246,8 +1246,8 @@
         <translation>Hiba történt a fizetési kérelem során</translation>
     </message>
     <message>
-        <source>Cannot start lightcoin: click-to-pay handler</source>
-        <translation>A lightcoin nem tud elindulni: click-to-pay kezelő</translation>
+        <source>Cannot start litecoin: click-to-pay handler</source>
+        <translation>A litecoin nem tud elindulni: click-to-pay kezelő</translation>
     </message>
     <message>
         <source>URI handling</source>
@@ -1258,8 +1258,8 @@
         <translation>Érvénytelen fizetési cím %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Lightcoin address or malformed URI parameters.</source>
-        <translation>Az URI nem dolgozható fel! Ennek oka lehet egy érvénytelen Lightcoin-cím, vagy hibás URI-paraméterek.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid Lightercoin address or malformed URI parameters.</source>
+        <translation>Az URI nem dolgozható fel! Ennek oka lehet egy érvénytelen Lightercoin-cím, vagy hibás URI-paraméterek.</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1356,8 +1356,8 @@
         <translation>Összeg</translation>
     </message>
     <message>
-        <source>Enter a Lightcoin address (e.g. %1)</source>
-        <translation>Adjon meg egy Lightcoin-címet (pl. %1)</translation>
+        <source>Enter a Lightercoin address (e.g. %1)</source>
+        <translation>Adjon meg egy Lightercoin-címet (pl. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1768,8 +1768,8 @@
         <translation>&amp;Üzenet:</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Lightcoin network.</source>
-        <translation>Opciónális üzenet csatolása a fizetési kérelemhez, ami a kérelem megnyitásakor megjelenik. Megjegyzés: Az üzenet nem lesz elküldve a fizetéssel a Lightcoin hálózaton.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Lightercoin network.</source>
+        <translation>Opciónális üzenet csatolása a fizetési kérelemhez, ami a kérelem megnyitásakor megjelenik. Megjegyzés: Az üzenet nem lesz elküldve a fizetéssel a Lightercoin hálózaton.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -2089,8 +2089,8 @@
         <translation>Fizetési kérelem lejárt</translation>
     </message>
     <message>
-        <source>Warning: Invalid Lightcoin address</source>
-        <translation>Figyelem: érvénytelen Lightcoin cím</translation>
+        <source>Warning: Invalid Lightercoin address</source>
+        <translation>Figyelem: érvénytelen Lightercoin cím</translation>
     </message>
     <message>
         <source>Confirm custom change address</source>
@@ -2553,8 +2553,8 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Lightcoin Core</source>
-        <translation>Lightcoin Mag</translation>
+        <source>Lightercoin Core</source>
+        <translation>Lightercoin Mag</translation>
     </message>
     <message>
         <source>Do you want to rebuild the block database now?</source>

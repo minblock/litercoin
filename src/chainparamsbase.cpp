@@ -34,9 +34,9 @@ const CBaseChainParams& BaseParams()
 std::unique_ptr<CBaseChainParams> CreateBaseChainParams(const std::string& chain)
 {
     if (chain == CBaseChainParams::MAIN)
-        return MakeUnique<CBaseChainParams>("", 9332);
+        return MakeUnique<CBaseChainParams>("", 8732);
     else if (chain == CBaseChainParams::TESTNET)
-        return MakeUnique<CBaseChainParams>("testnet4", 19332);
+        return MakeUnique<CBaseChainParams>("testnet4", 18732);
     else if (chain == CBaseChainParams::REGTEST)
         return MakeUnique<CBaseChainParams>("regtest", 19443);
     else
@@ -48,3 +48,4 @@ void SelectBaseParams(const std::string& chain)
     globalChainBaseParams = CreateBaseChainParams(chain);
     gArgs.SelectConfigNetwork(chain);
 }
+

@@ -85,7 +85,7 @@ class ReplaceByFeeTest(BitcoinTestFramework):
 
     def run_test(self):
         if True:
-            raise SkipTest("Lightcoin has RBF disabled.")
+            raise SkipTest("Lightercoin has RBF disabled.")
 
         # Leave IBD
         self.nodes[0].generate(1)

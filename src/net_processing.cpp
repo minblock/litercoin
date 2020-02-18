@@ -33,7 +33,7 @@
 #include <memory>
 
 #if defined(NDEBUG)
-# error "Lightcoin cannot be compiled without assertions."
+# error "Lightercoin cannot be compiled without assertions."
 #endif
 
 /** Expiration time for orphan transactions in seconds */

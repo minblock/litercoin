@@ -256,7 +256,7 @@ UniValue stop(const JSONRPCRequest& jsonRequest)
     if (jsonRequest.fHelp || jsonRequest.params.size() > 1)
         throw std::runtime_error(
             RPCHelpMan{"stop",
-                "\nStop Lightcoin server.",
+                "\nStop Lightercoin server.",
                 {},
                 RPCResults{},
                 RPCExamples{""},
@@ -267,7 +267,7 @@ UniValue stop(const JSONRPCRequest& jsonRequest)
     if (jsonRequest.params[0].isNum()) {
         MilliSleep(jsonRequest.params[0].get_int());
     }
-    return "Lightcoin server stopping";
+    return "Lightercoin server stopping";
 }
 
 static UniValue uptime(const JSONRPCRequest& jsonRequest)
@@ -584,13 +584,13 @@ std::vector<std::string> CRPCTable::listCommands() const
 
 std::string HelpExampleCli(const std::string& methodname, const std::string& args)
 {
-    return "> lightcoin-cli " + methodname + " " + args + "\n";
+    return "> litecoin-cli " + methodname + " " + args + "\n";
 }
 
 std::string HelpExampleRpc(const std::string& methodname, const std::string& args)
 {
     return "> curl --user myusername --data-binary '{\"jsonrpc\": \"1.0\", \"id\":\"curltest\", "
-        "\"method\": \"" + methodname + "\", \"params\": [" + args + "] }' -H 'content-type: text/plain;' http://127.0.0.1:9332/\n";
+        "\"method\": \"" + methodname + "\", \"params\": [" + args + "] }' -H 'content-type: text/plain;' http://127.0.0.1:8732/\n";
 }
 
 void RPCSetTimerInterfaceIfUnset(RPCTimerInterface *iface)

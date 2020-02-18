@@ -1,41 +1,41 @@
-Lightcoin Core
+Lightercoin Core
 =============
 
 Setup
 ---------------------
-Lightcoin Core is the original Lightcoin client and it builds the backbone of the network. It downloads and, by default, stores the entire history of Lightcoin transactions, which requires approximately 22 gigabytes of disk space. Depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
+Lightercoin Core is the original Lightercoin client and it builds the backbone of the network. It downloads and, by default, stores the entire history of Lightercoin transactions, which requires approximately 22 gigabytes of disk space. Depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
 
-To download Lightcoin Core, visit [light.pgn.one](https://light.pgn.one/).
+To download Lightercoin Core, visit [litecoin.org](https://litecoin.org/).
 
 Running
 ---------------------
-The following are some helpful notes on how to run Lightcoin Core on your native platform.
+The following are some helpful notes on how to run Lightercoin Core on your native platform.
 
 ### Unix
 
 Unpack the files into a directory and run:
 
-- `bin/lightcoin-qt` (GUI) or
-- `bin/lightcoind` (headless)
+- `bin/litecoin-qt` (GUI) or
+- `bin/litecoind` (headless)
 
 ### Windows
 
-Unpack the files into a directory, and then run lightcoin-qt.exe.
+Unpack the files into a directory, and then run litecoin-qt.exe.
 
 ### macOS
 
-Drag Lightcoin Core to your applications folder, and then run Lightcoin Core.
+Drag Lightercoin Core to your applications folder, and then run Lightercoin Core.
 
 ### Need Help?
 
-* See the documentation at the [Lightcoin Wiki](https://lightcoin.info/)
+* See the documentation at the [Lightercoin Wiki](https://litecoin.info/)
 for help and more information.
-* Ask for help on [#lightcoin](http://webchat.freenode.net?channels=lightcoin) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=lightcoin).
-* Ask for help on the [LightcoinTalk](https://lightcointalk.io/) forums, in the [Technical Support section](https://lightcointalk.io/c/technical-support).
+* Ask for help on [#litecoin](http://webchat.freenode.net?channels=litecoin) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=litecoin).
+* Ask for help on the [LightercoinTalk](https://litecointalk.io/) forums, in the [Technical Support section](https://litecointalk.io/c/technical-support).
 
 Building
 ---------------------
-The following are developer notes on how to build Lightcoin Core on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
+The following are developer notes on how to build Lightercoin Core on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
 
 - [Dependencies](dependencies.md)
 - [macOS Build Notes](build-osx.md)
@@ -48,7 +48,7 @@ The following are developer notes on how to build Lightcoin Core on your native 
 
 Development
 ---------------------
-The Lightcoin repo's [root README](/README.md) contains relevant information on the development process and automated testing.
+The Lightercoin repo's [root README](/README.md) contains relevant information on the development process and automated testing.
 
 - [Developer Notes](developer-notes.md)
 - [Productivity Notes](productivity.md)
@@ -65,8 +65,8 @@ The Lightcoin repo's [root README](/README.md) contains relevant information on 
 - [Benchmarking](benchmarking.md)
 
 ### Resources
-* Discuss on the [LightcoinTalk](https://lightcointalk.io/) forums.
-* Discuss general Lightcoin development on #lightcoin-dev on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=lightcoin-dev.
+* Discuss on the [LightercoinTalk](https://litecointalk.io/) forums.
+* Discuss general Lightercoin development on #litecoin-dev on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=litecoin-dev.
 
 ### Miscellaneous
 - [Assets Attribution](assets-attribution.md)
