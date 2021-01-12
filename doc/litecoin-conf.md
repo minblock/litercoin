@@ -32,6 +32,6 @@ Network specific options can be:
 
 ## Configuration File Path
 
-The configuration file is not automatically created; you can create it using your favorite text editor. By default, the configuration file name is `litecoin.conf` and it is located in the Lightercoin data directory, but both the Lightercoin data directory and the configuration file path may be changed using the `-datadir` and `-conf` command-line options.
+The configuration file is not automatically created; you can create it using your favorite text editor. By default, the configuration file name is `litecoin.conf` and it is located in the Litercoin data directory, but both the Litercoin data directory and the configuration file path may be changed using the `-datadir` and `-conf` command-line options.
 
 The `includeconf=<file>` option in the `litecoin.conf` file can be used to include additional configuration files.

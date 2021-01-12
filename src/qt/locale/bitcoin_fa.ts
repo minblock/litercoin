@@ -66,11 +66,11 @@
         <translation>آدرس‌های دریافتی</translation>
     </message>
     <message>
-        <source>These are your Lightercoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Litercoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>این‌ها آدرس‌های بیتکوین برای پرداخت‌ها هستند. همیشه قبل از فرستادن سکه‌ها مقدار و آدرس دریافت‌کننده را بررسی نمایید.</translation>
     </message>
     <message>
-        <source>These are your Lightercoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your Litercoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation>این‌ها آدرس‌های بیتکوین شما برای دریافت مبالغ می‌باشد. توصیه می‌شود برای هر تراکنش از یک آدرس جدید استفاده کنید.</translation>
     </message>
     <message>
@@ -318,8 +318,8 @@
         <translation>بازنشانی بلوک‌ها روی دیسک...</translation>
     </message>
     <message>
-        <source>Send coins to a Lightercoin address</source>
-        <translation>ارسال وجه به نشانی Lightercoin</translation>
+        <source>Send coins to a Litercoin address</source>
+        <translation>ارسال وجه به نشانی Litercoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -342,8 +342,8 @@
         <translation>با&amp;زبینی پیام...</translation>
     </message>
     <message>
-        <source>Lightercoin</source>
-        <translation>Lightercoin</translation>
+        <source>Litercoin</source>
+        <translation>Litercoin</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -366,12 +366,12 @@
         <translation>رمزنگاری کلیدهای خصوصی متعلق به کیف پول شما</translation>
     </message>
     <message>
-        <source>Sign messages with your Lightercoin addresses to prove you own them</source>
-        <translation>برای اثبات اینکه پیام‌ها به شما تعلق دارند، آن‌ها را با نشانی Lightercoin خود امضا کنید</translation>
+        <source>Sign messages with your Litercoin addresses to prove you own them</source>
+        <translation>برای اثبات اینکه پیام‌ها به شما تعلق دارند، آن‌ها را با نشانی Litercoin خود امضا کنید</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Lightercoin addresses</source>
-        <translation>برای حصول اطمینان از اینکه پیام با نشانی Lightercoin مشخص شده امضا است یا خیر، پیام را شناسایی کنید</translation>
+        <source>Verify messages to ensure they were signed with specified Litercoin addresses</source>
+        <translation>برای حصول اطمینان از اینکه پیام با نشانی Litercoin مشخص شده امضا است یا خیر، پیام را شناسایی کنید</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -410,8 +410,8 @@
         <translation>گزینه‌های خط‌فرمان</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Lightercoin network</source>
-        <translation><numerusform>%n ارتباط فعال با شبکهٔ Lightercoin</numerusform><numerusform>%n ارتباط فعال با شبکهٔ Lightercoin</numerusform></translation>
+        <source>%n active connection(s) to Litercoin network</source>
+        <translation><numerusform>%n ارتباط فعال با شبکهٔ Litercoin</numerusform><numerusform>%n ارتباط فعال با شبکهٔ Litercoin</numerusform></translation>
     </message>
     <message>
         <source>Processing blocks on disk...</source>
@@ -662,8 +662,8 @@
         <translation>ویرایش آدرس قرستنده</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Lightercoin address.</source>
-        <translation>نشانی وارد شده "%1" یک نشانی معتبر Lightercoin نیست.</translation>
+        <source>The entered address "%1" is not a valid Litercoin address.</source>
+        <translation>نشانی وارد شده "%1" یک نشانی معتبر Litercoin نیست.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -735,8 +735,8 @@
         <translation>استفاده از یک مسیر سفارشی:</translation>
     </message>
     <message>
-        <source>Lightercoin</source>
-        <translation>Lightercoin</translation>
+        <source>Litercoin</source>
+        <translation>Litercoin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -836,8 +836,8 @@
         <translation>استخراج</translation>
     </message>
     <message>
-        <source>Automatically open the Lightercoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>باز کردن خودکار درگاه شبکهٔ Lightercoin روی روترها. تنها زمانی کار می‌کند که روتر از پروتکل UPnP پشتیبانی کند و این پروتکل فعال باشد.</translation>
+        <source>Automatically open the Litercoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>باز کردن خودکار درگاه شبکهٔ Litercoin روی روترها. تنها زمانی کار می‌کند که روتر از پروتکل UPnP پشتیبانی کند و این پروتکل فعال باشد.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -939,8 +939,8 @@
         <translation>فرم</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Lightercoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>اطلاعات نمایش‌داده شده ممکن است قدیمی باشند. بعد از این که یک اتصال با شبکه برقرار شد، کیف پول شما به‌صورت خودکار با شبکهٔ Lightercoin همگام‌سازی می‌شود. اما این روند هنوز کامل نشده است.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Litercoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>اطلاعات نمایش‌داده شده ممکن است قدیمی باشند. بعد از این که یک اتصال با شبکه برقرار شد، کیف پول شما به‌صورت خودکار با شبکهٔ Litercoin همگام‌سازی می‌شود. اما این روند هنوز کامل نشده است.</translation>
     </message>
     <message>
         <source>Available:</source>
@@ -1016,8 +1016,8 @@
         <translation>مبلغ</translation>
     </message>
     <message>
-        <source>Enter a Lightercoin address (e.g. %1)</source>
-        <translation>یک آدرس Lightercoin وارد کنید (مثلاً %1)</translation>
+        <source>Enter a Litercoin address (e.g. %1)</source>
+        <translation>یک آدرس Litercoin وارد کنید (مثلاً %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1496,8 +1496,8 @@
         <translation>این یک پرداخت عادی است</translation>
     </message>
     <message>
-        <source>The Lightercoin address to send the payment to</source>
-        <translation>نشانی Lightercoin برای ارسال پرداخت به آن</translation>
+        <source>The Litercoin address to send the payment to</source>
+        <translation>نشانی Litercoin برای ارسال پرداخت به آن</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -1549,8 +1549,8 @@
         <translation>ا&amp;مضای پیام</translation>
     </message>
     <message>
-        <source>The Lightercoin address to sign the message with</source>
-        <translation>نشانی Lightercoin برای امضاء پیغام با آن</translation>
+        <source>The Litercoin address to sign the message with</source>
+        <translation>نشانی Litercoin برای امضاء پیغام با آن</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1581,7 +1581,7 @@
         <translation>امضای فعلی را به حافظهٔ سیستم کپی کن</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Lightercoin address</source>
+        <source>Sign the message to prove you own this Litercoin address</source>
         <translation>برای اثبات تعلق این نشانی به شما، پیام را امضا کنید</translation>
     </message>
     <message>
@@ -1601,12 +1601,12 @@
         <translation>&amp;شناسایی پیام</translation>
     </message>
     <message>
-        <source>The Lightercoin address the message was signed with</source>
-        <translation>نشانی Lightercoin که پیغام با آن امضاء شده</translation>
+        <source>The Litercoin address the message was signed with</source>
+        <translation>نشانی Litercoin که پیغام با آن امضاء شده</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Lightercoin address</source>
-        <translation>برای حصول اطمینان از اینکه پیام با نشانی Lightercoin مشخص شده امضا است یا خیر، پیام را شناسایی کنید</translation>
+        <source>Verify the message to ensure it was signed with the specified Litercoin address</source>
+        <translation>برای حصول اطمینان از اینکه پیام با نشانی Litercoin مشخص شده امضا است یا خیر، پیام را شناسایی کنید</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -1849,8 +1849,8 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Lightercoin Core</source>
-        <translation> هسته Lightercoin </translation>
+        <source>Litercoin Core</source>
+        <translation> هسته Litercoin </translation>
     </message>
     <message>
         <source>Copyright (C) %i-%i</source>

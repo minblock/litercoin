@@ -48,7 +48,7 @@
 #include <boost/thread.hpp>
 
 #if defined(NDEBUG)
-# error "Lightercoin cannot be compiled without assertions."
+# error "Litercoin cannot be compiled without assertions."
 #endif
 
 #define MICRO 0.000001
@@ -257,7 +257,7 @@ std::atomic_bool g_is_mempool_loaded{false};
 /** Constant stuff for coinbase transactions we create: */
 CScript COINBASE_FLAGS;
 
-const std::string strMessageMagic = "Lightercoin Signed Message:\n";
+const std::string strMessageMagic = "Litercoin Signed Message:\n";
 
 // Internal stuff
 namespace {

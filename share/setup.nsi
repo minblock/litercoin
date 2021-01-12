@@ -1,11 +1,11 @@
-Name "Lightercoin Core (-bit)"
+Name "Litercoin Core (-bit)"
 
 RequestExecutionLevel highest
 SetCompressor /SOLID lzma
 
 # General Symbol Definitions
 !define REGKEY "SOFTWARE\$(^Name)"
-!define COMPANY "Lightercoin Core project"
+!define COMPANY "Litercoin Core project"
 !define URL https://litecoin.org/
 
 # MUI Symbol Definitions
@@ -18,7 +18,7 @@ SetCompressor /SOLID lzma
 !define MUI_STARTMENUPAGE_REGISTRY_ROOT HKLM
 !define MUI_STARTMENUPAGE_REGISTRY_KEY ${REGKEY}
 !define MUI_STARTMENUPAGE_REGISTRY_VALUENAME StartMenuGroup
-!define MUI_STARTMENUPAGE_DEFAULTFOLDER "Lightercoin Core"
+!define MUI_STARTMENUPAGE_DEFAULTFOLDER "Litercoin Core"
 !define MUI_FINISHPAGE_RUN "$WINDIR\explorer.exe"
 !define MUI_FINISHPAGE_RUN_PARAMETERS $INSTDIR\litecoin-qt
 !define MUI_UNICON "${NSISDIR}\Contrib\Graphics\Icons\modern-uninstall.ico"
@@ -50,16 +50,16 @@ Var StartMenuGroup
 # Installer attributes
 OutFile /home/stevecat/litecoin/litecoin-0.18.1-win-setup.exe
 !if "" == "64"
-InstallDir $PROGRAMFILES64\Lightercoin
+InstallDir $PROGRAMFILES64\Litercoin
 !else
-InstallDir $PROGRAMFILES\Lightercoin
+InstallDir $PROGRAMFILES\Litercoin
 !endif
 CRCCheck on
 XPStyle on
 BrandingText " "
 ShowInstDetails show
 VIProductVersion 0.18.1.0
-VIAddVersionKey ProductName "Lightercoin Core"
+VIAddVersionKey ProductName "Litercoin Core"
 VIAddVersionKey ProductVersion "0.18.1"
 VIAddVersionKey CompanyName "${COMPANY}"
 VIAddVersionKey CompanyWebsite "${URL}"
@@ -94,7 +94,7 @@ Section -post SEC0001
     !insertmacro MUI_STARTMENU_WRITE_BEGIN Application
     CreateDirectory $SMPROGRAMS\$StartMenuGroup
     CreateShortcut "$SMPROGRAMS\$StartMenuGroup\$(^Name).lnk" $INSTDIR\litecoin-qt
-    CreateShortcut "$SMPROGRAMS\$StartMenuGroup\Lightercoin Core (testnet, -bit).lnk" "$INSTDIR\litecoin-qt" "-testnet" "$INSTDIR\litecoin-qt" 1
+    CreateShortcut "$SMPROGRAMS\$StartMenuGroup\Litercoin Core (testnet, -bit).lnk" "$INSTDIR\litecoin-qt" "-testnet" "$INSTDIR\litecoin-qt" 1
     CreateShortcut "$SMPROGRAMS\$StartMenuGroup\Uninstall $(^Name).lnk" $INSTDIR\uninstall.exe
     !insertmacro MUI_STARTMENU_WRITE_END
     WriteRegStr HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)" DisplayName "$(^Name)"
@@ -106,7 +106,7 @@ Section -post SEC0001
     WriteRegDWORD HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)" NoModify 1
     WriteRegDWORD HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)" NoRepair 1
     WriteRegStr HKCR "litecoin" "URL Protocol" ""
-    WriteRegStr HKCR "litecoin" "" "URL:Lightercoin"
+    WriteRegStr HKCR "litecoin" "" "URL:Litercoin"
     WriteRegStr HKCR "litecoin\DefaultIcon" "" $INSTDIR\litecoin-qt
     WriteRegStr HKCR "litecoin\shell\open\command" "" '"$INSTDIR\litecoin-qt" "%1"'
 SectionEnd
@@ -138,8 +138,8 @@ Section -un.post UNSEC0001
     DeleteRegKey HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)"
     Delete /REBOOTOK "$SMPROGRAMS\$StartMenuGroup\Uninstall $(^Name).lnk"
     Delete /REBOOTOK "$SMPROGRAMS\$StartMenuGroup\$(^Name).lnk"
-    Delete /REBOOTOK "$SMPROGRAMS\$StartMenuGroup\Lightercoin Core (testnet, -bit).lnk"
-    Delete /REBOOTOK "$SMSTARTUP\Lightercoin.lnk"
+    Delete /REBOOTOK "$SMPROGRAMS\$StartMenuGroup\Litercoin Core (testnet, -bit).lnk"
+    Delete /REBOOTOK "$SMSTARTUP\Litercoin.lnk"
     Delete /REBOOTOK $INSTDIR\uninstall.exe
     Delete /REBOOTOK $INSTDIR\debug.log
     Delete /REBOOTOK $INSTDIR\db.log

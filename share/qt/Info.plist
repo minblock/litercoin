@@ -17,7 +17,7 @@
   <string>APPL</string>
 
   <key>CFBundleGetInfoString</key>
-  <string>0.18.1.0, Copyright © 2009-2019 The Lightercoin Core developers</string>
+  <string>0.18.1.0, Copyright © 2009-2019 The Litercoin Core developers</string>
 
   <key>CFBundleShortVersionString</key>
   <string>0.18.1</string>
@@ -29,16 +29,16 @@
   <string>????</string>
 
   <key>CFBundleExecutable</key>
-  <string>Lightercoin-Qt</string>
+  <string>Litercoin-Qt</string>
   
   <key>CFBundleName</key>
-  <string>Lightercoin-Qt</string>
+  <string>Litercoin-Qt</string>
 
   <key>LSHasLocalizedDisplayName</key>
   <true/>
 
   <key>CFBundleIdentifier</key>
-  <string>org.litecoin.Lightercoin-Qt</string>
+  <string>org.litecoin.Litercoin-Qt</string>
 
   <key>CFBundleURLTypes</key>
   <array>
@@ -46,7 +46,7 @@
       <key>CFBundleTypeRole</key>
       <string>Editor</string>
       <key>CFBundleURLName</key>
-      <string>org.litecoin.LightercoinPayment</string>
+      <string>org.litecoin.LitercoinPayment</string>
       <key>CFBundleURLSchemes</key>
       <array>
         <string>litecoin</string>
@@ -60,7 +60,7 @@
       <key>UTTypeIdentifier</key>
       <string>org.litecoin.paymentrequest</string>
       <key>UTTypeDescription</key>
-      <string>Lightercoin payment request</string>
+      <string>Litercoin payment request</string>
       <key>UTTypeConformsTo</key>
       <array>
         <string>public.data</string>

@@ -42,12 +42,12 @@
         <translation>Recebendo informações</translation>
     </message>
     <message>
-        <source>These are your Lightercoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Estas são suas informações para o envio de pagamentos por Lightercoins. Sempre cheque a quantia enviada e as informações do destinatário, antes de enviar os Lightercoins.</translation>
+        <source>These are your Litercoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Estas são suas informações para o envio de pagamentos por Litercoins. Sempre cheque a quantia enviada e as informações do destinatário, antes de enviar os Litercoins.</translation>
     </message>
     <message>
-        <source>These are your Lightercoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Estas são suas informações para o recebimento de pagamentos por Lightercoins. É recomendado que seja feito o uso de um novo conjunto de informações para cada transação.</translation>
+        <source>These are your Litercoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Estas são suas informações para o recebimento de pagamentos por Litercoins. É recomendado que seja feito o uso de um novo conjunto de informações para cada transação.</translation>
     </message>
     <message>
         <source>Export Address List</source>

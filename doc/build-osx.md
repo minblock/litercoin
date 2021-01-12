@@ -38,17 +38,17 @@ from the root of the repository.
 
 **Note**: You only need Berkeley DB if the wallet is enabled (see [*Disable-wallet mode*](/doc/build-osx.md#disable-wallet-mode)).
 
-Build Lightercoin Core
+Build Litercoin Core
 ------------------------
 
-1. Clone the Lightercoin Core source code:
+1. Clone the Litercoin Core source code:
 
         git clone https://github.com/minblock/litecoin
         cd litecoin
 
-2.  Build Lightercoin Core:
+2.  Build Litercoin Core:
 
-    Configure and build the headless Lightercoin Core binaries as well as the GUI (if Qt is found).
+    Configure and build the headless Litercoin Core binaries as well as the GUI (if Qt is found).
 
     You can disable the GUI build by passing `--without-gui` to configure.
 
@@ -76,7 +76,7 @@ Build Lightercoin Core
 
 Disable-wallet mode
 --------------------
-When the intention is to run only a P2P node without a wallet, Lightercoin Core may be compiled in
+When the intention is to run only a P2P node without a wallet, Litercoin Core may be compiled in
 disable-wallet mode with:
 
     ./configure --disable-wallet
@@ -88,21 +88,21 @@ Mining is also possible in disable-wallet mode using the `getblocktemplate` RPC 
 Running
 -------
 
-Lightercoin Core is now available at `./src/litecoind`
+Litercoin Core is now available at `./src/litecoind`
 
 Before running, you may create an empty configuration file:
 
-    mkdir -p "/Users/${USER}/Library/Application Support/Lightercoin"
+    mkdir -p "/Users/${USER}/Library/Application Support/Litercoin"
 
-    touch "/Users/${USER}/Library/Application Support/Lightercoin/litecoin.conf"
+    touch "/Users/${USER}/Library/Application Support/Litercoin/litecoin.conf"
 
-    chmod 600 "/Users/${USER}/Library/Application Support/Lightercoin/litecoin.conf"
+    chmod 600 "/Users/${USER}/Library/Application Support/Litercoin/litecoin.conf"
 
 The first time you run litecoind, it will start downloading the blockchain. This process could take many hours, or even days on slower than average systems.
 
 You can monitor the download process by looking at the debug.log file:
 
-    tail -f $HOME/Library/Application\ Support/Lightercoin/debug.log
+    tail -f $HOME/Library/Application\ Support/Litercoin/debug.log
 
 Other commands:
 -------

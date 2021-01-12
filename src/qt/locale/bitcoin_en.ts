@@ -85,12 +85,12 @@
     </message>
     <message>
         <location line="+7"/>
-        <source>These are your Lightercoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Litercoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+5"/>
-        <source>These are your Lightercoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your Litercoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -436,8 +436,8 @@
     </message>
     <message>
         <location line="-1034"/>
-        <source>Send coins to a Lightercoin address</source>
-        <translation>Send coins to a Lightercoin address</translation>
+        <source>Send coins to a Litercoin address</source>
+        <translation>Send coins to a Litercoin address</translation>
     </message>
     <message>
         <location line="+67"/>
@@ -466,8 +466,8 @@
     </message>
     <message>
         <location line="+724"/>
-        <source>Lightercoin</source>
-        <translation>Lightercoin</translation>
+        <source>Litercoin</source>
+        <translation>Litercoin</translation>
     </message>
     <message>
         <location line="-797"/>
@@ -496,13 +496,13 @@
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Lightercoin addresses to prove you own them</source>
-        <translation>Sign messages with your Lightercoin addresses to prove you own them</translation>
+        <source>Sign messages with your Litercoin addresses to prove you own them</source>
+        <translation>Sign messages with your Litercoin addresses to prove you own them</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Lightercoin addresses</source>
-        <translation>Verify messages to ensure they were signed with specified Lightercoin addresses</translation>
+        <source>Verify messages to ensure they were signed with specified Litercoin addresses</source>
+        <translation>Verify messages to ensure they were signed with specified Litercoin addresses</translation>
     </message>
     <message>
         <location line="+118"/>
@@ -551,10 +551,10 @@
     </message>
     <message numerus="yes">
         <location line="+540"/>
-        <source>%n active connection(s) to Lightercoin network</source>
+        <source>%n active connection(s) to Litercoin network</source>
         <translation>
-            <numerusform>%n active connection to Lightercoin network</numerusform>
-            <numerusform>%n active connections to Lightercoin network</numerusform>
+            <numerusform>%n active connection to Litercoin network</numerusform>
+            <numerusform>%n active connections to Litercoin network</numerusform>
         </translation>
     </message>
     <message>
@@ -642,7 +642,7 @@
     </message>
     <message>
         <location line="+4"/>
-        <source>Show the %1 help message to get a list with possible Lightercoin command-line options</source>
+        <source>Show the %1 help message to get a list with possible Litercoin command-line options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -778,7 +778,7 @@
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+392"/>
-        <source>A fatal error occurred. Lightercoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. Litercoin can no longer continue safely and will quit.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1016,7 +1016,7 @@
     </message>
     <message>
         <location line="+75"/>
-        <source>The entered address &quot;%1&quot; is not a valid Lightercoin address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid Litercoin address.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1136,8 +1136,8 @@
     </message>
     <message>
         <location filename="../intro.cpp" line="+22"/>
-        <source>Lightercoin</source>
-        <translation type="unfinished">Lightercoin</translation>
+        <source>Litercoin</source>
+        <translation type="unfinished">Litercoin</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -1151,7 +1151,7 @@
     </message>
     <message>
         <location line="+8"/>
-        <source>%1 will download and store a copy of the Lightercoin block chain.</source>
+        <source>%1 will download and store a copy of the Litercoin block chain.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1433,8 +1433,8 @@
     </message>
     <message>
         <location line="+30"/>
-        <source>Automatically open the Lightercoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatically open the Lightercoin client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
+        <source>Automatically open the Litercoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatically open the Litercoin client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1453,7 +1453,7 @@
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Lightercoin network through a SOCKS5 proxy.</source>
+        <source>Connect to the Litercoin network through a SOCKS5 proxy.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1501,7 +1501,7 @@
     </message>
     <message>
         <location line="+25"/>
-        <source>Connect to the Lightercoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <source>Connect to the Litercoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1641,8 +1641,8 @@
     <message>
         <location line="+62"/>
         <location line="+386"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Lightercoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the Lightercoin network after a connection is established, but this process has not completed yet.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Litercoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the Litercoin network after a connection is established, but this process has not completed yet.</translation>
     </message>
     <message>
         <location line="-139"/>
@@ -1780,7 +1780,7 @@
     </message>
     <message>
         <location line="+8"/>
-        <source>URI cannot be parsed! This can be caused by an invalid Lightercoin address or malformed URI parameters.</source>
+        <source>URI cannot be parsed! This can be caused by an invalid Litercoin address or malformed URI parameters.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1913,7 +1913,7 @@
     </message>
     <message>
         <location filename="../guiutil.cpp" line="+108"/>
-        <source>Enter a Lightercoin address (e.g. %1)</source>
+        <source>Enter a Litercoin address (e.g. %1)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2540,7 +2540,7 @@
     <message>
         <location line="-3"/>
         <location line="+46"/>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Lightercoin network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Litercoin network.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3080,7 +3080,7 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of &quot;100 satos
     </message>
     <message>
         <location line="+101"/>
-        <source>Warning: Invalid Lightercoin address</source>
+        <source>Warning: Invalid Litercoin address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3135,7 +3135,7 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of &quot;100 satos
     </message>
     <message>
         <location line="+39"/>
-        <source>The Lightercoin address to send the payment to</source>
+        <source>The Litercoin address to send the payment to</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3197,7 +3197,7 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of &quot;100 satos
     </message>
     <message>
         <location line="+54"/>
-        <source>A message that was attached to the litecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Lightercoin network.</source>
+        <source>A message that was attached to the litecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Litercoin network.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3259,7 +3259,7 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of &quot;100 satos
     </message>
     <message>
         <location line="+18"/>
-        <source>The Lightercoin address to sign the message with</source>
+        <source>The Litercoin address to sign the message with</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3301,8 +3301,8 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of &quot;100 satos
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Lightercoin address</source>
-        <translation>Sign the message to prove you own this Lightercoin address</translation>
+        <source>Sign the message to prove you own this Litercoin address</source>
+        <translation>Sign the message to prove you own this Litercoin address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3332,13 +3332,13 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of &quot;100 satos
     </message>
     <message>
         <location line="+21"/>
-        <source>The Lightercoin address the message was signed with</source>
+        <source>The Litercoin address the message was signed with</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+37"/>
-        <source>Verify the message to ensure it was signed with the specified Lightercoin address</source>
-        <translation>Verify the message to ensure it was signed with the specified Lightercoin address</translation>
+        <source>Verify the message to ensure it was signed with the specified Litercoin address</source>
+        <translation>Verify the message to ensure it was signed with the specified Litercoin address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -4195,8 +4195,8 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of &quot;100 satos
     </message>
     <message>
         <location line="-170"/>
-        <source>Lightercoin Core</source>
-        <translation type="unfinished">Lightercoin Core</translation>
+        <source>Litercoin Core</source>
+        <translation type="unfinished">Litercoin Core</translation>
     </message>
     <message>
         <location line="+1"/>

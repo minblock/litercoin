@@ -62,12 +62,12 @@
         <translation>Derbyn cyfeiriadau</translation>
     </message>
     <message>
-        <source>These are your Lightercoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Rhain ydi eich cyfeiriadau Lightercoin ar gyfer gyrru taliadau. Gwnewch yn sicr o'r swm a'r cyfeiriad derbyn cyn gyrru arian.</translation>
+        <source>These are your Litercoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Rhain ydi eich cyfeiriadau Litercoin ar gyfer gyrru taliadau. Gwnewch yn sicr o'r swm a'r cyfeiriad derbyn cyn gyrru arian.</translation>
     </message>
     <message>
-        <source>These are your Lightercoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Dyma eich cyfeiriadau Lightercoin ar gyfer derbyn taliadau. Argymhellwn ddefnyddio cyfeiriad derbyn newydd ar gyfer bob trafodyn.</translation>
+        <source>These are your Litercoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Dyma eich cyfeiriadau Litercoin ar gyfer derbyn taliadau. Argymhellwn ddefnyddio cyfeiriad derbyn newydd ar gyfer bob trafodyn.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -318,8 +318,8 @@
         <translation>Ailfynegi y blociau ar ddisg...</translation>
     </message>
     <message>
-        <source>Send coins to a Lightercoin address</source>
-        <translation>Anfon arian i gyfeiriad Lightercoin</translation>
+        <source>Send coins to a Litercoin address</source>
+        <translation>Anfon arian i gyfeiriad Litercoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -338,8 +338,8 @@
         <translation>&amp;Gwirio neges...</translation>
     </message>
     <message>
-        <source>Lightercoin</source>
-        <translation>Lightercoin</translation>
+        <source>Litercoin</source>
+        <translation>Litercoin</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -362,12 +362,12 @@
         <translation>Amgryptio'r allweddi preifat sy'n perthyn i'ch waled</translation>
     </message>
     <message>
-        <source>Sign messages with your Lightercoin addresses to prove you own them</source>
-        <translation>Arwyddo negeseuon gyda eich cyfeiriadau Lightercoin i brofi mae chi sy'n berchen arnynt</translation>
+        <source>Sign messages with your Litercoin addresses to prove you own them</source>
+        <translation>Arwyddo negeseuon gyda eich cyfeiriadau Litercoin i brofi mae chi sy'n berchen arnynt</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Lightercoin addresses</source>
-        <translation>Gwirio negeseuon i sicrhau eu bod wedi eu harwyddo gyda cyfeiriadau Lightercoin penodol</translation>
+        <source>Verify messages to ensure they were signed with specified Litercoin addresses</source>
+        <translation>Gwirio negeseuon i sicrhau eu bod wedi eu harwyddo gyda cyfeiriadau Litercoin penodol</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -399,7 +399,7 @@
     </message>
     <message>
         <source>Open a litecoin: URI or payment request</source>
-        <translation>Agor Lightercoin: URI neu ofyn taliad</translation>
+        <translation>Agor Litercoin: URI neu ofyn taliad</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -508,8 +508,8 @@
         <translation>Mae'r waled &lt;b&gt;wedi'i amgryptio&lt;/b&gt; ac &lt;b&gt;ar glo&lt;/b&gt; ar hyn o bryd</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Lightercoin can no longer continue safely and will quit.</source>
-        <translation>Mae gwall angheuol wedi digwydd. Ni all Lightercoin barhau'n ddiogel ac mae'n cau lawr.</translation>
+        <source>A fatal error occurred. Litercoin can no longer continue safely and will quit.</source>
+        <translation>Mae gwall angheuol wedi digwydd. Ni all Litercoin barhau'n ddiogel ac mae'n cau lawr.</translation>
     </message>
 </context>
 <context>
@@ -615,8 +615,8 @@
         <translation>Croeso</translation>
     </message>
     <message>
-        <source>Lightercoin</source>
-        <translation>Lightercoin</translation>
+        <source>Litercoin</source>
+        <translation>Litercoin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1025,8 +1025,8 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Lightercoin Core</source>
-        <translation>Craidd Lightercoin</translation>
+        <source>Litercoin Core</source>
+        <translation>Craidd Litercoin</translation>
     </message>
     <message>
         <source>Information</source>

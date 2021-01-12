@@ -62,12 +62,12 @@
         <translation>Direcciones de recepción</translation>
     </message>
     <message>
-        <source>These are your Lightercoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Estas son tus direcciones Lightercoin para realizar pagos. Verifica siempre el monto y la dirección de recepción antes de enviar monedas. </translation>
+        <source>These are your Litercoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Estas son tus direcciones Litercoin para realizar pagos. Verifica siempre el monto y la dirección de recepción antes de enviar monedas. </translation>
     </message>
     <message>
-        <source>These are your Lightercoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Estas son tus direcciones Lightercoin para recibir pagos. Es recomendable usar una nueva dirección de recibo para cada transacción.</translation>
+        <source>These are your Litercoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Estas son tus direcciones Litercoin para recibir pagos. Es recomendable usar una nueva dirección de recibo para cada transacción.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -208,8 +208,8 @@
         <translation>Reindexando bloques en el disco...</translation>
     </message>
     <message>
-        <source>Send coins to a Lightercoin address</source>
-        <translation>Enviar monedas a una dirección Lightercoin</translation>
+        <source>Send coins to a Litercoin address</source>
+        <translation>Enviar monedas a una dirección Litercoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -224,8 +224,8 @@
         <translation>Abre la consola de depuración y diágnostico</translation>
     </message>
     <message>
-        <source>Lightercoin</source>
-        <translation>Lightercoin</translation>
+        <source>Litercoin</source>
+        <translation>Litercoin</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -248,12 +248,12 @@
         <translation>Encriptar las llaves privadas que pertenecen a tu billetera</translation>
     </message>
     <message>
-        <source>Sign messages with your Lightercoin addresses to prove you own them</source>
-        <translation>Firma mensajes con tus direcciones Lightercoin para probar que eres dueño de ellas</translation>
+        <source>Sign messages with your Litercoin addresses to prove you own them</source>
+        <translation>Firma mensajes con tus direcciones Litercoin para probar que eres dueño de ellas</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Lightercoin addresses</source>
-        <translation>Verificar mensajes para asegurar que estaban firmados con direcciones Lightercoin especificas</translation>
+        <source>Verify messages to ensure they were signed with specified Litercoin addresses</source>
+        <translation>Verificar mensajes para asegurar que estaban firmados con direcciones Litercoin especificas</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -491,8 +491,8 @@
         <translation>Usa un directorio de datos personalizado:</translation>
     </message>
     <message>
-        <source>Lightercoin</source>
-        <translation>Lightercoin</translation>
+        <source>Litercoin</source>
+        <translation>Litercoin</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -777,8 +777,8 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Lightercoin Core</source>
-        <translation>Lightercoin Core</translation>
+        <source>Litercoin Core</source>
+        <translation>Litercoin Core</translation>
     </message>
     <message>
         <source>Information</source>

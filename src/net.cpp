@@ -1445,7 +1445,7 @@ static void ThreadMapPort()
             }
         }
 
-        std::string strDesc = "Lightercoin " + FormatFullVersion();
+        std::string strDesc = "Litercoin " + FormatFullVersion();
 
         do {
 #ifndef UPNPDISCOVER_SUCCESS

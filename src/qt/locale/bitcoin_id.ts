@@ -66,12 +66,12 @@
         <translation>Alamat menerima</translation>
     </message>
     <message>
-        <source>These are your Lightercoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Ini adalah alamat Lightercoin anda untuk mengirim pembayaran. Selalu periksa jumlah dan alamat penerima sebelum mengirim koin</translation>
+        <source>These are your Litercoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Ini adalah alamat Litercoin anda untuk mengirim pembayaran. Selalu periksa jumlah dan alamat penerima sebelum mengirim koin</translation>
     </message>
     <message>
-        <source>These are your Lightercoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Ini adalah alamat Lightercoin anda untuk menerima pembayaran. Disarankan untuk menggunakan alamat penerimaan baru untuk setiap transaksi</translation>
+        <source>These are your Litercoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Ini adalah alamat Litercoin anda untuk menerima pembayaran. Disarankan untuk menggunakan alamat penerimaan baru untuk setiap transaksi</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -342,8 +342,8 @@
         <translation>Proxy &lt;b&gt;aktif&lt;/b&gt;: %1</translation>
     </message>
     <message>
-        <source>Send coins to a Lightercoin address</source>
-        <translation>Kirim koin ke alamat Lightercoin</translation>
+        <source>Send coins to a Litercoin address</source>
+        <translation>Kirim koin ke alamat Litercoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -366,8 +366,8 @@
         <translation>&amp;Verifikasi pesan...</translation>
     </message>
     <message>
-        <source>Lightercoin</source>
-        <translation>Lightercoin</translation>
+        <source>Litercoin</source>
+        <translation>Litercoin</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -390,12 +390,12 @@
         <translation>Enkripsi private keys wallet anda</translation>
     </message>
     <message>
-        <source>Sign messages with your Lightercoin addresses to prove you own them</source>
-        <translation>Tambahkan pesan di alamat Lightercoin untuk membuktikan bahwa anda pemiliknya</translation>
+        <source>Sign messages with your Litercoin addresses to prove you own them</source>
+        <translation>Tambahkan pesan di alamat Litercoin untuk membuktikan bahwa anda pemiliknya</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Lightercoin addresses</source>
-        <translation>Verifikasi pesan untuk memastikan bahwa telah ditanda tangani dengan alamat Lightercoin tertentu</translation>
+        <source>Verify messages to ensure they were signed with specified Litercoin addresses</source>
+        <translation>Verifikasi pesan untuk memastikan bahwa telah ditanda tangani dengan alamat Litercoin tertentu</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -434,8 +434,8 @@
         <translation>opsi &amp;Command-line</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Lightercoin network</source>
-        <translation><numerusform>%n koneksi aktif pada jaringan Lightercoin</numerusform></translation>
+        <source>%n active connection(s) to Litercoin network</source>
+        <translation><numerusform>%n koneksi aktif pada jaringan Litercoin</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -486,8 +486,8 @@
         <translation>Address &amp;Penerima</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible Lightercoin command-line options</source>
-        <translation>Perlihatkan %1 pesan yang didapat dari daftar dengan opsi command-line Lightercoin yang memungkinkan</translation>
+        <source>Show the %1 help message to get a list with possible Litercoin command-line options</source>
+        <translation>Perlihatkan %1 pesan yang didapat dari daftar dengan opsi command-line Litercoin yang memungkinkan</translation>
     </message>
     <message>
         <source>&amp;Window</source>
@@ -777,8 +777,8 @@
 <context>
     <name>Intro</name>
     <message>
-        <source>Lightercoin</source>
-        <translation>Lightercoin</translation>
+        <source>Litercoin</source>
+        <translation>Litercoin</translation>
     </message>
     <message>
         <source>Error</source>

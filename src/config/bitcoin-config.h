@@ -30,10 +30,10 @@
 #define COPYRIGHT_HOLDERS "The %s developers"
 
 /* Copyright holder(s) */
-#define COPYRIGHT_HOLDERS_FINAL "The Lightercoin Core developers"
+#define COPYRIGHT_HOLDERS_FINAL "The Litercoin Core developers"
 
 /* Replacement for %s in copyright holders string */
-#define COPYRIGHT_HOLDERS_SUBSTITUTION "Lightercoin Core"
+#define COPYRIGHT_HOLDERS_SUBSTITUTION "Litercoin Core"
 
 /* Copyright year */
 #define COPYRIGHT_YEAR 2019
@@ -367,10 +367,10 @@
 #define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
 
 /* Define to the full name of this package. */
-#define PACKAGE_NAME "Lightercoin Core"
+#define PACKAGE_NAME "Litercoin Core"
 
 /* Define to the full name and version of this package. */
-#define PACKAGE_STRING "Lightercoin Core 0.18.1"
+#define PACKAGE_STRING "Litercoin Core 0.18.1"
 
 /* Define to the one symbol short name of this package. */
 #define PACKAGE_TARNAME "litecoin"

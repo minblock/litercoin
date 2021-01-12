@@ -66,12 +66,12 @@
         <translation>Adresy do odbierania</translation>
     </message>
     <message>
-        <source>These are your Lightercoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>To są Twoje adresy Lightercoin do wysyłania płatności. Zawsze sprawdzaj kwotę oraz adres odbioru zanim prześlesz monety.</translation>
+        <source>These are your Litercoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>To są Twoje adresy Litercoin do wysyłania płatności. Zawsze sprawdzaj kwotę oraz adres odbioru zanim prześlesz monety.</translation>
     </message>
     <message>
-        <source>These are your Lightercoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>To są Twoje adresy Lightercoin do otrzymywania płatności. Zalecane jest używać nowego adresu do każdej transakcji. </translation>
+        <source>These are your Litercoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>To są Twoje adresy Litercoin do otrzymywania płatności. Zalecane jest używać nowego adresu do każdej transakcji. </translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -177,7 +177,7 @@
     </message>
     <message>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR FIRES&lt;/b&gt;!</source>
-        <translation>Uwaga: Jeśli zaszyfrujesz portfel i utracisz do niego hasło, stracisz wszystkie swoje Lightercoiny. </translation>
+        <translation>Uwaga: Jeśli zaszyfrujesz portfel i utracisz do niego hasło, stracisz wszystkie swoje Litercoiny. </translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -330,8 +330,8 @@
         <translation>Reindeksowanie bloków na dysku...</translation>
     </message>
     <message>
-        <source>Send coins to a Lightercoin address</source>
-        <translation>Wyślij monety na adres Lightercoin</translation>
+        <source>Send coins to a Litercoin address</source>
+        <translation>Wyślij monety na adres Litercoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -354,8 +354,8 @@
         <translation>&amp;Zweryfikuj wiadomość...</translation>
     </message>
     <message>
-        <source>Lightercoin</source>
-        <translation>Lightercoin</translation>
+        <source>Litercoin</source>
+        <translation>Litercoin</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -378,12 +378,12 @@
         <translation>Zaszyfruj prywatne klucze które należą do Twojego portfela</translation>
     </message>
     <message>
-        <source>Sign messages with your Lightercoin addresses to prove you own them</source>
-        <translation>Podpisz wiadomość z Twoimi adresami Lightercoin żeby udowodnić że je posiadasz</translation>
+        <source>Sign messages with your Litercoin addresses to prove you own them</source>
+        <translation>Podpisz wiadomość z Twoimi adresami Litercoin żeby udowodnić że je posiadasz</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Lightercoin addresses</source>
-        <translation>Zweryfikuj wiadomość żeby się upewnić że zostały podpisane ze specyficznym adresem Lightercoin</translation>
+        <source>Verify messages to ensure they were signed with specified Litercoin addresses</source>
+        <translation>Zweryfikuj wiadomość żeby się upewnić że zostały podpisane ze specyficznym adresem Litercoin</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -613,8 +613,8 @@
         <translation>Użyj wybranego katalogu danych:</translation>
     </message>
     <message>
-        <source>Lightercoin</source>
-        <translation>Lightercoin</translation>
+        <source>Litercoin</source>
+        <translation>Litercoin</translation>
     </message>
     <message>
         <source>At least %1 GB of data will be stored in this directory, and it will grow over time.</source>
@@ -625,8 +625,8 @@
         <translation>W przybliżeniu %1 GB danych będzie przechowywanych w tym katalogu. </translation>
     </message>
     <message>
-        <source>%1 will download and store a copy of the Lightercoin block chain.</source>
-        <translation>%1 ściągnie i przechowa kopie łańcucha bloków Lightercoin.</translation>
+        <source>%1 will download and store a copy of the Litercoin block chain.</source>
+        <translation>%1 ściągnie i przechowa kopie łańcucha bloków Litercoin.</translation>
     </message>
     <message>
         <source>The wallet will also be stored in this directory.</source>
@@ -649,11 +649,11 @@
     </message>
     <message>
         <source>Recent transactions may not yet be visible, and therefore your wallet's balance might be incorrect. This information will be correct once your wallet has finished synchronizing with the litecoin network, as detailed below.</source>
-        <translation>Niedawne transakcje mogą być jeszcze nie widoczne i z tego powodu saldo Twojego portfela może być nieprawidłowe. Te informacje zostaną poprawione kiedy Twój portfel skończy się synchronizować z siecią Lightercoin, w sposób opisany poniżej. </translation>
+        <translation>Niedawne transakcje mogą być jeszcze nie widoczne i z tego powodu saldo Twojego portfela może być nieprawidłowe. Te informacje zostaną poprawione kiedy Twój portfel skończy się synchronizować z siecią Litercoin, w sposób opisany poniżej. </translation>
     </message>
     <message>
         <source>Attempting to spend litecoins that are affected by not-yet-displayed transactions will not be accepted by the network.</source>
-        <translation>Próby przesłania Lightercoinów które nie zostały jeszcze wyświetlone w transakcjach nie zostaną zaakceptowane przez sieć.</translation>
+        <translation>Próby przesłania Litercoinów które nie zostały jeszcze wyświetlone w transakcjach nie zostaną zaakceptowane przez sieć.</translation>
     </message>
     <message>
         <source>Number of blocks left</source>

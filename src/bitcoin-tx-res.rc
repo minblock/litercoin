@@ -16,8 +16,8 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "Lightercoin"
-            VALUE "FileDescription",    "litecoin-tx (CLI Lightercoin transaction editor utility)"
+            VALUE "CompanyName",        "Litercoin"
+            VALUE "FileDescription",    "litecoin-tx (CLI Litercoin transaction editor utility)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "litecoin-tx"
             VALUE "LegalCopyright",     COPYRIGHT_STR

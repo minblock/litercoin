@@ -16,8 +16,8 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "Lightercoin"
-            VALUE "FileDescription",    "litecoind (Lightercoin node with a JSON-RPC server)"
+            VALUE "CompanyName",        "Litercoin"
+            VALUE "FileDescription",    "litecoind (Litercoin node with a JSON-RPC server)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "litecoind"
             VALUE "LegalCopyright",     COPYRIGHT_STR

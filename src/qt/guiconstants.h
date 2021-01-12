@@ -46,11 +46,11 @@ static const int MAX_URI_LENGTH = 255;
 /* Number of frames in spinner animation */
 #define SPINNER_FRAMES 36
 
-#define QAPP_ORG_NAME "Lightercoin"
+#define QAPP_ORG_NAME "Litercoin"
 #define QAPP_ORG_DOMAIN "litecoin.org"
-#define QAPP_APP_NAME_DEFAULT "Lightercoin-Qt"
-#define QAPP_APP_NAME_TESTNET "Lightercoin-Qt-testnet"
-#define QAPP_APP_NAME_REGTEST "Lightercoin-Qt-regtest"
+#define QAPP_APP_NAME_DEFAULT "Litercoin-Qt"
+#define QAPP_APP_NAME_TESTNET "Litercoin-Qt-testnet"
+#define QAPP_APP_NAME_REGTEST "Litercoin-Qt-regtest"
 
 /* One gigabyte (GB) in bytes */
 static constexpr uint64_t GB_BYTES{1000000000};

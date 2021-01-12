@@ -66,12 +66,12 @@
         <translation>Indirizzi riceventi</translation>
     </message>
     <message>
-        <source>These are your Lightercoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Questi sono i suoi indirizzi Lightercoin per ricevere i pagamenti. Controlla sempre l'importo e gli indirizzi prima di inviare i coins.</translation>
+        <source>These are your Litercoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Questi sono i suoi indirizzi Litercoin per ricevere i pagamenti. Controlla sempre l'importo e gli indirizzi prima di inviare i coins.</translation>
     </message>
     <message>
-        <source>These are your Lightercoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Questi sono i tuoi indirizzi Lightercoin per ricevere i pagamenti. Si raccomanda di usare un nuovo indirizzo per ogni transazione.</translation>
+        <source>These are your Litercoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Questi sono i tuoi indirizzi Litercoin per ricevere i pagamenti. Si raccomanda di usare un nuovo indirizzo per ogni transazione.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -330,8 +330,8 @@
         <translation>Reindicizzazione dei blocchi sul disco...</translation>
     </message>
     <message>
-        <source>Send coins to a Lightercoin address</source>
-        <translation>Invia monete ad un indirizzo Lightercoin...</translation>
+        <source>Send coins to a Litercoin address</source>
+        <translation>Invia monete ad un indirizzo Litercoin...</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -354,8 +354,8 @@
         <translation>Verifica messaggio...</translation>
     </message>
     <message>
-        <source>Lightercoin</source>
-        <translation>Lightercoin</translation>
+        <source>Litercoin</source>
+        <translation>Litercoin</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -378,12 +378,12 @@
         <translation>Cripta le chiavi private che appartengono al tuo portafoglio</translation>
     </message>
     <message>
-        <source>Sign messages with your Lightercoin addresses to prove you own them</source>
-        <translation>Firma messaggi con i tuoi indirizzi Lightercoin per provare che li possiedi</translation>
+        <source>Sign messages with your Litercoin addresses to prove you own them</source>
+        <translation>Firma messaggi con i tuoi indirizzi Litercoin per provare che li possiedi</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Lightercoin addresses</source>
-        <translation>Verifica messaggi per accertarti che siano firmati dagli indirizzi Lightercoin specificati</translation>
+        <source>Verify messages to ensure they were signed with specified Litercoin addresses</source>
+        <translation>Verifica messaggi per accertarti che siano firmati dagli indirizzi Litercoin specificati</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -458,8 +458,8 @@
         <translation>Aggiornato</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible Lightercoin command-line options</source>
-        <translation>Mostra il %1 messaggio d'aiuto per ottenere una lista con le possibili opzioni per la riga di comando di Lightercoin</translation>
+        <source>Show the %1 help message to get a list with possible Litercoin command-line options</source>
+        <translation>Mostra il %1 messaggio d'aiuto per ottenere una lista con le possibili opzioni per la riga di comando di Litercoin</translation>
     </message>
     <message>
         <source>default wallet</source>
@@ -512,8 +512,8 @@
         <translation>Generazione di chiavi HD &lt;b&gt;disabilitata&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Lightercoin can no longer continue safely and will quit.</source>
-        <translation>Si è verificato un errore fatale. Lightercoin non può continuare in maniera sicura e sarà chiuso.</translation>
+        <source>A fatal error occurred. Litercoin can no longer continue safely and will quit.</source>
+        <translation>Si è verificato un errore fatale. Litercoin non può continuare in maniera sicura e sarà chiuso.</translation>
     </message>
 </context>
 <context>
@@ -686,8 +686,8 @@
         <translation>Modifica l'indirizzo di invio</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Lightercoin address.</source>
-        <translation>L'indirizzo inserito "%1" non è un indirizzo Lightercoin valido.</translation>
+        <source>The entered address "%1" is not a valid Litercoin address.</source>
+        <translation>L'indirizzo inserito "%1" non è un indirizzo Litercoin valido.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -743,8 +743,8 @@
         <translation>Benvenuto</translation>
     </message>
     <message>
-        <source>Lightercoin</source>
-        <translation>Lightercoin</translation>
+        <source>Litercoin</source>
+        <translation>Litercoin</translation>
     </message>
     <message>
         <source>The wallet will also be stored in this directory.</source>

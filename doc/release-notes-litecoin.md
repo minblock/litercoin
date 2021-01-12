@@ -1,4 +1,4 @@
-Lightercoin Core version 0.18.1 is now available from:
+Litercoin Core version 0.18.1 is now available from:
 
   <<https://download.litecoin.org/litecoin-0.18.1/>
 
@@ -19,7 +19,7 @@ How to Upgrade
 If you are running an older version, shut it down. Wait until it has
 completely shut down (which might take a few minutes for older
 versions), then run the installer (on Windows) or just copy over
-`/Applications/Lightercoin-Qt` (on Mac) or `litecoind`/`litecoin-qt` (on
+`/Applications/Litercoin-Qt` (on Mac) or `litecoind`/`litecoin-qt` (on
 Linux).
 
 The first time you run version 0.15.0 or newer, your chainstate database
@@ -35,16 +35,16 @@ wallet versions are still supported.
 Compatibility
 ==============
 
-Lightercoin Core is supported and extensively tested on operating systems
+Litercoin Core is supported and extensively tested on operating systems
 using the Linux kernel, macOS 10.10+, and Windows 7 and newer. It is not
-recommended to use Lightercoin Core on unsupported systems.
+recommended to use Litercoin Core on unsupported systems.
 
-Lightercoin Core should also work on most other Unix-like systems but is not
+Litercoin Core should also work on most other Unix-like systems but is not
 as frequently tested on them.
 
 From 0.17.0 onwards, macOS <10.10 is no longer supported. 0.17.0 is
 built using Qt 5.9.x, which doesn't support versions of macOS older than
-10.10. Additionally, Lightercoin Core does not yet change appearance when
+10.10. Additionally, Litercoin Core does not yet change appearance when
 macOS "dark mode" is activated.
 
 In addition to previously-supported CPU platforms, this release's
@@ -110,7 +110,7 @@ Configuration option changes
   disconnect/ban behavior will not cause a node that is whitelisting
   another to be dropped by peers.  Users can still explicitly enable
   this behavior with the command line option (and may want to consider
-  [contacting](mailto:contact@litecoin.org) the Lightercoin Core
+  [contacting](mailto:contact@litecoin.org) the Litercoin Core
   project to let us know about their use-case, as this feature could be
   deprecated in the future).
 
@@ -131,10 +131,10 @@ Documentation
 
 - A new [document](https://github.com/minblock/litecoin/blob/master/doc/litecoin-conf.md)
   about the `litecoin.conf` file describes how to use it to configure
-  Lightercoin Core.
+  Litercoin Core.
 
-- A new document introduces Lightercoin Core's BIP174 [Partially-Signed
-  Lightercoin Transactions
+- A new document introduces Litercoin Core's BIP174 [Partially-Signed
+  Litercoin Transactions
   (PSBT)](https://github.com/minblock/litecoin/blob/master/doc/psbt.md)
   interface, which is used to allow multiple programs to collaboratively
   work to create, sign, and broadcast new transactions.  This is useful
@@ -156,9 +156,9 @@ Build system changes
 --------------------
 
 - A new `--disable-bip70` option may be passed to `./configure` to
-  prevent Lightercoin-Qt from being built with support for the BIP70 payment
+  prevent Litercoin-Qt from being built with support for the BIP70 payment
   protocol or from linking libssl.  As the payment protocol has exposed
-  Lightercoin Core to libssl vulnerabilities in the past, builders who don't
+  Litercoin Core to libssl vulnerabilities in the past, builders who don't
   need BIP70 support are encouraged to use this option to reduce their
   exposure to future vulnerabilities.
 
@@ -249,7 +249,7 @@ in the Low-level Changes section below.
   ignored or are inconsistent, if there are any.
 
 - `getaddressinfo` now returns an additional `solvable` boolean field
-  when Lightercoin Core knows enough about the address's scriptPubKey,
+  when Litercoin Core knows enough about the address's scriptPubKey,
   optional redeemScript, and optional witnessScript in order for the
   wallet to be able to generate an unsigned input spending funds sent to
   that address.
@@ -263,7 +263,7 @@ in the Low-level Changes section below.
 - `importprivkey` will preserve previously-set labels for addresses or
   public keys corresponding to the private key being imported.  For
   example, if you imported a watch-only address with the label "cold
-  wallet" in earlier releases of Lightercoin Core, subsequently importing
+  wallet" in earlier releases of Litercoin Core, subsequently importing
   the private key would default to resetting the address's label to the
   default empty-string label ("").  In this release, the previous label
   of "cold wallet" will be retained.  If you optionally specify any
@@ -377,7 +377,7 @@ Graphical User Interface (GUI)
 Tools
 -----
 
-- A new `litecoin-wallet` tool is now distributed alongside Lightercoin
+- A new `litecoin-wallet` tool is now distributed alongside Litercoin
   Core's other executables.  Without needing to use any RPCs, this tool
   can currently create a new wallet file or display some basic
   information about an existing wallet, such as whether the wallet is
@@ -387,24 +387,24 @@ Tools
 Planned changes
 ===============
 
-This section describes planned changes to Lightercoin Core that may affect
-other Lightercoin software and services.
+This section describes planned changes to Litercoin Core that may affect
+other Litercoin software and services.
 
-- Since version 0.16.0, Lightercoin Core’s built-in wallet has defaulted to
+- Since version 0.16.0, Litercoin Core’s built-in wallet has defaulted to
   generating P2SH-wrapped segwit addresses when users want to receive
   payments. These addresses are backwards compatible with all
-  widely-used software.  Starting with Lightercoin Core 0.20 (expected about
-  a year after 0.18), Lightercoin Core will default to native segwit
+  widely-used software.  Starting with Litercoin Core 0.20 (expected about
+  a year after 0.18), Litercoin Core will default to native segwit
   addresses (bech32) that provide additional fee savings and other
   benefits. Currently, many wallets and services already support sending
-  to bech32 addresses, and if the Lightercoin Core project sees enough
+  to bech32 addresses, and if the Litercoin Core project sees enough
   additional adoption, it will instead default to bech32 receiving
-  addresses in Lightercoin Core 0.19 (approximately November 2019).
+  addresses in Litercoin Core 0.19 (approximately November 2019).
   P2SH-wrapped segwit addresses will continue to be provided if the user
   requests them in the GUI or by RPC, and anyone who doesn’t want the
   update will be able to configure their default address type.
   (Similarly, pioneering users who want to change their default now may
-  set the `addresstype=bech32` configuration option in any Lightercoin Core
+  set the `addresstype=bech32` configuration option in any Litercoin Core
   release from 0.16.0 up.)
 
 Deprecated P2P messages
@@ -466,7 +466,7 @@ Network
   a misbehaving node will be disconnected to make room for nodes without
   a history of problems (unless the misbehaving node helps your node in
   some other way, such as by connecting to a part of the Internet from
-  which you don't have many other peers).  Previously, Lightercoin Core
+  which you don't have many other peers).  Previously, Litercoin Core
   banned the IP addresses of misbehaving peers for a period of time
   (default of 1 day); this was easily circumvented by attackers with
   multiple IP addresses. If you manually ban a peer, such as by using
@@ -485,18 +485,18 @@ Wallet
   software. Instead such wallets will be completely unloaded and
   reloaded to achieve the same effect.
 
-- A sub-project of Lightercoin Core now provides Hardware Wallet Interaction
+- A sub-project of Litercoin Core now provides Hardware Wallet Interaction
   (HWI) scripts that allow command-line users to use several popular
-  hardware key management devices with Lightercoin Core.  See their [project
+  hardware key management devices with Litercoin Core.  See their [project
   page](https://github.com/bitcoin-core/HWI#readme) for details.
 
 Security
 --------
 
 - This release changes the Random Number Generator (RNG) used from
-  OpenSSL to Lightercoin Core's own implementation, although entropy
-  gathered by Lightercoin Core is fed out to OpenSSL and then read back in
-  when the program needs strong randomness. This moves Lightercoin Core a
+  OpenSSL to Litercoin Core's own implementation, although entropy
+  gathered by Litercoin Core is fed out to OpenSSL and then read back in
+  when the program needs strong randomness. This moves Litercoin Core a
   little closer to no longer needing to depend on OpenSSL, a dependency
   that has caused security issues in the past.  The new implementation
   gathers entropy from multiple sources, including from hardware
@@ -505,7 +505,7 @@ Security
 Changes for particular platforms
 --------------------------------
 
-- On macOS, Lightercoin Core now opts out of application CPU throttling
+- On macOS, Litercoin Core now opts out of application CPU throttling
   ("app nap") during initial blockchain download, when catching up from
   over 100 blocks behind the current chain tip, or when reindexing chain
   data. This helps prevent these operations from taking an excessively

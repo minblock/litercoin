@@ -62,12 +62,12 @@
         <translation>Ontvanger adresse</translation>
     </message>
     <message>
-        <source>These are your Lightercoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Hierdie is die adresse vanwaar u Lightercoin betalings stuur. U moet altyd die bedrag en die adres van die ontvanger nagaan voordat u enige munte stuur.</translation>
+        <source>These are your Litercoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Hierdie is die adresse vanwaar u Litercoin betalings stuur. U moet altyd die bedrag en die adres van die ontvanger nagaan voordat u enige munte stuur.</translation>
     </message>
     <message>
-        <source>These are your Lightercoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Hierdie is die adresse waar u Lightercoins sal ontvang. Ons beveel aan dat u 'n nuwe adres kies vir elke transaksie</translation>
+        <source>These are your Litercoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Hierdie is die adresse waar u Litercoins sal ontvang. Ons beveel aan dat u 'n nuwe adres kies vir elke transaksie</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -322,8 +322,8 @@
         <translation>Besig met herindeksering van blokke op hardeskyf...</translation>
     </message>
     <message>
-        <source>Send coins to a Lightercoin address</source>
-        <translation>Stuur munte na 'n Lightercoin adres</translation>
+        <source>Send coins to a Litercoin address</source>
+        <translation>Stuur munte na 'n Litercoin adres</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -346,8 +346,8 @@
         <translation>&amp;Verifieer boodskap...</translation>
     </message>
     <message>
-        <source>Lightercoin</source>
-        <translation>Lightercoin</translation>
+        <source>Litercoin</source>
+        <translation>Litercoin</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -370,12 +370,12 @@
         <translation>Kodifiseer die private sleutes wat aan jou beursie gekoppel is.</translation>
     </message>
     <message>
-        <source>Sign messages with your Lightercoin addresses to prove you own them</source>
-        <translation>Onderteken boodskappe met u Lightercoin adresse om u eienaarskap te bewys</translation>
+        <source>Sign messages with your Litercoin addresses to prove you own them</source>
+        <translation>Onderteken boodskappe met u Litercoin adresse om u eienaarskap te bewys</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Lightercoin addresses</source>
-        <translation>Verifieër boodskappe om seker te maak dat dit met die gespesifiseerde Lightercoin adresse</translation>
+        <source>Verify messages to ensure they were signed with specified Litercoin addresses</source>
+        <translation>Verifieër boodskappe om seker te maak dat dit met die gespesifiseerde Litercoin adresse</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -504,8 +504,8 @@
         <translation>Inkomende transaksie</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Lightercoin can no longer continue safely and will quit.</source>
-        <translation>'N fatale fout het voorgekom. Lightercoin kan nie meer veilig voortgaan nie en sal nou toemaak.</translation>
+        <source>A fatal error occurred. Litercoin can no longer continue safely and will quit.</source>
+        <translation>'N fatale fout het voorgekom. Litercoin kan nie meer veilig voortgaan nie en sal nou toemaak.</translation>
     </message>
 </context>
 <context>
@@ -694,8 +694,8 @@
         <translation>Wysig stuur adres</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Lightercoin address.</source>
-        <translation>Die ingevoerde adres "%1" is nie 'n geldige Lightercoin adres nie.</translation>
+        <source>The entered address "%1" is not a valid Litercoin address.</source>
+        <translation>Die ingevoerde adres "%1" is nie 'n geldige Litercoin adres nie.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -767,8 +767,8 @@
         <translation>Gebruik 'n persoonlike data gids:</translation>
     </message>
     <message>
-        <source>Lightercoin</source>
-        <translation>Lightercoin</translation>
+        <source>Litercoin</source>
+        <translation>Litercoin</translation>
     </message>
     <message>
         <source>The wallet will also be stored in this directory.</source>
@@ -1120,8 +1120,8 @@
         <translation>Bedrag</translation>
     </message>
     <message>
-        <source>Enter a Lightercoin address (e.g. %1)</source>
-        <translation>Voer in 'n Lightercoin adres (bv. %1)</translation>
+        <source>Enter a Litercoin address (e.g. %1)</source>
+        <translation>Voer in 'n Litercoin adres (bv. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1697,8 +1697,8 @@ transaksievertragingsrisiko.</translation>
         <translation>Betalings versoek verstryk.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Lightercoin address</source>
-        <translation>Waarskuwing: Ongeldige Lightercoinadres</translation>
+        <source>Warning: Invalid Litercoin address</source>
+        <translation>Waarskuwing: Ongeldige Litercoinadres</translation>
     </message>
     <message>
         <source>The address you selected for change is not part of this wallet. Any or all funds in your wallet may be sent to this address. Are you sure?</source>
@@ -1730,8 +1730,8 @@ Is u seker?</translation>
         <translation>Hierdie is 'n gewone betaling</translation>
     </message>
     <message>
-        <source>The Lightercoin address to send the payment to</source>
-        <translation>Die Lightercoinadres waarheen die betaling gestuur word</translation>
+        <source>The Litercoin address to send the payment to</source>
+        <translation>Die Litercoinadres waarheen die betaling gestuur word</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2039,8 +2039,8 @@ word die fooi eweredig verdeel.</translation>
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Lightercoin Core</source>
-        <translation>Lightercoin Kern</translation>
+        <source>Litercoin Core</source>
+        <translation>Litercoin Kern</translation>
     </message>
     <message>
         <source>Error loading %s</source>

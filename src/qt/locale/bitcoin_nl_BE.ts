@@ -66,12 +66,12 @@
         <translation>Adressen verkrijgen</translation>
     </message>
     <message>
-        <source>These are your Lightercoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Dit zijn uw Lightercoin adressen om betalingen te verzenden. Controleer altijd het bedrag en het ontvang adres voordat u Lightercoins verstuurd.</translation>
+        <source>These are your Litercoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Dit zijn uw Litercoin adressen om betalingen te verzenden. Controleer altijd het bedrag en het ontvang adres voordat u Litercoins verstuurd.</translation>
     </message>
     <message>
-        <source>These are your Lightercoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Dit zijn uw Lightercoin adressen om betalingen te verzenden. Het is aangeraden om een nieuw ontvang adres te gebruiken voor iedere transactie.</translation>
+        <source>These are your Litercoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Dit zijn uw Litercoin adressen om betalingen te verzenden. Het is aangeraden om een nieuw ontvang adres te gebruiken voor iedere transactie.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -146,8 +146,8 @@
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <source>Lightercoin</source>
-        <translation>Lightercoin</translation>
+        <source>Litercoin</source>
+        <translation>Litercoin</translation>
     </message>
     </context>
 <context>
@@ -169,8 +169,8 @@
 <context>
     <name>Intro</name>
     <message>
-        <source>Lightercoin</source>
-        <translation>Lightercoin</translation>
+        <source>Litercoin</source>
+        <translation>Litercoin</translation>
     </message>
     </context>
 <context>

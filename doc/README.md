@@ -1,15 +1,15 @@
-Lightercoin Core
+Litercoin Core
 =============
 
 Setup
 ---------------------
-Lightercoin Core is the original Lightercoin client and it builds the backbone of the network. It downloads and, by default, stores the entire history of Lightercoin transactions, which requires approximately 22 gigabytes of disk space. Depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
+Litercoin Core is the original Litercoin client and it builds the backbone of the network. It downloads and, by default, stores the entire history of Litercoin transactions, which requires approximately 22 gigabytes of disk space. Depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
 
-To download Lightercoin Core, visit [litecoin.org](https://litecoin.org/).
+To download Litercoin Core, visit [litecoin.org](https://litecoin.org/).
 
 Running
 ---------------------
-The following are some helpful notes on how to run Lightercoin Core on your native platform.
+The following are some helpful notes on how to run Litercoin Core on your native platform.
 
 ### Unix
 
@@ -24,18 +24,18 @@ Unpack the files into a directory, and then run litecoin-qt.exe.
 
 ### macOS
 
-Drag Lightercoin Core to your applications folder, and then run Lightercoin Core.
+Drag Litercoin Core to your applications folder, and then run Litercoin Core.
 
 ### Need Help?
 
-* See the documentation at the [Lightercoin Wiki](https://litecoin.info/)
+* See the documentation at the [Litercoin Wiki](https://litecoin.info/)
 for help and more information.
 * Ask for help on [#litecoin](http://webchat.freenode.net?channels=litecoin) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=litecoin).
-* Ask for help on the [LightercoinTalk](https://litecointalk.io/) forums, in the [Technical Support section](https://litecointalk.io/c/technical-support).
+* Ask for help on the [LitercoinTalk](https://litecointalk.io/) forums, in the [Technical Support section](https://litecointalk.io/c/technical-support).
 
 Building
 ---------------------
-The following are developer notes on how to build Lightercoin Core on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
+The following are developer notes on how to build Litercoin Core on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
 
 - [Dependencies](dependencies.md)
 - [macOS Build Notes](build-osx.md)
@@ -48,7 +48,7 @@ The following are developer notes on how to build Lightercoin Core on your nativ
 
 Development
 ---------------------
-The Lightercoin repo's [root README](/README.md) contains relevant information on the development process and automated testing.
+The Litercoin repo's [root README](/README.md) contains relevant information on the development process and automated testing.
 
 - [Developer Notes](developer-notes.md)
 - [Productivity Notes](productivity.md)
@@ -65,8 +65,8 @@ The Lightercoin repo's [root README](/README.md) contains relevant information o
 - [Benchmarking](benchmarking.md)
 
 ### Resources
-* Discuss on the [LightercoinTalk](https://litecointalk.io/) forums.
-* Discuss general Lightercoin development on #litecoin-dev on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=litecoin-dev.
+* Discuss on the [LitercoinTalk](https://litecointalk.io/) forums.
+* Discuss general Litercoin development on #litecoin-dev on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=litecoin-dev.
 
 ### Miscellaneous
 - [Assets Attribution](assets-attribution.md)

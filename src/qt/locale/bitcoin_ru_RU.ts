@@ -66,12 +66,12 @@
         <translation>Адреса получения</translation>
     </message>
     <message>
-        <source>These are your Lightercoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Это ваши Lightercoin адреса для отправки платежа. Всегда проверяйте сумму и адрес получателя перед отправкой платежа.</translation>
+        <source>These are your Litercoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Это ваши Litercoin адреса для отправки платежа. Всегда проверяйте сумму и адрес получателя перед отправкой платежа.</translation>
     </message>
     <message>
-        <source>These are your Lightercoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Это ваши Lightercoin адреса для получения платежей. Настоятельно рекомендуем использовать новые адреса для получения каждой транзакции.</translation>
+        <source>These are your Litercoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Это ваши Litercoin адреса для получения платежей. Настоятельно рекомендуем использовать новые адреса для получения каждой транзакции.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -189,7 +189,7 @@
     </message>
     <message>
         <source>Your wallet is now encrypted. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
-        <translation>Ваш кошелек теперь зашифрован. Помните, что шифрование вашего кошелька не может полностью защитить ваши Lightercoinы от кражи вредоносным ПО.</translation>
+        <translation>Ваш кошелек теперь зашифрован. Помните, что шифрование вашего кошелька не может полностью защитить ваши Litercoinы от кражи вредоносным ПО.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -342,8 +342,8 @@
         <translation>Прокси &lt;b&gt;включен&lt;/b&gt;: %1</translation>
     </message>
     <message>
-        <source>Send coins to a Lightercoin address</source>
-        <translation>Послать средства на Lightercoin адрес</translation>
+        <source>Send coins to a Litercoin address</source>
+        <translation>Послать средства на Litercoin адрес</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -366,8 +366,8 @@
         <translation>&amp;Проверить сообщение...</translation>
     </message>
     <message>
-        <source>Lightercoin</source>
-        <translation>Lightercoin Core</translation>
+        <source>Litercoin</source>
+        <translation>Litercoin Core</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -390,12 +390,12 @@
         <translation>Зашифровать приватные ключи, принадлежащие вашему кошельку</translation>
     </message>
     <message>
-        <source>Sign messages with your Lightercoin addresses to prove you own them</source>
-        <translation>Подписывайте сообщения Lightercoin адресами чтобы подтвердить что это написали именно Вы</translation>
+        <source>Sign messages with your Litercoin addresses to prove you own them</source>
+        <translation>Подписывайте сообщения Litercoin адресами чтобы подтвердить что это написали именно Вы</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Lightercoin addresses</source>
-        <translation>Проверяйте сообщения чтобы убедиться что они подписаны конкретными Lightercoin адресами</translation>
+        <source>Verify messages to ensure they were signed with specified Litercoin addresses</source>
+        <translation>Проверяйте сообщения чтобы убедиться что они подписаны конкретными Litercoin адресами</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -427,15 +427,15 @@
     </message>
     <message>
         <source>Open a litecoin: URI or payment request</source>
-        <translation>Открыть Lightercoin: URI или запрос платежа</translation>
+        <translation>Открыть Litercoin: URI или запрос платежа</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>Опции командной строки</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Lightercoin network</source>
-        <translation><numerusform>%n активное подключение к сети Lightercoin</numerusform><numerusform>%n активных подключения к сети Lightercoin</numerusform><numerusform>%n активных подключений к сети Lightercoin</numerusform><numerusform>%n активных подключений к сети Lightercoin</numerusform></translation>
+        <source>%n active connection(s) to Litercoin network</source>
+        <translation><numerusform>%n активное подключение к сети Litercoin</numerusform><numerusform>%n активных подключения к сети Litercoin</numerusform><numerusform>%n активных подключений к сети Litercoin</numerusform><numerusform>%n активных подключений к сети Litercoin</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -502,7 +502,7 @@
         <translation>Закрыть кошелек</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible Lightercoin command-line options</source>
+        <source>Show the %1 help message to get a list with possible Litercoin command-line options</source>
         <translation>Показать помощь по %1, чтобы получить список доступных параметров командной строки</translation>
     </message>
     <message>
@@ -614,8 +614,8 @@
         <translation>Кошелек &lt;b&gt;зашифрован&lt;/b&gt; и сейчас &lt;b&gt;заблокирован&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Lightercoin can no longer continue safely and will quit.</source>
-        <translation>Произошла критическая ошибка. Lightercoin больше не может продолжать безопасную работу и будет закрыт.</translation>
+        <source>A fatal error occurred. Litercoin can no longer continue safely and will quit.</source>
+        <translation>Произошла критическая ошибка. Litercoin больше не может продолжать безопасную работу и будет закрыт.</translation>
     </message>
 </context>
 <context>
@@ -804,8 +804,8 @@
         <translation>Изменить адрес отправки</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Lightercoin address.</source>
-        <translation>Введенный адрес "%1" не является действительным адресом Lightercoin.</translation>
+        <source>The entered address "%1" is not a valid Litercoin address.</source>
+        <translation>Введенный адрес "%1" не является действительным адресом Litercoin.</translation>
     </message>
     <message>
         <source>Address "%1" already exists as a receiving address with label "%2" and so cannot be added as a sending address.</source>
@@ -901,8 +901,8 @@
         <translation>Использовать пользовательскую директорию данных</translation>
     </message>
     <message>
-        <source>Lightercoin</source>
-        <translation>Lightercoin Core</translation>
+        <source>Litercoin</source>
+        <translation>Litercoin Core</translation>
     </message>
     <message>
         <source>At least %1 GB of data will be stored in this directory, and it will grow over time.</source>
@@ -913,7 +913,7 @@
         <translation>Приблизительно %1 ГБ данных будет сохранено в эту директорию.</translation>
     </message>
     <message>
-        <source>%1 will download and store a copy of the Lightercoin block chain.</source>
+        <source>%1 will download and store a copy of the Litercoin block chain.</source>
         <translation>%1 скачает и сохранит копию цепи блоков.</translation>
     </message>
     <message>
@@ -1130,8 +1130,8 @@
         <translation>&amp;Тратить неподтвержденную сдачу</translation>
     </message>
     <message>
-        <source>Automatically open the Lightercoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Автоматически открыть порт для Lightercoin-клиента на маршрутизаторе. Работает только если Ваш маршрутизатор поддерживает UPnP, и данная функция включена.</translation>
+        <source>Automatically open the Litercoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Автоматически открыть порт для Litercoin-клиента на маршрутизаторе. Работает только если Ваш маршрутизатор поддерживает UPnP, и данная функция включена.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1146,8 +1146,8 @@
         <translation>Разрешить входящие соединения</translation>
     </message>
     <message>
-        <source>Connect to the Lightercoin network through a SOCKS5 proxy.</source>
-        <translation>Подключится к сети Lightercoin через SOCKS5 прокси.</translation>
+        <source>Connect to the Litercoin network through a SOCKS5 proxy.</source>
+        <translation>Подключится к сети Litercoin через SOCKS5 прокси.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1182,7 +1182,7 @@
         <translation>Tor</translation>
     </message>
     <message>
-        <source>Connect to the Lightercoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <source>Connect to the Litercoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
         <translation>Соединяться к Биткоин-сети через отдельные SOCKS5 прокси через Tor hidden services:</translation>
     </message>
     <message>
@@ -1293,8 +1293,8 @@
         <translation>Форма</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Lightercoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Отображаемая информация может быть устаревшей. Ваш бумажник автоматически синхронизируется с сетью Lightercoin после подключения, но этот процесс пока не завершён.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Litercoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Отображаемая информация может быть устаревшей. Ваш бумажник автоматически синхронизируется с сетью Litercoin после подключения, но этот процесс пока не завершён.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1396,8 +1396,8 @@
         <translation>Неверный адрес %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Lightercoin address or malformed URI parameters.</source>
-        <translation>Не удалось обработать идентификатор! Это может быть связано с неверным Lightercoin-адресом или неправильными параметрами идентификатора.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid Litercoin address or malformed URI parameters.</source>
+        <translation>Не удалось обработать идентификатор! Это может быть связано с неверным Litercoin-адресом или неправильными параметрами идентификатора.</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1498,7 +1498,7 @@
         <translation>Количество</translation>
     </message>
     <message>
-        <source>Enter a Lightercoin address (e.g. %1)</source>
+        <source>Enter a Litercoin address (e.g. %1)</source>
         <translation>Введите лайткоин-адрес (напр. %1)</translation>
     </message>
     <message>
@@ -1950,8 +1950,8 @@
         <translation>&amp;Сообщение:</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Lightercoin network.</source>
-        <translation>Необязательное сообщение для запроса платежа, которое будет показано при открытии запроса. Заметьте: сообщение не будет отправлено вместе с платежом через сеть Lightercoin.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Litercoin network.</source>
+        <translation>Необязательное сообщение для запроса платежа, которое будет показано при открытии запроса. Заметьте: сообщение не будет отправлено вместе с платежом через сеть Litercoin.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -2232,7 +2232,7 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of "100 satoshis p
     </message>
     <message>
         <source>When there is less transaction volume than space in the blocks, miners as well as relaying nodes may enforce a minimum fee. Paying only this minimum fee is just fine, but be aware that this can result in a never confirming transaction once there is more demand for litecoin transactions than the network can process.</source>
-        <translation>Когда объем транзакций меньше, чем пространство в блоках, майнеры, а также ретранслирующие узлы могут устанавливать минимальную плату. Платить только эту минимальную комиссию - это хорошо, но имейте в виду, что это может привести к тому, что транзакция никогда не будет подтверждена, если будет больше Lightercoin-транзакций, чем может обработать сеть.</translation>
+        <translation>Когда объем транзакций меньше, чем пространство в блоках, майнеры, а также ретранслирующие узлы могут устанавливать минимальную плату. Платить только эту минимальную комиссию - это хорошо, но имейте в виду, что это может привести к тому, что транзакция никогда не будет подтверждена, если будет больше Litercoin-транзакций, чем может обработать сеть.</translation>
     </message>
     <message>
         <source>A too low fee might result in a never confirming transaction (read the tooltip)</source>
@@ -2375,8 +2375,8 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of "100 satoshis p
         <translation>Истекло время ожидания запроса платежа</translation>
     </message>
     <message>
-        <source>Warning: Invalid Lightercoin address</source>
-        <translation>Предупреждение: Неверный Lightercoin адрес</translation>
+        <source>Warning: Invalid Litercoin address</source>
+        <translation>Предупреждение: Неверный Litercoin адрес</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
@@ -2418,8 +2418,8 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of "100 satoshis p
         <translation>Это нормальный платёж.</translation>
     </message>
     <message>
-        <source>The Lightercoin address to send the payment to</source>
-        <translation>Lightercoin-адрес, на который отправить платёж</translation>
+        <source>The Litercoin address to send the payment to</source>
+        <translation>Litercoin-адрес, на который отправить платёж</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2466,8 +2466,8 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of "100 satoshis p
         <translation>Введите метку для этого адреса, чтобы добавить его в список используемых адресов</translation>
     </message>
     <message>
-        <source>A message that was attached to the litecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Lightercoin network.</source>
-        <translation>Сообщение прикрепленное к litecoin идентификатору будет сохранено вместе с транзакцией для вашего сведения. Заметьте: сообщение не будет отправлено через сеть Lightercoin.</translation>
+        <source>A message that was attached to the litecoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Litercoin network.</source>
+        <translation>Сообщение прикрепленное к litecoin идентификатору будет сохранено вместе с транзакцией для вашего сведения. Заметьте: сообщение не будет отправлено через сеть Litercoin.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -2515,8 +2515,8 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of "100 satoshis p
         <translation>Вы можете подписывать сообщения/соглашения своими адресами, чтобы доказать свою возможность получать лайткоины на них. Будьте осторожны, не подписывайте что-то неопределённое или случайное, так как фишинговые атаки могут обманным путём заставить вас подписать нежелательные сообщения. Подписывайте только те сообщения, с которыми вы согласны вплоть до мелочей.</translation>
     </message>
     <message>
-        <source>The Lightercoin address to sign the message with</source>
-        <translation>Lightercoin-адрес, которым подписать сообщение</translation>
+        <source>The Litercoin address to sign the message with</source>
+        <translation>Litercoin-адрес, которым подписать сообщение</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2547,8 +2547,8 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of "100 satoshis p
         <translation>Скопировать текущую подпись в буфер обмена системы</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Lightercoin address</source>
-        <translation>Подписать сообщение, чтобы доказать владение Lightercoin-адресом</translation>
+        <source>Sign the message to prove you own this Litercoin address</source>
+        <translation>Подписать сообщение, чтобы доказать владение Litercoin-адресом</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2571,12 +2571,12 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of "100 satoshis p
         <translation>Введите ниже адрес получателя, сообщение (убедитесь, что переводы строк, пробелы, табы и т.п. в точности скопированы) и подпись, чтобы проверить сообщение. Убедитесь, что не скопировали лишнего в подпись, по сравнению с самим подписываемым сообщением, чтобы не стать жертвой атаки "man-in-the-middle". Заметьте, что эта операция удостоверяет лишь авторство подписавшего, но не может удостоверить отправителя транзакции.</translation>
     </message>
     <message>
-        <source>The Lightercoin address the message was signed with</source>
-        <translation>Lightercoin-адрес, которым было подписано сообщение</translation>
+        <source>The Litercoin address the message was signed with</source>
+        <translation>Litercoin-адрес, которым было подписано сообщение</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Lightercoin address</source>
-        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным Lightercoin-адресом</translation>
+        <source>Verify the message to ensure it was signed with the specified Litercoin address</source>
+        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным Litercoin-адресом</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -3239,8 +3239,8 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of "100 satoshis p
         <translation>Невозможно запустить HTTP-сервер. Для получения более детальной информации необходимо обратиться к журналу отладки.</translation>
     </message>
     <message>
-        <source>Lightercoin Core</source>
-        <translation>Lightercoin Core</translation>
+        <source>Litercoin Core</source>
+        <translation>Litercoin Core</translation>
     </message>
     <message>
         <source>The %s developers</source>

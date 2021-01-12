@@ -8,18 +8,18 @@ define(_CLIENT_VERSION_RC, 2)
 define(_CLIENT_VERSION_IS_RELEASE, true)
 define(_COPYRIGHT_YEAR, 2019)
 define(_COPYRIGHT_HOLDERS,[The %s developers])
-define(_COPYRIGHT_HOLDERS_SUBSTITUTION,[[Lightercoin Core]])
-AC_INIT([Lightercoin Core],m4_join([.], _CLIENT_VERSION_MAJOR, _CLIENT_VERSION_MINOR, _CLIENT_VERSION_REVISION, m4_if(_CLIENT_VERSION_BUILD, [0], [], _CLIENT_VERSION_BUILD))m4_if(_CLIENT_VERSION_RC, [0], [], [rc]_CLIENT_VERSION_RC),[https://github.com/minblock/litecoin/issues],[litecoin],[https://litecoin.org/])
+define(_COPYRIGHT_HOLDERS_SUBSTITUTION,[[Litercoin Core]])
+AC_INIT([Litercoin Core],m4_join([.], _CLIENT_VERSION_MAJOR, _CLIENT_VERSION_MINOR, _CLIENT_VERSION_REVISION, m4_if(_CLIENT_VERSION_BUILD, [0], [], _CLIENT_VERSION_BUILD))m4_if(_CLIENT_VERSION_RC, [0], [], [rc]_CLIENT_VERSION_RC),[https://github.com/minblock/litecoin/issues],[litecoin],[https://litecoin.org/])
 AC_CONFIG_SRCDIR([src/validation.cpp])
 AC_CONFIG_HEADERS([src/config/bitcoin-config.h])
 AC_CONFIG_AUX_DIR([build-aux])
 AC_CONFIG_MACRO_DIR([build-aux/m4])
 
-BITCOIN_DAEMON_NAME=lightercoind
-BITCOIN_GUI_NAME=lightercoin-qt
-BITCOIN_CLI_NAME=lightercoin-cli
-BITCOIN_TX_NAME=lightercoin-tx
-BITCOIN_WALLET_TOOL_NAME=lightecoin-wallet
+BITCOIN_DAEMON_NAME=litercoind
+BITCOIN_GUI_NAME=litercoin-qt
+BITCOIN_CLI_NAME=litercoin-cli
+BITCOIN_TX_NAME=litercoin-tx
+BITCOIN_WALLET_TOOL_NAME=litercoin-wallet
 
 dnl Unless the user specified ARFLAGS, force it to be cr
 AC_ARG_VAR(ARFLAGS, [Flags for the archiver, defaults to <cr> if not set])

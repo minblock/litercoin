@@ -130,8 +130,8 @@
         <translation>Reindexando bloques no disco...</translation>
     </message>
     <message>
-        <source>Send coins to a Lightercoin address</source>
-        <translation>Enviar moedas a unha dirección Lightercoin</translation>
+        <source>Send coins to a Litercoin address</source>
+        <translation>Enviar moedas a unha dirección Litercoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -154,8 +154,8 @@
         <translation>&amp;Verificar mensaxe...</translation>
     </message>
     <message>
-        <source>Lightercoin</source>
-        <translation>Lightercoin</translation>
+        <source>Litercoin</source>
+        <translation>Litercoin</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -178,12 +178,12 @@
         <translation>Encriptar as claves privadas que pertencen ao teu moedeiro</translation>
     </message>
     <message>
-        <source>Sign messages with your Lightercoin addresses to prove you own them</source>
-        <translation>Asina mensaxes coas túas direccións Lightercoin para probar que te pertencen</translation>
+        <source>Sign messages with your Litercoin addresses to prove you own them</source>
+        <translation>Asina mensaxes coas túas direccións Litercoin para probar que te pertencen</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Lightercoin addresses</source>
-        <translation>Verificar mensaxes para asegurar que foron asinados con direccións Lightercoin dadas.</translation>
+        <source>Verify messages to ensure they were signed with specified Litercoin addresses</source>
+        <translation>Verificar mensaxes para asegurar que foron asinados con direccións Litercoin dadas.</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -397,8 +397,8 @@
         <translation>Empregar un directorio de datos personalizado</translation>
     </message>
     <message>
-        <source>Lightercoin</source>
-        <translation>Lightercoin</translation>
+        <source>Litercoin</source>
+        <translation>Litercoin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -462,8 +462,8 @@
         <translation>Moedeiro</translation>
     </message>
     <message>
-        <source>Automatically open the Lightercoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abrir automáticamente o porto do cliente Lightercoin no router. Esto so funciona se o teu router soporta UPnP e está habilitado.</translation>
+        <source>Automatically open the Litercoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Abrir automáticamente o porto do cliente Litercoin no router. Esto so funciona se o teu router soporta UPnP e está habilitado.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -545,8 +545,8 @@
         <translation>Formulario</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Lightercoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>A información amosada por estar desactualizada. O teu moedeiro sincronízase automáticamente coa rede Lightercoin despois de que se estableza unha conexión, pero este proceso non está todavía rematado.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Litercoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>A información amosada por estar desactualizada. O teu moedeiro sincronízase automáticamente coa rede Litercoin despois de que se estableza unha conexión, pero este proceso non está todavía rematado.</translation>
     </message>
     <message>
         <source>Your current spendable balance</source>
@@ -919,8 +919,8 @@
         <translation>Copiar a sinatura actual ao portapapeis do sistema</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Lightercoin address</source>
-        <translation>Asina a mensaxe para probar que posees esta dirección Lightercoin</translation>
+        <source>Sign the message to prove you own this Litercoin address</source>
+        <translation>Asina a mensaxe para probar que posees esta dirección Litercoin</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -939,8 +939,8 @@
         <translation>&amp;Verificar Mensaxe</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Lightercoin address</source>
-        <translation>Verificar a mensaxe para asegurar que foi asinada coa dirección Lightercoin especificada</translation>
+        <source>Verify the message to ensure it was signed with the specified Litercoin address</source>
+        <translation>Verificar a mensaxe para asegurar que foi asinada coa dirección Litercoin especificada</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -999,8 +999,8 @@
 <context>
     <name>bitcoin-core</name>
     <message>
-        <source>Lightercoin Core</source>
-        <translation>Core de Lightercoin</translation>
+        <source>Litercoin Core</source>
+        <translation>Core de Litercoin</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>

@@ -66,12 +66,12 @@
         <translation>Address na tatanggap</translation>
     </message>
     <message>
-        <source>These are your Lightercoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Ito ang iyong mga Lightercoin addresses para sa pagpapadala ng bayad. Laging suriin ang halaga at ang address na tatanggap bago magpadala ng coins.</translation>
+        <source>These are your Litercoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Ito ang iyong mga Litercoin addresses para sa pagpapadala ng bayad. Laging suriin ang halaga at ang address na tatanggap bago magpadala ng coins.</translation>
     </message>
     <message>
-        <source>These are your Lightercoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Ito ang iyong mga Lightercoin addresses para sa pagtanggap ng bayad. Inirerekomenda na gumamit ng bagong tanggapang address sa bawat transaksyon.</translation>
+        <source>These are your Litercoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Ito ang iyong mga Litercoin addresses para sa pagtanggap ng bayad. Inirerekomenda na gumamit ng bagong tanggapang address sa bawat transaksyon.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -318,8 +318,8 @@
         <translation>Ang panghalili ay pinagana: %1</translation>
     </message>
     <message>
-        <source>Send coins to a Lightercoin address</source>
-        <translation>Ipadala ang coins sa Lightercoin address</translation>
+        <source>Send coins to a Litercoin address</source>
+        <translation>Ipadala ang coins sa Litercoin address</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -342,8 +342,8 @@
         <translation>Tiyakin ang katotohanan ng mensahe...</translation>
     </message>
     <message>
-        <source>Lightercoin</source>
-        <translation>Lightercoin</translation>
+        <source>Litercoin</source>
+        <translation>Litercoin</translation>
     </message>
     <message>
         <source>&amp;Send</source>
@@ -366,12 +366,12 @@
         <translation>I-encrypt ang private keys ng iyong walet</translation>
     </message>
     <message>
-        <source>Sign messages with your Lightercoin addresses to prove you own them</source>
-        <translation>Pirmahan ang mga mensahe gamit ang iyong mga Lightercoin address upang mapatunayang ikaw ang may-ari nito</translation>
+        <source>Sign messages with your Litercoin addresses to prove you own them</source>
+        <translation>Pirmahan ang mga mensahe gamit ang iyong mga Litercoin address upang mapatunayang ikaw ang may-ari nito</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Lightercoin addresses</source>
-        <translation>Tiyakin ang katotohanan ng mga mensahe para siguruhing ang mga ito ay pinirmahan gamit ang tinukoy na mga Lightercoin addresses</translation>
+        <source>Verify messages to ensure they were signed with specified Litercoin addresses</source>
+        <translation>Tiyakin ang katotohanan ng mga mensahe para siguruhing ang mga ito ay pinirmahan gamit ang tinukoy na mga Litercoin addresses</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -466,8 +466,8 @@
         <translation>Isara ang walet</translation>
     </message>
     <message>
-        <source>Show the %1 help message to get a list with possible Lightercoin command-line options</source>
-        <translation>Ipakita sa %1 ang tulong na mensahe upang makuha ang talaan ng mga posibleng opsyon ng Lightercoin command-line</translation>
+        <source>Show the %1 help message to get a list with possible Litercoin command-line options</source>
+        <translation>Ipakita sa %1 ang tulong na mensahe upang makuha ang talaan ng mga posibleng opsyon ng Litercoin command-line</translation>
     </message>
     <message>
         <source>default wallet</source>
@@ -570,8 +570,8 @@
         <translation>Walet ay na-encrypt at kasalukuyang naka-lock.</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Lightercoin can no longer continue safely and will quit.</source>
-        <translation>May nangyaring malubhang kamalian. Hindi na kayang magpatuloy ng ligtas ang Lightercoin at ito ay hihinto na.</translation>
+        <source>A fatal error occurred. Litercoin can no longer continue safely and will quit.</source>
+        <translation>May nangyaring malubhang kamalian. Hindi na kayang magpatuloy ng ligtas ang Litercoin at ito ay hihinto na.</translation>
     </message>
 </context>
 <context>
@@ -716,8 +716,8 @@
         <translation>Baguhin ang address para sa pagpapadala</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Lightercoin address.</source>
-        <translation>Ang address na in-enter "%1" ay hindi isang wastong Lightercoin address.</translation>
+        <source>The entered address "%1" is not a valid Litercoin address.</source>
+        <translation>Ang address na in-enter "%1" ay hindi isang wastong Litercoin address.</translation>
     </message>
     <message>
         <source>Address "%1" already exists as a receiving address with label "%2" and so cannot be added as a sending address.</source>
@@ -805,8 +805,8 @@
         <translation>Gamitin ang pasadyang data directory:</translation>
     </message>
     <message>
-        <source>Lightercoin</source>
-        <translation>Lightercoin</translation>
+        <source>Litercoin</source>
+        <translation>Litercoin</translation>
     </message>
     <message>
         <source>At least %1 GB of data will be stored in this directory, and it will grow over time.</source>
@@ -817,8 +817,8 @@
         <translation>Humigit-kumulang na %1 GB na data ay maiimbak sa direktoryong ito.</translation>
     </message>
     <message>
-        <source>%1 will download and store a copy of the Lightercoin block chain.</source>
-        <translation>%1 ay mag-do-download at magiimbak ng kopya ng Lightercoin blockchain.</translation>
+        <source>%1 will download and store a copy of the Litercoin block chain.</source>
+        <translation>%1 ay mag-do-download at magiimbak ng kopya ng Litercoin blockchain.</translation>
     </message>
     <message>
         <source>The wallet will also be stored in this directory.</source>
@@ -1014,8 +1014,8 @@
         <translation>Gastusin ang sukli na hindi pa nakumpirma</translation>
     </message>
     <message>
-        <source>Automatically open the Lightercoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Kusang buksan ang Lightercoin client port sa router. Gumagana lamang ito kapag ang iyong router ay sumusuporta ng UPnP at ito ay pinagana.</translation>
+        <source>Automatically open the Litercoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Kusang buksan ang Litercoin client port sa router. Gumagana lamang ito kapag ang iyong router ay sumusuporta ng UPnP at ito ay pinagana.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1030,8 +1030,8 @@
         <translation>Ipahintulot ang mga papasok na koneksyon</translation>
     </message>
     <message>
-        <source>Connect to the Lightercoin network through a SOCKS5 proxy.</source>
-        <translation>Kumunekta sa Lightercoin network sa pamamagitan ng SOCKS5 proxy.</translation>
+        <source>Connect to the Litercoin network through a SOCKS5 proxy.</source>
+        <translation>Kumunekta sa Litercoin network sa pamamagitan ng SOCKS5 proxy.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1066,8 +1066,8 @@
         <translation>Tor</translation>
     </message>
     <message>
-        <source>Connect to the Lightercoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
-        <translation>Kumunekta sa Lightercoin network sa pamamagitan ng hiwalay na SOCKS5 proxy para sa mga tagong serbisyo ng Tor.</translation>
+        <source>Connect to the Litercoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <translation>Kumunekta sa Litercoin network sa pamamagitan ng hiwalay na SOCKS5 proxy para sa mga tagong serbisyo ng Tor.</translation>
     </message>
     <message>
         <source>&amp;Window</source>
