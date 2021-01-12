@@ -1,9 +1,9 @@
 Litercoin Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/minblock/litecoin.svg?branch=master)](https://travis-ci.org/minblock/litecoin)
+[![Build Status](https://travis-ci.org/minblock/litercoin.svg?branch=master)](https://travis-ci.org/minblock/litercoin)
 
-https://litecoin.org
+https://litercoin.org
 
 What is Litercoin?
 ----------------
@@ -15,7 +15,7 @@ out collectively by the network. Litercoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Litercoin Core software, see [https://litecoin.org](https://litecoin.org).
+the Litercoin Core software, see [https://litercoin.org](https://litercoin.org).
 
 License
 -------
@@ -27,17 +27,17 @@ Development Process
 -------------------
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/minblock/litecoin/tags) are created
+completely stable. [Tags](https://github.com/minblock/litercoin/tags) are created
 regularly to indicate new official, stable release versions of Litercoin Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md)
 and useful hints for developers can be found in [doc/developer-notes.md](doc/developer-notes.md).
 
-The developer [mailing list](https://groups.google.com/forum/#!forum/litecoin-dev)
+The developer [mailing list](https://groups.google.com/forum/#!forum/litercoin-dev)
 should be used to discuss complicated or controversial changes before working
 on a patch set.
 
-Developer IRC can be found on Freenode at #litecoin-dev.
+Developer IRC can be found on Freenode at #litercoin-dev.
 
 Testing
 -------

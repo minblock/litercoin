@@ -429,8 +429,8 @@ $config_links
 Configuration commands:
 $config_commands
 
-Report bugs to <https://github.com/minblock/litecoin/issues>.
-Litercoin Core home page: <https://litecoin.org/>."
+Report bugs to <https://github.com/minblock/litercoin/issues>.
+Litercoin Core home page: <https://litercoin.org/>."
 
 ac_cs_config="--disable-shared --with-pic --with-bignum=no --enable-module-recovery --disable-jni"
 ac_cs_version="\
@@ -442,7 +442,7 @@ Copyright (C) 2012 Free Software Foundation, Inc.
 This config.status script is free software; the Free Software Foundation
 gives unlimited permission to copy, distribute and modify it."
 
-ac_pwd='/home/stevecat/litecoin'
+ac_pwd='/home/stevecat/litercoin'
 srcdir='.'
 INSTALL='/usr/bin/install -c'
 MKDIR_P='/bin/mkdir -p'
@@ -792,7 +792,7 @@ if test -n "${ZSH_VERSION+set}"; then
 fi
 
 
-    PACKAGE='litecoin'
+    PACKAGE='litercoin'
     VERSION='0.18.1'
     RM='rm -f'
     ofile='libtool'
@@ -923,11 +923,11 @@ S["NOWARN_CXXFLAGS"]=" -Wno-unused-parameter -Wno-implicit-fallthrough"
 S["WARN_CXXFLAGS"]=" -Wall -Wextra -Wformat -Wvla -Wformat-security -Wredundant-decls"
 S["DEBUG_CPPFLAGS"]=""
 S["RELDFLAGS"]=""
-S["BITCOIN_WALLET_TOOL_NAME"]="litecoin-wallet"
-S["BITCOIN_TX_NAME"]="litecoin-tx"
-S["BITCOIN_CLI_NAME"]="litecoin-cli"
-S["BITCOIN_GUI_NAME"]="litecoin-qt"
-S["BITCOIN_DAEMON_NAME"]="litecoind"
+S["BITCOIN_WALLET_TOOL_NAME"]="litercoin-wallet"
+S["BITCOIN_TX_NAME"]="litercoin-tx"
+S["BITCOIN_CLI_NAME"]="litercoin-cli"
+S["BITCOIN_GUI_NAME"]="litercoin-qt"
+S["BITCOIN_DAEMON_NAME"]="litercoind"
 S["COPYRIGHT_HOLDERS_FINAL"]="The Litercoin Core developers"
 S["COPYRIGHT_HOLDERS_SUBSTITUTION"]="Litercoin Core"
 S["COPYRIGHT_HOLDERS"]="The %s developers"
@@ -1184,14 +1184,14 @@ S["mkdir_p"]="$(MKDIR_P)"
 S["MKDIR_P"]="/bin/mkdir -p"
 S["INSTALL_STRIP_PROGRAM"]="$(install_sh) -c -s"
 S["STRIP"]="/usr/bin/strip"
-S["install_sh"]="${SHELL} /home/stevecat/litecoin/build-aux/install-sh"
-S["MAKEINFO"]="${SHELL} /home/stevecat/litecoin/build-aux/missing makeinfo"
-S["AUTOHEADER"]="${SHELL} /home/stevecat/litecoin/build-aux/missing autoheader"
-S["AUTOMAKE"]="${SHELL} /home/stevecat/litecoin/build-aux/missing automake-1.15"
-S["AUTOCONF"]="${SHELL} /home/stevecat/litecoin/build-aux/missing autoconf"
-S["ACLOCAL"]="${SHELL} /home/stevecat/litecoin/build-aux/missing aclocal-1.15"
+S["install_sh"]="${SHELL} /home/stevecat/litercoin/build-aux/install-sh"
+S["MAKEINFO"]="${SHELL} /home/stevecat/litercoin/build-aux/missing makeinfo"
+S["AUTOHEADER"]="${SHELL} /home/stevecat/litercoin/build-aux/missing autoheader"
+S["AUTOMAKE"]="${SHELL} /home/stevecat/litercoin/build-aux/missing automake-1.15"
+S["AUTOCONF"]="${SHELL} /home/stevecat/litercoin/build-aux/missing autoconf"
+S["ACLOCAL"]="${SHELL} /home/stevecat/litercoin/build-aux/missing aclocal-1.15"
 S["VERSION"]="0.18.1"
-S["PACKAGE"]="litecoin"
+S["PACKAGE"]="litercoin"
 S["CYGPATH_W"]="echo"
 S["am__isrc"]=""
 S["INSTALL_DATA"]="${INSTALL} -m 644"
@@ -1237,11 +1237,11 @@ S["bindir"]="${exec_prefix}/bin"
 S["program_transform_name"]="s,x,x,"
 S["prefix"]="/usr/local"
 S["exec_prefix"]="${prefix}"
-S["PACKAGE_URL"]="https://litecoin.org/"
-S["PACKAGE_BUGREPORT"]="https://github.com/minblock/litecoin/issues"
+S["PACKAGE_URL"]="https://litercoin.org/"
+S["PACKAGE_BUGREPORT"]="https://github.com/minblock/litercoin/issues"
 S["PACKAGE_STRING"]="Litercoin Core 0.18.1"
 S["PACKAGE_VERSION"]="0.18.1"
-S["PACKAGE_TARNAME"]="litecoin"
+S["PACKAGE_TARNAME"]="litercoin"
 S["PACKAGE_NAME"]="Litercoin Core"
 S["PATH_SEPARATOR"]=":"
 S["SHELL"]="/bin/bash"
@@ -1287,11 +1287,11 @@ if test -n "$CONFIG_HEADERS"; then
 cat >"$ac_tmp/defines.awk" <<\_ACAWK ||
 BEGIN {
 D["PACKAGE_NAME"]=" \"Litercoin Core\""
-D["PACKAGE_TARNAME"]=" \"litecoin\""
+D["PACKAGE_TARNAME"]=" \"litercoin\""
 D["PACKAGE_VERSION"]=" \"0.18.1\""
 D["PACKAGE_STRING"]=" \"Litercoin Core 0.18.1\""
-D["PACKAGE_BUGREPORT"]=" \"https://github.com/minblock/litecoin/issues\""
-D["PACKAGE_URL"]=" \"https://litecoin.org/\""
+D["PACKAGE_BUGREPORT"]=" \"https://github.com/minblock/litercoin/issues\""
+D["PACKAGE_URL"]=" \"https://litercoin.org/\""
 D["HAVE_CXX11"]=" 1"
 D["STDC_HEADERS"]=" 1"
 D["HAVE_SYS_TYPES_H"]=" 1"

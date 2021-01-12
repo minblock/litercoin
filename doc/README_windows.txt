@@ -11,13 +11,13 @@ with each other, with the help of a P2P network to check for double-spending.
 
 Setup
 -----
-Unpack the files into a directory and run litecoin-qt.exe.
+Unpack the files into a directory and run litercoin-qt.exe.
 
 Litercoin Core is the original Litercoin client and it builds the backbone of the network.
 However, it downloads and stores the entire history of Litercoin transactions;
 depending on the speed of your computer and network connection, the synchronization
 process can take anywhere from a few hours to a day or more.
 
-See the litecoin wiki at:
-  https://litecoin.info/
+See the litercoin wiki at:
+  https://litercoin.info/
 for more help and information.

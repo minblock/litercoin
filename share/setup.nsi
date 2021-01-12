@@ -6,23 +6,23 @@ SetCompressor /SOLID lzma
 # General Symbol Definitions
 !define REGKEY "SOFTWARE\$(^Name)"
 !define COMPANY "Litercoin Core project"
-!define URL https://litecoin.org/
+!define URL https://litercoin.org/
 
 # MUI Symbol Definitions
-!define MUI_ICON "/home/stevecat/litecoin/share/pixmaps/bitcoin.ico"
-!define MUI_WELCOMEFINISHPAGE_BITMAP "/home/stevecat/litecoin/share/pixmaps/nsis-wizard.bmp"
+!define MUI_ICON "/home/stevecat/litercoin/share/pixmaps/bitcoin.ico"
+!define MUI_WELCOMEFINISHPAGE_BITMAP "/home/stevecat/litercoin/share/pixmaps/nsis-wizard.bmp"
 !define MUI_HEADERIMAGE
 !define MUI_HEADERIMAGE_RIGHT
-!define MUI_HEADERIMAGE_BITMAP "/home/stevecat/litecoin/share/pixmaps/nsis-header.bmp"
+!define MUI_HEADERIMAGE_BITMAP "/home/stevecat/litercoin/share/pixmaps/nsis-header.bmp"
 !define MUI_FINISHPAGE_NOAUTOCLOSE
 !define MUI_STARTMENUPAGE_REGISTRY_ROOT HKLM
 !define MUI_STARTMENUPAGE_REGISTRY_KEY ${REGKEY}
 !define MUI_STARTMENUPAGE_REGISTRY_VALUENAME StartMenuGroup
 !define MUI_STARTMENUPAGE_DEFAULTFOLDER "Litercoin Core"
 !define MUI_FINISHPAGE_RUN "$WINDIR\explorer.exe"
-!define MUI_FINISHPAGE_RUN_PARAMETERS $INSTDIR\litecoin-qt
+!define MUI_FINISHPAGE_RUN_PARAMETERS $INSTDIR\litercoin-qt
 !define MUI_UNICON "${NSISDIR}\Contrib\Graphics\Icons\modern-uninstall.ico"
-!define MUI_UNWELCOMEFINISHPAGE_BITMAP "/home/stevecat/litecoin/share/pixmaps/nsis-wizard.bmp"
+!define MUI_UNWELCOMEFINISHPAGE_BITMAP "/home/stevecat/litercoin/share/pixmaps/nsis-wizard.bmp"
 !define MUI_UNFINISHPAGE_NOAUTOCLOSE
 
 # Included files
@@ -48,7 +48,7 @@ Var StartMenuGroup
 !insertmacro MUI_LANGUAGE English
 
 # Installer attributes
-OutFile /home/stevecat/litecoin/litecoin-0.18.1-win-setup.exe
+OutFile /home/stevecat/litercoin/litercoin-0.18.1-win-setup.exe
 !if "" == "64"
 InstallDir $PROGRAMFILES64\Litercoin
 !else
@@ -73,16 +73,16 @@ ShowUninstDetails show
 Section -Main SEC0000
     SetOutPath $INSTDIR
     SetOverwrite on
-    File /home/stevecat/litecoin/release/litecoin-qt
-    File /oname=COPYING.txt /home/stevecat/litecoin/COPYING
-    File /oname=readme.txt /home/stevecat/litecoin/doc/README_windows.txt
+    File /home/stevecat/litercoin/release/litercoin-qt
+    File /oname=COPYING.txt /home/stevecat/litercoin/COPYING
+    File /oname=readme.txt /home/stevecat/litercoin/doc/README_windows.txt
     SetOutPath $INSTDIR\daemon
-    File /home/stevecat/litecoin/release/litecoind
-    File /home/stevecat/litecoin/release/litecoin-cli
-    File /home/stevecat/litecoin/release/litecoin-tx
-    File /home/stevecat/litecoin/release/litecoin-wallet
+    File /home/stevecat/litercoin/release/litercoind
+    File /home/stevecat/litercoin/release/litercoin-cli
+    File /home/stevecat/litercoin/release/litercoin-tx
+    File /home/stevecat/litercoin/release/litercoin-wallet
     SetOutPath $INSTDIR\doc
-    File /r /x Makefile* /home/stevecat/litecoin/doc\*.*
+    File /r /x Makefile* /home/stevecat/litercoin/doc\*.*
     SetOutPath $INSTDIR
     WriteRegStr HKCU "${REGKEY}\Components" Main 1
 SectionEnd
@@ -93,8 +93,8 @@ Section -post SEC0001
     WriteUninstaller $INSTDIR\uninstall.exe
     !insertmacro MUI_STARTMENU_WRITE_BEGIN Application
     CreateDirectory $SMPROGRAMS\$StartMenuGroup
-    CreateShortcut "$SMPROGRAMS\$StartMenuGroup\$(^Name).lnk" $INSTDIR\litecoin-qt
-    CreateShortcut "$SMPROGRAMS\$StartMenuGroup\Litercoin Core (testnet, -bit).lnk" "$INSTDIR\litecoin-qt" "-testnet" "$INSTDIR\litecoin-qt" 1
+    CreateShortcut "$SMPROGRAMS\$StartMenuGroup\$(^Name).lnk" $INSTDIR\litercoin-qt
+    CreateShortcut "$SMPROGRAMS\$StartMenuGroup\Litercoin Core (testnet, -bit).lnk" "$INSTDIR\litercoin-qt" "-testnet" "$INSTDIR\litercoin-qt" 1
     CreateShortcut "$SMPROGRAMS\$StartMenuGroup\Uninstall $(^Name).lnk" $INSTDIR\uninstall.exe
     !insertmacro MUI_STARTMENU_WRITE_END
     WriteRegStr HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)" DisplayName "$(^Name)"
@@ -105,10 +105,10 @@ Section -post SEC0001
     WriteRegStr HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)" UninstallString $INSTDIR\uninstall.exe
     WriteRegDWORD HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)" NoModify 1
     WriteRegDWORD HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)" NoRepair 1
-    WriteRegStr HKCR "litecoin" "URL Protocol" ""
-    WriteRegStr HKCR "litecoin" "" "URL:Litercoin"
-    WriteRegStr HKCR "litecoin\DefaultIcon" "" $INSTDIR\litecoin-qt
-    WriteRegStr HKCR "litecoin\shell\open\command" "" '"$INSTDIR\litecoin-qt" "%1"'
+    WriteRegStr HKCR "litercoin" "URL Protocol" ""
+    WriteRegStr HKCR "litercoin" "" "URL:Litercoin"
+    WriteRegStr HKCR "litercoin\DefaultIcon" "" $INSTDIR\litercoin-qt
+    WriteRegStr HKCR "litercoin\shell\open\command" "" '"$INSTDIR\litercoin-qt" "%1"'
 SectionEnd
 
 # Macro for selecting uninstaller sections
@@ -126,7 +126,7 @@ done${UNSECTION_ID}:
 
 # Uninstaller sections
 Section /o -un.Main UNSEC0000
-    Delete /REBOOTOK $INSTDIR\litecoin-qt
+    Delete /REBOOTOK $INSTDIR\litercoin-qt
     Delete /REBOOTOK $INSTDIR\COPYING.txt
     Delete /REBOOTOK $INSTDIR\readme.txt
     RMDir /r /REBOOTOK $INSTDIR\daemon
@@ -147,7 +147,7 @@ Section -un.post UNSEC0001
     DeleteRegValue HKCU "${REGKEY}" Path
     DeleteRegKey /IfEmpty HKCU "${REGKEY}\Components"
     DeleteRegKey /IfEmpty HKCU "${REGKEY}"
-    DeleteRegKey HKCR "litecoin"
+    DeleteRegKey HKCR "litercoin"
     RmDir /REBOOTOK $SMPROGRAMS\$StartMenuGroup
     RmDir /REBOOTOK $INSTDIR
     Push $R0

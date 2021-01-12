@@ -43,8 +43,8 @@ Build Litercoin Core
 
 1. Clone the Litercoin Core source code:
 
-        git clone https://github.com/minblock/litecoin
-        cd litecoin
+        git clone https://github.com/minblock/litercoin
+        cd litercoin
 
 2.  Build Litercoin Core:
 
@@ -70,9 +70,9 @@ Build Litercoin Core
 
     or
 
-        cd ~/litecoin/src
-        cp litecoind /usr/local/bin/
-        cp litecoin-cli /usr/local/bin/
+        cd ~/litercoin/src
+        cp litercoind /usr/local/bin/
+        cp litercoin-cli /usr/local/bin/
 
 Disable-wallet mode
 --------------------
@@ -88,17 +88,17 @@ Mining is also possible in disable-wallet mode using the `getblocktemplate` RPC 
 Running
 -------
 
-Litercoin Core is now available at `./src/litecoind`
+Litercoin Core is now available at `./src/litercoind`
 
 Before running, you may create an empty configuration file:
 
     mkdir -p "/Users/${USER}/Library/Application Support/Litercoin"
 
-    touch "/Users/${USER}/Library/Application Support/Litercoin/litecoin.conf"
+    touch "/Users/${USER}/Library/Application Support/Litercoin/litercoin.conf"
 
-    chmod 600 "/Users/${USER}/Library/Application Support/Litercoin/litecoin.conf"
+    chmod 600 "/Users/${USER}/Library/Application Support/Litercoin/litercoin.conf"
 
-The first time you run litecoind, it will start downloading the blockchain. This process could take many hours, or even days on slower than average systems.
+The first time you run litercoind, it will start downloading the blockchain. This process could take many hours, or even days on slower than average systems.
 
 You can monitor the download process by looking at the debug.log file:
 
@@ -107,9 +107,9 @@ You can monitor the download process by looking at the debug.log file:
 Other commands:
 -------
 
-    ./src/litecoind -daemon # Starts the litecoin daemon.
-    ./src/litecoin-cli --help # Outputs a list of command-line options.
-    ./src/litecoin-cli help # Outputs a list of RPC commands when the daemon is running.
+    ./src/litercoind -daemon # Starts the litercoin daemon.
+    ./src/litercoin-cli --help # Outputs a list of command-line options.
+    ./src/litercoin-cli help # Outputs a list of RPC commands when the daemon is running.
 
 Notes
 -----

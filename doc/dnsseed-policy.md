@@ -44,11 +44,11 @@ related to the DNS seed operation.
 If these expectations cannot be satisfied the operator should
 discontinue providing services and contact the active Litercoin
 Core development team as well as posting on
-[litecoin-dev](https://groups.google.com/forum/#!forum/litecoin-dev).
+[litercoin-dev](https://groups.google.com/forum/#!forum/litercoin-dev).
 
 Behavior outside of these expectations may be reasonable in some
 situations but should be discussed in public in advance.
 
 See also
 ----------
-- [litecoin-seeder](https://github.com/pooler/litecoin-seeder) is a reference implementation of a DNS seed.
+- [litercoin-seeder](https://github.com/pooler/litercoin-seeder) is a reference implementation of a DNS seed.

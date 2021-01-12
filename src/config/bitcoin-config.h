@@ -364,7 +364,7 @@
 #define LT_OBJDIR ".libs/"
 
 /* Define to the address where bug reports for this package should be sent. */
-#define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
+#define PACKAGE_BUGREPORT "https://github.com/minblock/litercoin/issues"
 
 /* Define to the full name of this package. */
 #define PACKAGE_NAME "Litercoin Core"
@@ -373,10 +373,10 @@
 #define PACKAGE_STRING "Litercoin Core 0.18.1"
 
 /* Define to the one symbol short name of this package. */
-#define PACKAGE_TARNAME "litecoin"
+#define PACKAGE_TARNAME "litercoin"
 
 /* Define to the home page for this package. */
-#define PACKAGE_URL "https://litecoin.org/"
+#define PACKAGE_URL "https://litercoin.org/"
 
 /* Define to the version of this package. */
 #define PACKAGE_VERSION "0.18.1"

@@ -171,11 +171,11 @@ configure:5136: $? = 1
 configure: failed program was:
 | /* confdefs.h */
 | #define PACKAGE_NAME "Litercoin Core"
-| #define PACKAGE_TARNAME "litecoin"
+| #define PACKAGE_TARNAME "litercoin"
 | #define PACKAGE_VERSION "0.18.1"
 | #define PACKAGE_STRING "Litercoin Core 0.18.1"
-| #define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
-| #define PACKAGE_URL "https://litecoin.org/"
+| #define PACKAGE_BUGREPORT "https://github.com/minblock/litercoin/issues"
+| #define PACKAGE_URL "https://litercoin.org/"
 | #define HAVE_CXX11 1
 | /* end confdefs.h.  */
 | 
@@ -197,11 +197,11 @@ configure:5174: $? = 1
 configure: failed program was:
 | /* confdefs.h */
 | #define PACKAGE_NAME "Litercoin Core"
-| #define PACKAGE_TARNAME "litecoin"
+| #define PACKAGE_TARNAME "litercoin"
 | #define PACKAGE_VERSION "0.18.1"
 | #define PACKAGE_STRING "Litercoin Core 0.18.1"
-| #define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
-| #define PACKAGE_URL "https://litecoin.org/"
+| #define PACKAGE_BUGREPORT "https://github.com/minblock/litercoin/issues"
+| #define PACKAGE_URL "https://litercoin.org/"
 | #define HAVE_CXX11 1
 | /* end confdefs.h.  */
 | 
@@ -218,11 +218,11 @@ configure:5189: $? = 1
 configure: failed program was:
 | /* confdefs.h */
 | #define PACKAGE_NAME "Litercoin Core"
-| #define PACKAGE_TARNAME "litecoin"
+| #define PACKAGE_TARNAME "litercoin"
 | #define PACKAGE_VERSION "0.18.1"
 | #define PACKAGE_STRING "Litercoin Core 0.18.1"
-| #define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
-| #define PACKAGE_URL "https://litecoin.org/"
+| #define PACKAGE_BUGREPORT "https://github.com/minblock/litercoin/issues"
+| #define PACKAGE_URL "https://litercoin.org/"
 | #define HAVE_CXX11 1
 | /* end confdefs.h.  */
 | 
@@ -239,11 +239,11 @@ configure:5205: $? = 1
 configure: failed program was:
 | /* confdefs.h */
 | #define PACKAGE_NAME "Litercoin Core"
-| #define PACKAGE_TARNAME "litecoin"
+| #define PACKAGE_TARNAME "litercoin"
 | #define PACKAGE_VERSION "0.18.1"
 | #define PACKAGE_STRING "Litercoin Core 0.18.1"
-| #define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
-| #define PACKAGE_URL "https://litecoin.org/"
+| #define PACKAGE_BUGREPORT "https://github.com/minblock/litercoin/issues"
+| #define PACKAGE_URL "https://litercoin.org/"
 | #define HAVE_CXX11 1
 | /* end confdefs.h.  */
 | 
@@ -404,11 +404,11 @@ configure:9560: $? = 1
 configure: failed program was:
 | /* confdefs.h */
 | #define PACKAGE_NAME "Litercoin Core"
-| #define PACKAGE_TARNAME "litecoin"
+| #define PACKAGE_TARNAME "litercoin"
 | #define PACKAGE_VERSION "0.18.1"
 | #define PACKAGE_STRING "Litercoin Core 0.18.1"
-| #define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
-| #define PACKAGE_URL "https://litecoin.org/"
+| #define PACKAGE_BUGREPORT "https://github.com/minblock/litercoin/issues"
+| #define PACKAGE_URL "https://litercoin.org/"
 | #define HAVE_CXX11 1
 | /* end confdefs.h.  */
 | #include <ac_nonexistent.h>
@@ -424,11 +424,11 @@ configure:9619: $? = 1
 configure: failed program was:
 | /* confdefs.h */
 | #define PACKAGE_NAME "Litercoin Core"
-| #define PACKAGE_TARNAME "litecoin"
+| #define PACKAGE_TARNAME "litercoin"
 | #define PACKAGE_VERSION "0.18.1"
 | #define PACKAGE_STRING "Litercoin Core 0.18.1"
-| #define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
-| #define PACKAGE_URL "https://litecoin.org/"
+| #define PACKAGE_BUGREPORT "https://github.com/minblock/litercoin/issues"
+| #define PACKAGE_URL "https://litercoin.org/"
 | #define HAVE_CXX11 1
 | /* end confdefs.h.  */
 | #include <ac_nonexistent.h>
@@ -535,11 +535,11 @@ configure:14142: $? = 1
 configure: failed program was:
 | /* confdefs.h */
 | #define PACKAGE_NAME "Litercoin Core"
-| #define PACKAGE_TARNAME "litecoin"
+| #define PACKAGE_TARNAME "litercoin"
 | #define PACKAGE_VERSION "0.18.1"
 | #define PACKAGE_STRING "Litercoin Core 0.18.1"
-| #define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
-| #define PACKAGE_URL "https://litecoin.org/"
+| #define PACKAGE_BUGREPORT "https://github.com/minblock/litercoin/issues"
+| #define PACKAGE_URL "https://litercoin.org/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
 | #define HAVE_SYS_TYPES_H 1
@@ -567,11 +567,11 @@ configure:14201: $? = 1
 configure: failed program was:
 | /* confdefs.h */
 | #define PACKAGE_NAME "Litercoin Core"
-| #define PACKAGE_TARNAME "litecoin"
+| #define PACKAGE_TARNAME "litercoin"
 | #define PACKAGE_VERSION "0.18.1"
 | #define PACKAGE_STRING "Litercoin Core 0.18.1"
-| #define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
-| #define PACKAGE_URL "https://litecoin.org/"
+| #define PACKAGE_BUGREPORT "https://github.com/minblock/litercoin/issues"
+| #define PACKAGE_URL "https://litercoin.org/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
 | #define HAVE_SYS_TYPES_H 1
@@ -691,11 +691,11 @@ configure:19386: $? = 1
 configure: failed program was:
 | /* confdefs.h */
 | #define PACKAGE_NAME "Litercoin Core"
-| #define PACKAGE_TARNAME "litecoin"
+| #define PACKAGE_TARNAME "litercoin"
 | #define PACKAGE_VERSION "0.18.1"
 | #define PACKAGE_STRING "Litercoin Core 0.18.1"
-| #define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
-| #define PACKAGE_URL "https://litecoin.org/"
+| #define PACKAGE_BUGREPORT "https://github.com/minblock/litercoin/issues"
+| #define PACKAGE_URL "https://litercoin.org/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
 | #define HAVE_SYS_TYPES_H 1
@@ -727,11 +727,11 @@ configure:19423: $? = 1
 configure: failed program was:
 | /* confdefs.h */
 | #define PACKAGE_NAME "Litercoin Core"
-| #define PACKAGE_TARNAME "litecoin"
+| #define PACKAGE_TARNAME "litercoin"
 | #define PACKAGE_VERSION "0.18.1"
 | #define PACKAGE_STRING "Litercoin Core 0.18.1"
-| #define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
-| #define PACKAGE_URL "https://litecoin.org/"
+| #define PACKAGE_BUGREPORT "https://github.com/minblock/litercoin/issues"
+| #define PACKAGE_URL "https://litercoin.org/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
 | #define HAVE_SYS_TYPES_H 1
@@ -771,11 +771,11 @@ configure:19538: $? = 1
 configure: failed program was:
 | /* confdefs.h */
 | #define PACKAGE_NAME "Litercoin Core"
-| #define PACKAGE_TARNAME "litecoin"
+| #define PACKAGE_TARNAME "litercoin"
 | #define PACKAGE_VERSION "0.18.1"
 | #define PACKAGE_STRING "Litercoin Core 0.18.1"
-| #define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
-| #define PACKAGE_URL "https://litecoin.org/"
+| #define PACKAGE_BUGREPORT "https://github.com/minblock/litercoin/issues"
+| #define PACKAGE_URL "https://litercoin.org/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
 | #define HAVE_SYS_TYPES_H 1
@@ -807,11 +807,11 @@ configure:19575: $? = 1
 configure: failed program was:
 | /* confdefs.h */
 | #define PACKAGE_NAME "Litercoin Core"
-| #define PACKAGE_TARNAME "litecoin"
+| #define PACKAGE_TARNAME "litercoin"
 | #define PACKAGE_VERSION "0.18.1"
 | #define PACKAGE_STRING "Litercoin Core 0.18.1"
-| #define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
-| #define PACKAGE_URL "https://litecoin.org/"
+| #define PACKAGE_BUGREPORT "https://github.com/minblock/litercoin/issues"
+| #define PACKAGE_URL "https://litercoin.org/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
 | #define HAVE_SYS_TYPES_H 1
@@ -843,11 +843,11 @@ configure:19612: $? = 1
 configure: failed program was:
 | /* confdefs.h */
 | #define PACKAGE_NAME "Litercoin Core"
-| #define PACKAGE_TARNAME "litecoin"
+| #define PACKAGE_TARNAME "litercoin"
 | #define PACKAGE_VERSION "0.18.1"
 | #define PACKAGE_STRING "Litercoin Core 0.18.1"
-| #define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
-| #define PACKAGE_URL "https://litecoin.org/"
+| #define PACKAGE_BUGREPORT "https://github.com/minblock/litercoin/issues"
+| #define PACKAGE_URL "https://litercoin.org/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
 | #define HAVE_SYS_TYPES_H 1
@@ -922,11 +922,11 @@ configure:21822: $? = 1
 configure: failed program was:
 | /* confdefs.h */
 | #define PACKAGE_NAME "Litercoin Core"
-| #define PACKAGE_TARNAME "litecoin"
+| #define PACKAGE_TARNAME "litercoin"
 | #define PACKAGE_VERSION "0.18.1"
 | #define PACKAGE_STRING "Litercoin Core 0.18.1"
-| #define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
-| #define PACKAGE_URL "https://litecoin.org/"
+| #define PACKAGE_BUGREPORT "https://github.com/minblock/litercoin/issues"
+| #define PACKAGE_URL "https://litercoin.org/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
 | #define HAVE_SYS_TYPES_H 1
@@ -961,11 +961,11 @@ configure:21885: $? = 1
 configure: failed program was:
 | /* confdefs.h */
 | #define PACKAGE_NAME "Litercoin Core"
-| #define PACKAGE_TARNAME "litecoin"
+| #define PACKAGE_TARNAME "litercoin"
 | #define PACKAGE_VERSION "0.18.1"
 | #define PACKAGE_STRING "Litercoin Core 0.18.1"
-| #define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
-| #define PACKAGE_URL "https://litecoin.org/"
+| #define PACKAGE_BUGREPORT "https://github.com/minblock/litercoin/issues"
+| #define PACKAGE_URL "https://litercoin.org/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
 | #define HAVE_SYS_TYPES_H 1
@@ -1041,11 +1041,11 @@ configure:23002: $? = 1
 configure: failed program was:
 | /* confdefs.h */
 | #define PACKAGE_NAME "Litercoin Core"
-| #define PACKAGE_TARNAME "litecoin"
+| #define PACKAGE_TARNAME "litercoin"
 | #define PACKAGE_VERSION "0.18.1"
 | #define PACKAGE_STRING "Litercoin Core 0.18.1"
-| #define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
-| #define PACKAGE_URL "https://litecoin.org/"
+| #define PACKAGE_BUGREPORT "https://github.com/minblock/litercoin/issues"
+| #define PACKAGE_URL "https://litercoin.org/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
 | #define HAVE_SYS_TYPES_H 1
@@ -1133,11 +1133,11 @@ configure:23754: $? = 1
 configure: failed program was:
 | /* confdefs.h */
 | #define PACKAGE_NAME "Litercoin Core"
-| #define PACKAGE_TARNAME "litecoin"
+| #define PACKAGE_TARNAME "litercoin"
 | #define PACKAGE_VERSION "0.18.1"
 | #define PACKAGE_STRING "Litercoin Core 0.18.1"
-| #define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
-| #define PACKAGE_URL "https://litecoin.org/"
+| #define PACKAGE_BUGREPORT "https://github.com/minblock/litercoin/issues"
+| #define PACKAGE_URL "https://litercoin.org/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
 | #define HAVE_SYS_TYPES_H 1
@@ -1180,11 +1180,11 @@ configure:23790: $? = 1
 configure: failed program was:
 | /* confdefs.h */
 | #define PACKAGE_NAME "Litercoin Core"
-| #define PACKAGE_TARNAME "litecoin"
+| #define PACKAGE_TARNAME "litercoin"
 | #define PACKAGE_VERSION "0.18.1"
 | #define PACKAGE_STRING "Litercoin Core 0.18.1"
-| #define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
-| #define PACKAGE_URL "https://litecoin.org/"
+| #define PACKAGE_BUGREPORT "https://github.com/minblock/litercoin/issues"
+| #define PACKAGE_URL "https://litercoin.org/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
 | #define HAVE_SYS_TYPES_H 1
@@ -1227,11 +1227,11 @@ configure:23826: $? = 1
 configure: failed program was:
 | /* confdefs.h */
 | #define PACKAGE_NAME "Litercoin Core"
-| #define PACKAGE_TARNAME "litecoin"
+| #define PACKAGE_TARNAME "litercoin"
 | #define PACKAGE_VERSION "0.18.1"
 | #define PACKAGE_STRING "Litercoin Core 0.18.1"
-| #define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
-| #define PACKAGE_URL "https://litecoin.org/"
+| #define PACKAGE_BUGREPORT "https://github.com/minblock/litercoin/issues"
+| #define PACKAGE_URL "https://litercoin.org/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
 | #define HAVE_SYS_TYPES_H 1
@@ -1297,11 +1297,11 @@ configure:24043: $? = 1
 configure: failed program was:
 | /* confdefs.h */
 | #define PACKAGE_NAME "Litercoin Core"
-| #define PACKAGE_TARNAME "litecoin"
+| #define PACKAGE_TARNAME "litercoin"
 | #define PACKAGE_VERSION "0.18.1"
 | #define PACKAGE_STRING "Litercoin Core 0.18.1"
-| #define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
-| #define PACKAGE_URL "https://litecoin.org/"
+| #define PACKAGE_BUGREPORT "https://github.com/minblock/litercoin/issues"
+| #define PACKAGE_URL "https://litercoin.org/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
 | #define HAVE_SYS_TYPES_H 1
@@ -1372,11 +1372,11 @@ configure:24043: $? = 1
 configure: failed program was:
 | /* confdefs.h */
 | #define PACKAGE_NAME "Litercoin Core"
-| #define PACKAGE_TARNAME "litecoin"
+| #define PACKAGE_TARNAME "litercoin"
 | #define PACKAGE_VERSION "0.18.1"
 | #define PACKAGE_STRING "Litercoin Core 0.18.1"
-| #define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
-| #define PACKAGE_URL "https://litecoin.org/"
+| #define PACKAGE_BUGREPORT "https://github.com/minblock/litercoin/issues"
+| #define PACKAGE_URL "https://litercoin.org/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
 | #define HAVE_SYS_TYPES_H 1
@@ -1601,11 +1601,11 @@ configure:24570: $? = 1
 configure: failed program was:
 | /* confdefs.h */
 | #define PACKAGE_NAME "Litercoin Core"
-| #define PACKAGE_TARNAME "litecoin"
+| #define PACKAGE_TARNAME "litercoin"
 | #define PACKAGE_VERSION "0.18.1"
 | #define PACKAGE_STRING "Litercoin Core 0.18.1"
-| #define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
-| #define PACKAGE_URL "https://litecoin.org/"
+| #define PACKAGE_BUGREPORT "https://github.com/minblock/litercoin/issues"
+| #define PACKAGE_URL "https://litercoin.org/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
 | #define HAVE_SYS_TYPES_H 1
@@ -1690,11 +1690,11 @@ configure:24596: $? = 1
 configure: failed program was:
 | /* confdefs.h */
 | #define PACKAGE_NAME "Litercoin Core"
-| #define PACKAGE_TARNAME "litecoin"
+| #define PACKAGE_TARNAME "litercoin"
 | #define PACKAGE_VERSION "0.18.1"
 | #define PACKAGE_STRING "Litercoin Core 0.18.1"
-| #define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
-| #define PACKAGE_URL "https://litecoin.org/"
+| #define PACKAGE_BUGREPORT "https://github.com/minblock/litercoin/issues"
+| #define PACKAGE_URL "https://litercoin.org/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
 | #define HAVE_SYS_TYPES_H 1
@@ -1778,11 +1778,11 @@ configure:24698: $? = 1
 configure: failed program was:
 | /* confdefs.h */
 | #define PACKAGE_NAME "Litercoin Core"
-| #define PACKAGE_TARNAME "litecoin"
+| #define PACKAGE_TARNAME "litercoin"
 | #define PACKAGE_VERSION "0.18.1"
 | #define PACKAGE_STRING "Litercoin Core 0.18.1"
-| #define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
-| #define PACKAGE_URL "https://litecoin.org/"
+| #define PACKAGE_BUGREPORT "https://github.com/minblock/litercoin/issues"
+| #define PACKAGE_URL "https://litercoin.org/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
 | #define HAVE_SYS_TYPES_H 1
@@ -1869,11 +1869,11 @@ configure:24698: $? = 1
 configure: failed program was:
 | /* confdefs.h */
 | #define PACKAGE_NAME "Litercoin Core"
-| #define PACKAGE_TARNAME "litecoin"
+| #define PACKAGE_TARNAME "litercoin"
 | #define PACKAGE_VERSION "0.18.1"
 | #define PACKAGE_STRING "Litercoin Core 0.18.1"
-| #define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
-| #define PACKAGE_URL "https://litecoin.org/"
+| #define PACKAGE_BUGREPORT "https://github.com/minblock/litercoin/issues"
+| #define PACKAGE_URL "https://litercoin.org/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
 | #define HAVE_SYS_TYPES_H 1
@@ -1960,11 +1960,11 @@ configure:24698: $? = 1
 configure: failed program was:
 | /* confdefs.h */
 | #define PACKAGE_NAME "Litercoin Core"
-| #define PACKAGE_TARNAME "litecoin"
+| #define PACKAGE_TARNAME "litercoin"
 | #define PACKAGE_VERSION "0.18.1"
 | #define PACKAGE_STRING "Litercoin Core 0.18.1"
-| #define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
-| #define PACKAGE_URL "https://litecoin.org/"
+| #define PACKAGE_BUGREPORT "https://github.com/minblock/litercoin/issues"
+| #define PACKAGE_URL "https://litercoin.org/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
 | #define HAVE_SYS_TYPES_H 1
@@ -2051,11 +2051,11 @@ configure:24698: $? = 1
 configure: failed program was:
 | /* confdefs.h */
 | #define PACKAGE_NAME "Litercoin Core"
-| #define PACKAGE_TARNAME "litecoin"
+| #define PACKAGE_TARNAME "litercoin"
 | #define PACKAGE_VERSION "0.18.1"
 | #define PACKAGE_STRING "Litercoin Core 0.18.1"
-| #define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
-| #define PACKAGE_URL "https://litecoin.org/"
+| #define PACKAGE_BUGREPORT "https://github.com/minblock/litercoin/issues"
+| #define PACKAGE_URL "https://litercoin.org/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
 | #define HAVE_SYS_TYPES_H 1
@@ -2142,11 +2142,11 @@ configure:24698: $? = 1
 configure: failed program was:
 | /* confdefs.h */
 | #define PACKAGE_NAME "Litercoin Core"
-| #define PACKAGE_TARNAME "litecoin"
+| #define PACKAGE_TARNAME "litercoin"
 | #define PACKAGE_VERSION "0.18.1"
 | #define PACKAGE_STRING "Litercoin Core 0.18.1"
-| #define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
-| #define PACKAGE_URL "https://litecoin.org/"
+| #define PACKAGE_BUGREPORT "https://github.com/minblock/litercoin/issues"
+| #define PACKAGE_URL "https://litercoin.org/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
 | #define HAVE_SYS_TYPES_H 1
@@ -2233,11 +2233,11 @@ configure:24698: $? = 1
 configure: failed program was:
 | /* confdefs.h */
 | #define PACKAGE_NAME "Litercoin Core"
-| #define PACKAGE_TARNAME "litecoin"
+| #define PACKAGE_TARNAME "litercoin"
 | #define PACKAGE_VERSION "0.18.1"
 | #define PACKAGE_STRING "Litercoin Core 0.18.1"
-| #define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
-| #define PACKAGE_URL "https://litecoin.org/"
+| #define PACKAGE_BUGREPORT "https://github.com/minblock/litercoin/issues"
+| #define PACKAGE_URL "https://litercoin.org/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
 | #define HAVE_SYS_TYPES_H 1
@@ -2324,11 +2324,11 @@ configure:24698: $? = 1
 configure: failed program was:
 | /* confdefs.h */
 | #define PACKAGE_NAME "Litercoin Core"
-| #define PACKAGE_TARNAME "litecoin"
+| #define PACKAGE_TARNAME "litercoin"
 | #define PACKAGE_VERSION "0.18.1"
 | #define PACKAGE_STRING "Litercoin Core 0.18.1"
-| #define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
-| #define PACKAGE_URL "https://litecoin.org/"
+| #define PACKAGE_BUGREPORT "https://github.com/minblock/litercoin/issues"
+| #define PACKAGE_URL "https://litercoin.org/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
 | #define HAVE_SYS_TYPES_H 1
@@ -2415,11 +2415,11 @@ configure:24698: $? = 1
 configure: failed program was:
 | /* confdefs.h */
 | #define PACKAGE_NAME "Litercoin Core"
-| #define PACKAGE_TARNAME "litecoin"
+| #define PACKAGE_TARNAME "litercoin"
 | #define PACKAGE_VERSION "0.18.1"
 | #define PACKAGE_STRING "Litercoin Core 0.18.1"
-| #define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
-| #define PACKAGE_URL "https://litecoin.org/"
+| #define PACKAGE_BUGREPORT "https://github.com/minblock/litercoin/issues"
+| #define PACKAGE_URL "https://litercoin.org/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
 | #define HAVE_SYS_TYPES_H 1
@@ -2506,11 +2506,11 @@ configure:24698: $? = 1
 configure: failed program was:
 | /* confdefs.h */
 | #define PACKAGE_NAME "Litercoin Core"
-| #define PACKAGE_TARNAME "litecoin"
+| #define PACKAGE_TARNAME "litercoin"
 | #define PACKAGE_VERSION "0.18.1"
 | #define PACKAGE_STRING "Litercoin Core 0.18.1"
-| #define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
-| #define PACKAGE_URL "https://litecoin.org/"
+| #define PACKAGE_BUGREPORT "https://github.com/minblock/litercoin/issues"
+| #define PACKAGE_URL "https://litercoin.org/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
 | #define HAVE_SYS_TYPES_H 1
@@ -2597,11 +2597,11 @@ configure:24698: $? = 1
 configure: failed program was:
 | /* confdefs.h */
 | #define PACKAGE_NAME "Litercoin Core"
-| #define PACKAGE_TARNAME "litecoin"
+| #define PACKAGE_TARNAME "litercoin"
 | #define PACKAGE_VERSION "0.18.1"
 | #define PACKAGE_STRING "Litercoin Core 0.18.1"
-| #define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
-| #define PACKAGE_URL "https://litecoin.org/"
+| #define PACKAGE_BUGREPORT "https://github.com/minblock/litercoin/issues"
+| #define PACKAGE_URL "https://litercoin.org/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
 | #define HAVE_SYS_TYPES_H 1
@@ -2688,11 +2688,11 @@ configure:24698: $? = 1
 configure: failed program was:
 | /* confdefs.h */
 | #define PACKAGE_NAME "Litercoin Core"
-| #define PACKAGE_TARNAME "litecoin"
+| #define PACKAGE_TARNAME "litercoin"
 | #define PACKAGE_VERSION "0.18.1"
 | #define PACKAGE_STRING "Litercoin Core 0.18.1"
-| #define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
-| #define PACKAGE_URL "https://litecoin.org/"
+| #define PACKAGE_BUGREPORT "https://github.com/minblock/litercoin/issues"
+| #define PACKAGE_URL "https://litercoin.org/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
 | #define HAVE_SYS_TYPES_H 1
@@ -2779,11 +2779,11 @@ configure:24698: $? = 1
 configure: failed program was:
 | /* confdefs.h */
 | #define PACKAGE_NAME "Litercoin Core"
-| #define PACKAGE_TARNAME "litecoin"
+| #define PACKAGE_TARNAME "litercoin"
 | #define PACKAGE_VERSION "0.18.1"
 | #define PACKAGE_STRING "Litercoin Core 0.18.1"
-| #define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
-| #define PACKAGE_URL "https://litecoin.org/"
+| #define PACKAGE_BUGREPORT "https://github.com/minblock/litercoin/issues"
+| #define PACKAGE_URL "https://litercoin.org/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
 | #define HAVE_SYS_TYPES_H 1
@@ -2870,11 +2870,11 @@ configure:24698: $? = 1
 configure: failed program was:
 | /* confdefs.h */
 | #define PACKAGE_NAME "Litercoin Core"
-| #define PACKAGE_TARNAME "litecoin"
+| #define PACKAGE_TARNAME "litercoin"
 | #define PACKAGE_VERSION "0.18.1"
 | #define PACKAGE_STRING "Litercoin Core 0.18.1"
-| #define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
-| #define PACKAGE_URL "https://litecoin.org/"
+| #define PACKAGE_BUGREPORT "https://github.com/minblock/litercoin/issues"
+| #define PACKAGE_URL "https://litercoin.org/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
 | #define HAVE_SYS_TYPES_H 1
@@ -2961,11 +2961,11 @@ configure:24698: $? = 1
 configure: failed program was:
 | /* confdefs.h */
 | #define PACKAGE_NAME "Litercoin Core"
-| #define PACKAGE_TARNAME "litecoin"
+| #define PACKAGE_TARNAME "litercoin"
 | #define PACKAGE_VERSION "0.18.1"
 | #define PACKAGE_STRING "Litercoin Core 0.18.1"
-| #define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
-| #define PACKAGE_URL "https://litecoin.org/"
+| #define PACKAGE_BUGREPORT "https://github.com/minblock/litercoin/issues"
+| #define PACKAGE_URL "https://litercoin.org/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
 | #define HAVE_SYS_TYPES_H 1
@@ -3052,11 +3052,11 @@ configure:24698: $? = 1
 configure: failed program was:
 | /* confdefs.h */
 | #define PACKAGE_NAME "Litercoin Core"
-| #define PACKAGE_TARNAME "litecoin"
+| #define PACKAGE_TARNAME "litercoin"
 | #define PACKAGE_VERSION "0.18.1"
 | #define PACKAGE_STRING "Litercoin Core 0.18.1"
-| #define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
-| #define PACKAGE_URL "https://litecoin.org/"
+| #define PACKAGE_BUGREPORT "https://github.com/minblock/litercoin/issues"
+| #define PACKAGE_URL "https://litercoin.org/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
 | #define HAVE_SYS_TYPES_H 1
@@ -3143,11 +3143,11 @@ configure:24698: $? = 1
 configure: failed program was:
 | /* confdefs.h */
 | #define PACKAGE_NAME "Litercoin Core"
-| #define PACKAGE_TARNAME "litecoin"
+| #define PACKAGE_TARNAME "litercoin"
 | #define PACKAGE_VERSION "0.18.1"
 | #define PACKAGE_STRING "Litercoin Core 0.18.1"
-| #define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
-| #define PACKAGE_URL "https://litecoin.org/"
+| #define PACKAGE_BUGREPORT "https://github.com/minblock/litercoin/issues"
+| #define PACKAGE_URL "https://litercoin.org/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
 | #define HAVE_SYS_TYPES_H 1
@@ -3234,11 +3234,11 @@ configure:24698: $? = 1
 configure: failed program was:
 | /* confdefs.h */
 | #define PACKAGE_NAME "Litercoin Core"
-| #define PACKAGE_TARNAME "litecoin"
+| #define PACKAGE_TARNAME "litercoin"
 | #define PACKAGE_VERSION "0.18.1"
 | #define PACKAGE_STRING "Litercoin Core 0.18.1"
-| #define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
-| #define PACKAGE_URL "https://litecoin.org/"
+| #define PACKAGE_BUGREPORT "https://github.com/minblock/litercoin/issues"
+| #define PACKAGE_URL "https://litercoin.org/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
 | #define HAVE_SYS_TYPES_H 1
@@ -3325,11 +3325,11 @@ configure:24698: $? = 1
 configure: failed program was:
 | /* confdefs.h */
 | #define PACKAGE_NAME "Litercoin Core"
-| #define PACKAGE_TARNAME "litecoin"
+| #define PACKAGE_TARNAME "litercoin"
 | #define PACKAGE_VERSION "0.18.1"
 | #define PACKAGE_STRING "Litercoin Core 0.18.1"
-| #define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
-| #define PACKAGE_URL "https://litecoin.org/"
+| #define PACKAGE_BUGREPORT "https://github.com/minblock/litercoin/issues"
+| #define PACKAGE_URL "https://litercoin.org/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
 | #define HAVE_SYS_TYPES_H 1
@@ -3497,11 +3497,11 @@ configure:26375: $? = 1
 configure: failed program was:
 | /* confdefs.h */
 | #define PACKAGE_NAME "Litercoin Core"
-| #define PACKAGE_TARNAME "litecoin"
+| #define PACKAGE_TARNAME "litercoin"
 | #define PACKAGE_VERSION "0.18.1"
 | #define PACKAGE_STRING "Litercoin Core 0.18.1"
-| #define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
-| #define PACKAGE_URL "https://litecoin.org/"
+| #define PACKAGE_BUGREPORT "https://github.com/minblock/litercoin/issues"
+| #define PACKAGE_URL "https://litercoin.org/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
 | #define HAVE_SYS_TYPES_H 1
@@ -3601,11 +3601,11 @@ configure:28245: $? = 1
 configure: failed program was:
 | /* confdefs.h */
 | #define PACKAGE_NAME "Litercoin Core"
-| #define PACKAGE_TARNAME "litecoin"
+| #define PACKAGE_TARNAME "litercoin"
 | #define PACKAGE_VERSION "0.18.1"
 | #define PACKAGE_STRING "Litercoin Core 0.18.1"
-| #define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
-| #define PACKAGE_URL "https://litecoin.org/"
+| #define PACKAGE_BUGREPORT "https://github.com/minblock/litercoin/issues"
+| #define PACKAGE_URL "https://litercoin.org/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
 | #define HAVE_SYS_TYPES_H 1
@@ -3798,11 +3798,11 @@ configure:30695: $? = 1
 configure: failed program was:
 | /* confdefs.h */
 | #define PACKAGE_NAME "Litercoin Core"
-| #define PACKAGE_TARNAME "litecoin"
+| #define PACKAGE_TARNAME "litercoin"
 | #define PACKAGE_VERSION "0.18.1"
 | #define PACKAGE_STRING "Litercoin Core 0.18.1"
-| #define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
-| #define PACKAGE_URL "https://litecoin.org/"
+| #define PACKAGE_BUGREPORT "https://github.com/minblock/litercoin/issues"
+| #define PACKAGE_URL "https://litercoin.org/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
 | #define HAVE_SYS_TYPES_H 1
@@ -3967,11 +3967,11 @@ configure:31725: $? = 1
 configure: failed program was:
 | /* confdefs.h */
 | #define PACKAGE_NAME "Litercoin Core"
-| #define PACKAGE_TARNAME "litecoin"
+| #define PACKAGE_TARNAME "litercoin"
 | #define PACKAGE_VERSION "0.18.1"
 | #define PACKAGE_STRING "Litercoin Core 0.18.1"
-| #define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
-| #define PACKAGE_URL "https://litecoin.org/"
+| #define PACKAGE_BUGREPORT "https://github.com/minblock/litercoin/issues"
+| #define PACKAGE_URL "https://litercoin.org/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
 | #define HAVE_SYS_TYPES_H 1
@@ -4093,11 +4093,11 @@ configure:31725: $? = 1
 configure: failed program was:
 | /* confdefs.h */
 | #define PACKAGE_NAME "Litercoin Core"
-| #define PACKAGE_TARNAME "litecoin"
+| #define PACKAGE_TARNAME "litercoin"
 | #define PACKAGE_VERSION "0.18.1"
 | #define PACKAGE_STRING "Litercoin Core 0.18.1"
-| #define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
-| #define PACKAGE_URL "https://litecoin.org/"
+| #define PACKAGE_BUGREPORT "https://github.com/minblock/litercoin/issues"
+| #define PACKAGE_URL "https://litercoin.org/"
 | #define HAVE_CXX11 1
 | #define STDC_HEADERS 1
 | #define HAVE_SYS_TYPES_H 1
@@ -4181,13 +4181,13 @@ configure:31725: result: no
 configure:31976: checking for protoc
 configure:31994: found /usr/bin/protoc
 configure:32006: result: /usr/bin/protoc
-configure:32041: checking whether to build litecoind
+configure:32041: checking whether to build litercoind
 configure:32051: result: yes
-configure:32054: checking whether to build litecoin-cli
+configure:32054: checking whether to build litercoin-cli
 configure:32064: result: yes
-configure:32067: checking whether to build litecoin-tx
+configure:32067: checking whether to build litercoin-tx
 configure:32077: result: yes
-configure:32080: checking whether to build litecoin-wallet
+configure:32080: checking whether to build litercoin-wallet
 configure:32090: result: yes
 configure:32093: checking whether to build libraries
 configure:32110: result: yes
@@ -4204,11 +4204,11 @@ configure:32236: result: yes
 configure:32239: checking whether to build GUI with support for QR codes
 configure:32245: result: no
 configure:32262: WARNING: "xgettext is required to update qt translations"
-configure:32266: checking whether to build test_litecoin-qt
+configure:32266: checking whether to build test_litercoin-qt
 configure:32269: result: yes
 configure:32277: checking whether to build BIP70 support
 configure:32292: result: yes
-configure:32310: checking whether to build test_litecoin
+configure:32310: checking whether to build test_litercoin
 configure:32313: result: yes
 configure:32322: checking whether to enable sse2 instructions
 configure:32333: result: no
@@ -4244,9 +4244,9 @@ config.status:1471: creating contrib/devtools/split-debug.sh
 config.status:1471: creating src/config/bitcoin-config.h
 config.status:1731: executing depfiles commands
 config.status:1731: executing libtool commands
-configure:35446: === configuring in src/univalue (/home/stevecat/litecoin/src/univalue)
+configure:35446: === configuring in src/univalue (/home/stevecat/litercoin/src/univalue)
 configure:35509: running /bin/bash ./configure --disable-option-checking '--prefix=/usr/local'  '--disable-shared' '--with-pic' '--with-bignum=no' '--enable-module-recovery' '--disable-jni' --cache-file=/dev/null --srcdir=.
-configure:35446: === configuring in src/secp256k1 (/home/stevecat/litecoin/src/secp256k1)
+configure:35446: === configuring in src/secp256k1 (/home/stevecat/litercoin/src/secp256k1)
 configure:35509: running /bin/bash ./configure --disable-option-checking '--prefix=/usr/local'  '--disable-shared' '--with-pic' '--with-bignum=no' '--enable-module-recovery' '--disable-jni' --cache-file=/dev/null --srcdir=.
 configure:35528: result: Fixing libtool for -rpath problems.
 
@@ -4602,7 +4602,7 @@ pkg_cv_ZMQ_LIBS=-lzmq
 ## Output variables. ##
 ## ----------------- ##
 
-ACLOCAL='${SHELL} /home/stevecat/litecoin/build-aux/missing aclocal-1.15'
+ACLOCAL='${SHELL} /home/stevecat/litercoin/build-aux/missing aclocal-1.15'
 AMDEPBACKSLASH='\'
 AMDEP_FALSE='#'
 AMDEP_TRUE=''
@@ -4613,19 +4613,19 @@ AM_DEFAULT_VERBOSITY='0'
 AM_V='$(V)'
 AR='/usr/bin/ar'
 ARFLAGS='cr'
-AUTOCONF='${SHELL} /home/stevecat/litecoin/build-aux/missing autoconf'
-AUTOHEADER='${SHELL} /home/stevecat/litecoin/build-aux/missing autoheader'
-AUTOMAKE='${SHELL} /home/stevecat/litecoin/build-aux/missing automake-1.15'
+AUTOCONF='${SHELL} /home/stevecat/litercoin/build-aux/missing autoconf'
+AUTOHEADER='${SHELL} /home/stevecat/litercoin/build-aux/missing autoheader'
+AUTOMAKE='${SHELL} /home/stevecat/litercoin/build-aux/missing automake-1.15'
 AVX2_CXXFLAGS='-mavx -mavx2'
 AWK='gawk'
 BDB_CFLAGS=''
 BDB_CPPFLAGS=''
 BDB_LIBS='-ldb_cxx-4.8'
-BITCOIN_CLI_NAME='litecoin-cli'
-BITCOIN_DAEMON_NAME='litecoind'
-BITCOIN_GUI_NAME='litecoin-qt'
-BITCOIN_TX_NAME='litecoin-tx'
-BITCOIN_WALLET_TOOL_NAME='litecoin-wallet'
+BITCOIN_CLI_NAME='litercoin-cli'
+BITCOIN_DAEMON_NAME='litercoind'
+BITCOIN_GUI_NAME='litercoin-qt'
+BITCOIN_TX_NAME='litercoin-tx'
+BITCOIN_WALLET_TOOL_NAME='litercoin-wallet'
 BOOST_CHRONO_LIB='-lboost_chrono'
 BOOST_CPPFLAGS='-DBOOST_SP_USE_STD_ATOMIC -DBOOST_AC_USE_STD_ATOMIC -pthread -I/usr/include'
 BOOST_FILESYSTEM_LIB='-lboost_filesystem'
@@ -4768,7 +4768,7 @@ LUPDATE='/usr/lib/qt5/bin/lupdate'
 MAINT=''
 MAINTAINER_MODE_FALSE='#'
 MAINTAINER_MODE_TRUE=''
-MAKEINFO='${SHELL} /home/stevecat/litecoin/build-aux/missing makeinfo'
+MAKEINFO='${SHELL} /home/stevecat/litercoin/build-aux/missing makeinfo'
 MAKENSIS=''
 MANIFEST_TOOL=':'
 MINIUPNPC_CPPFLAGS=''
@@ -4787,12 +4787,12 @@ OBJDUMP='objdump'
 OBJEXT='o'
 OTOOL64=''
 OTOOL=''
-PACKAGE='litecoin'
-PACKAGE_BUGREPORT='https://github.com/minblock/litecoin/issues'
+PACKAGE='litercoin'
+PACKAGE_BUGREPORT='https://github.com/minblock/litercoin/issues'
 PACKAGE_NAME='Litercoin Core'
 PACKAGE_STRING='Litercoin Core 0.18.1'
-PACKAGE_TARNAME='litecoin'
-PACKAGE_URL='https://litecoin.org/'
+PACKAGE_TARNAME='litercoin'
+PACKAGE_URL='https://litercoin.org/'
 PACKAGE_VERSION='0.18.1'
 PATH_SEPARATOR=':'
 PIC_FLAGS='-fPIC'
@@ -4932,7 +4932,7 @@ host_vendor='pc'
 htmldir='${docdir}'
 includedir='${prefix}/include'
 infodir='${datarootdir}/info'
-install_sh='${SHELL} /home/stevecat/litecoin/build-aux/install-sh'
+install_sh='${SHELL} /home/stevecat/litercoin/build-aux/install-sh'
 libdir='${exec_prefix}/lib'
 libexecdir='${exec_prefix}/libexec'
 localedir='${datarootdir}/locale'
@@ -4957,11 +4957,11 @@ target_alias=''
 
 /* confdefs.h */
 #define PACKAGE_NAME "Litercoin Core"
-#define PACKAGE_TARNAME "litecoin"
+#define PACKAGE_TARNAME "litercoin"
 #define PACKAGE_VERSION "0.18.1"
 #define PACKAGE_STRING "Litercoin Core 0.18.1"
-#define PACKAGE_BUGREPORT "https://github.com/minblock/litecoin/issues"
-#define PACKAGE_URL "https://litecoin.org/"
+#define PACKAGE_BUGREPORT "https://github.com/minblock/litercoin/issues"
+#define PACKAGE_URL "https://litercoin.org/"
 #define HAVE_CXX11 1
 #define STDC_HEADERS 1
 #define HAVE_SYS_TYPES_H 1
