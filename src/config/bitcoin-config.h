@@ -24,7 +24,7 @@
 #define CLIENT_VERSION_MINOR 18
 
 /* Build revision */
-#define CLIENT_VERSION_REVISION 1
+#define CLIENT_VERSION_REVISION 2
 
 /* Copyright holder(s) before %s replacement */
 #define COPYRIGHT_HOLDERS "The %s developers"
@@ -42,7 +42,7 @@
 #define ENABLE_AVX2 1
 
 /* Define if BIP70 support should be compiled in */
-#define ENABLE_BIP70 1
+/* #undef ENABLE_BIP70 */
 
 /* Define this symbol to build code that uses SHA-NI intrinsics */
 #define ENABLE_SHANI 1
@@ -51,10 +51,10 @@
 #define ENABLE_SSE41 1
 
 /* Define to 1 to enable wallet functions */
-#define ENABLE_WALLET 1
+/* #undef ENABLE_WALLET */
 
 /* Define to 1 to enable ZMQ functions */
-#define ENABLE_ZMQ 1
+#define ENABLE_ZMQ 0
 
 /* parameter and return value type for __fdelt_chk */
 /* #undef FDELT_TYPE */
@@ -286,16 +286,16 @@
 #define HAVE_MEMORY_H 1
 
 /* Define to 1 if you have the <miniupnpc/miniupnpc.h> header file. */
-#define HAVE_MINIUPNPC_MINIUPNPC_H 1
+/* #undef HAVE_MINIUPNPC_MINIUPNPC_H */
 
 /* Define to 1 if you have the <miniupnpc/miniwget.h> header file. */
-#define HAVE_MINIUPNPC_MINIWGET_H 1
+/* #undef HAVE_MINIUPNPC_MINIWGET_H */
 
 /* Define to 1 if you have the <miniupnpc/upnpcommands.h> header file. */
-#define HAVE_MINIUPNPC_UPNPCOMMANDS_H 1
+/* #undef HAVE_MINIUPNPC_UPNPCOMMANDS_H */
 
 /* Define to 1 if you have the <miniupnpc/upnperrors.h> header file. */
-#define HAVE_MINIUPNPC_UPNPERRORS_H 1
+/* #undef HAVE_MINIUPNPC_UPNPERRORS_H */
 
 /* Define if you have POSIX threads libraries and header files. */
 #define HAVE_PTHREAD 1
@@ -370,7 +370,7 @@
 #define PACKAGE_NAME "Litercoin Core"
 
 /* Define to the full name and version of this package. */
-#define PACKAGE_STRING "Litercoin Core 0.18.1"
+#define PACKAGE_STRING "Litercoin Core 0.18.2rc2"
 
 /* Define to the one symbol short name of this package. */
 #define PACKAGE_TARNAME "litercoin"
@@ -379,7 +379,7 @@
 #define PACKAGE_URL "https://litercoin.org/"
 
 /* Define to the version of this package. */
-#define PACKAGE_VERSION "0.18.1"
+#define PACKAGE_VERSION "0.18.2rc2"
 
 /* Define to necessary symbol if this constant uses a non-standard name on
    your system. */
@@ -413,7 +413,7 @@
 /* #undef USE_COVERAGE */
 
 /* Define if dbus support should be compiled in */
-#define USE_DBUS 1
+/* #undef USE_DBUS */
 
 /* Define if QR support should be compiled in */
 /* #undef USE_QRCODE */
@@ -423,7 +423,7 @@
 
 /* UPnP support not compiled if undefined, otherwise value (0 or 1) determines
    default state */
-#define USE_UPNP 0
+/* #undef USE_UPNP */
 
 /* Define WORDS_BIGENDIAN to 1 if your processor stores words with the most
    significant byte first (like Motorola and SPARC, unlike Intel). */

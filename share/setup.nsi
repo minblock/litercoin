@@ -9,11 +9,11 @@ SetCompressor /SOLID lzma
 !define URL https://litercoin.org/
 
 # MUI Symbol Definitions
-!define MUI_ICON "/home/stevecat/litercoin/share/pixmaps/bitcoin.ico"
-!define MUI_WELCOMEFINISHPAGE_BITMAP "/home/stevecat/litercoin/share/pixmaps/nsis-wizard.bmp"
+!define MUI_ICON "/home/stevecat/litecoin/share/pixmaps/bitcoin.ico"
+!define MUI_WELCOMEFINISHPAGE_BITMAP "/home/stevecat/litecoin/share/pixmaps/nsis-wizard.bmp"
 !define MUI_HEADERIMAGE
 !define MUI_HEADERIMAGE_RIGHT
-!define MUI_HEADERIMAGE_BITMAP "/home/stevecat/litercoin/share/pixmaps/nsis-header.bmp"
+!define MUI_HEADERIMAGE_BITMAP "/home/stevecat/litecoin/share/pixmaps/nsis-header.bmp"
 !define MUI_FINISHPAGE_NOAUTOCLOSE
 !define MUI_STARTMENUPAGE_REGISTRY_ROOT HKLM
 !define MUI_STARTMENUPAGE_REGISTRY_KEY ${REGKEY}
@@ -22,7 +22,7 @@ SetCompressor /SOLID lzma
 !define MUI_FINISHPAGE_RUN "$WINDIR\explorer.exe"
 !define MUI_FINISHPAGE_RUN_PARAMETERS $INSTDIR\litercoin-qt
 !define MUI_UNICON "${NSISDIR}\Contrib\Graphics\Icons\modern-uninstall.ico"
-!define MUI_UNWELCOMEFINISHPAGE_BITMAP "/home/stevecat/litercoin/share/pixmaps/nsis-wizard.bmp"
+!define MUI_UNWELCOMEFINISHPAGE_BITMAP "/home/stevecat/litecoin/share/pixmaps/nsis-wizard.bmp"
 !define MUI_UNFINISHPAGE_NOAUTOCLOSE
 
 # Included files
@@ -48,7 +48,7 @@ Var StartMenuGroup
 !insertmacro MUI_LANGUAGE English
 
 # Installer attributes
-OutFile /home/stevecat/litercoin/litercoin-0.18.1-win-setup.exe
+OutFile /home/stevecat/litecoin/litercoin-0.18.2rc2-win-setup.exe
 !if "" == "64"
 InstallDir $PROGRAMFILES64\Litercoin
 !else
@@ -58,12 +58,12 @@ CRCCheck on
 XPStyle on
 BrandingText " "
 ShowInstDetails show
-VIProductVersion 0.18.1.0
+VIProductVersion 0.18.2.0
 VIAddVersionKey ProductName "Litercoin Core"
-VIAddVersionKey ProductVersion "0.18.1"
+VIAddVersionKey ProductVersion "0.18.2rc2"
 VIAddVersionKey CompanyName "${COMPANY}"
 VIAddVersionKey CompanyWebsite "${URL}"
-VIAddVersionKey FileVersion "0.18.1"
+VIAddVersionKey FileVersion "0.18.2rc2"
 VIAddVersionKey FileDescription ""
 VIAddVersionKey LegalCopyright ""
 InstallDirRegKey HKCU "${REGKEY}" Path
@@ -73,16 +73,16 @@ ShowUninstDetails show
 Section -Main SEC0000
     SetOutPath $INSTDIR
     SetOverwrite on
-    File /home/stevecat/litercoin/release/litercoin-qt
-    File /oname=COPYING.txt /home/stevecat/litercoin/COPYING
-    File /oname=readme.txt /home/stevecat/litercoin/doc/README_windows.txt
+    File /home/stevecat/litecoin/release/litercoin-qt
+    File /oname=COPYING.txt /home/stevecat/litecoin/COPYING
+    File /oname=readme.txt /home/stevecat/litecoin/doc/README_windows.txt
     SetOutPath $INSTDIR\daemon
-    File /home/stevecat/litercoin/release/litercoind
-    File /home/stevecat/litercoin/release/litercoin-cli
-    File /home/stevecat/litercoin/release/litercoin-tx
-    File /home/stevecat/litercoin/release/litercoin-wallet
+    File /home/stevecat/litecoin/release/litercoind
+    File /home/stevecat/litecoin/release/litercoin-cli
+    File /home/stevecat/litecoin/release/litercoin-tx
+    File /home/stevecat/litecoin/release/litercoin-wallet
     SetOutPath $INSTDIR\doc
-    File /r /x Makefile* /home/stevecat/litercoin/doc\*.*
+    File /r /x Makefile* /home/stevecat/litecoin/doc\*.*
     SetOutPath $INSTDIR
     WriteRegStr HKCU "${REGKEY}\Components" Main 1
 SectionEnd
@@ -98,7 +98,7 @@ Section -post SEC0001
     CreateShortcut "$SMPROGRAMS\$StartMenuGroup\Uninstall $(^Name).lnk" $INSTDIR\uninstall.exe
     !insertmacro MUI_STARTMENU_WRITE_END
     WriteRegStr HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)" DisplayName "$(^Name)"
-    WriteRegStr HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)" DisplayVersion "0.18.1"
+    WriteRegStr HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)" DisplayVersion "0.18.2rc2"
     WriteRegStr HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)" Publisher "${COMPANY}"
     WriteRegStr HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)" URLInfoAbout "${URL}"
     WriteRegStr HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)" DisplayIcon $INSTDIR\uninstall.exe
