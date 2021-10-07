@@ -1,5 +1,5 @@
-Litercoin Core 0.14.2
-=====================
+Litercoin Core
+=============
 
 Intro
 -----
