@@ -121,9 +121,9 @@ public:
         // release ASAP to avoid it where possible.
         vSeeds.emplace_back("seed.picsco.in");
 
-        base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,55);
-        base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1,34); //Segwit paper address will begin with E or F
-        base58Prefixes[SCRIPT_ADDRESS2] = std::vector<unsigned char>(1,50);
+        base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,578); //Regular addresses will begin with Y
+        base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1,34); //Segwit testne paper address will begin with E or F
+        base58Prefixes[SCRIPT_ADDRESS2] = std::vector<unsigned char>(1,34);  //Segwit paper address will begin with E or F
         base58Prefixes[SECRET_KEY] =     std::vector<unsigned char>(1,176);
         base58Prefixes[EXT_PUBLIC_KEY] = {0x04, 0x88, 0xB2, 0x1E};
         base58Prefixes[EXT_SECRET_KEY] = {0x04, 0x88, 0xAD, 0xE4};
