@@ -106,8 +106,8 @@ public:
         pchMessageStart[3] = 0xdb;
         nDefaultPort = 7337;
         nPruneAfterHeight = 100000;
-        m_assumed_blockchain_size = 22;
-        m_assumed_chain_state_size = 3;
+        m_assumed_blockchain_size = 127;
+        m_assumed_chain_state_size = 30;
 
         genesis = CreateGenesisBlock(1632249642, 124853, 0x1e0ffff0, 1, 50 * COIN);
         consensus.hashGenesisBlock = genesis.GetHash();
@@ -121,9 +121,9 @@ public:
         // release ASAP to avoid it where possible.
         vSeeds.emplace_back("seed.picsco.in");
 
-        base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,578); //Regular addresses will begin with Y
+        base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,47); //Regular addresses will begin with K or L
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1,34); //Segwit testne paper address will begin with E or F
-        base58Prefixes[SCRIPT_ADDRESS2] = std::vector<unsigned char>(1,34);  //Segwit paper address will begin with E or F
+        base58Prefixes[SCRIPT_ADDRESS2] = std::vector<unsigned char>(1,102);  //Segwit paper address will begin with i
         base58Prefixes[SECRET_KEY] =     std::vector<unsigned char>(1,176);
         base58Prefixes[EXT_PUBLIC_KEY] = {0x04, 0x88, 0xB2, 0x1E};
         base58Prefixes[EXT_SECRET_KEY] = {0x04, 0x88, 0xAD, 0xE4};
@@ -140,18 +140,19 @@ public:
             {
                 {5000, uint256S("0x15238656e8ec63d28de29a8c75fcf3a5819afc953dcd9cc45cecc53baec74f38")},
                 {15409, uint256S("0xcf0f07aa430bfddaf9f51eeaf855b00c6484a78890eae91d53b87d5f1f7eba5e")},
+                {261564, uint256S("0x827fe40a38c7302b04a4f60b651f6f1de00b1182914f885506ffba8c3e8b026d")},
             }
         };
 
         chainTxData = ChainTxData{
             // Data from rpc: getchaintxstats 4096 2cdba8c47858d34cf0e02dfb8733263a3ed8705b1663ec7c158783d77b93e7ee
-            /* nTime    */ 163357603,
-            /* nTxCount */ 15410,
+            /* nTime    */ 1690650180,
+            /* nTxCount */ 261569,
             /* dTxRate  */ 0.88813310286546
         };
 
         /* disable fallback fee on mainnet */
-        m_fallback_fee_enabled = false;
+        m_fallback_fee_enabled = true;
     }
 };
 
